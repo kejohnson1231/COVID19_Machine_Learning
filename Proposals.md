@@ -1,23 +1,60 @@
-## High Level Description
+# Proposal 1 - Create a dataset and use it to study how certain factors are affecting COVID19 infection/death rates
 
-My goal for this project is to explore the dataset found on Kaggle containing COVID19, weather, and socio/health data for all counties in the US. I have a background and a strong interest in health and technology, so for this capstone I wanted to choose a topic in that realm. 
+### High Level Description
 
-https://www.kaggle.com/johnjdavisiv/us-counties-covid19-weather-sociohealth-data
-
-This data was made available during a recent Kaggle competition for predicting COVID19 outcomes. Although the competition is no longer active, I would like to use the data to find the best model for prediction, to practice tuning, ensemble/boosting methods, etc. 
+My goal for this project is to create a data set sourced from multiple websites. The data set will contain county by county information for COVID19 cases and COVID 19 deaths. It will also contain socio/economic data by county, and information about when the stay at home orders were announce and enforced. 
 
 
-## Approach
+### Approach
 
-My plan is to start with random forest, as that tends to work the best out of the box. I do also plan to verify that there isn't a better model for fitting the data intially. 
+First I will have to use scraping, APIs, githubs, to create a dataset that can be analyzed. I plan to initally explore the various features and how they interact with the number of cases, the number of cases per capita, and the death rate (number of deaths/number of cases). 
 
-Once I have a baseline score, I plan to tune my model and attempt to maximize accuracy without overfitting. This dataset is rather large and I think it will offer a lot of opportunity to apply the concepts we've gone over in the last couple of weeks. 
+For analysis I plan to start with random forest, as that tends to work the best out of the box. I do also plan to verify that there isn't a better model for fitting the data intially. 
+
+Once I have a baseline score, I plan to tune my model and attempt to maximize accuracy without overfitting. 
 
 I hope to present my work in either a clean notebook or slides. 
 
 
-## What are your data sources
+### What are your data sources
 
-Because my data is coming from pretty robust csv, I don't plan to use any webscraping. I want to confirm that this is okay. If not, I can look for a webscraping opportunity to build my own dataset, or add to this dataset with webscraping. 
+I am sourcing information from the following places: 
 
-You'll want to have specific sources of data identified. You can either use web scrapping or APIs to collect data. If it's the latter, you should probably use the API during the proposal process to ensure the dataset has the right fields to address your problems. Also note, that one week is short timeline for going through an entire project. As such, you should have every bite of data on day one of capstones. As your thinking about choosing between projects, collecting as much data on each topic is really useful in helping to inform what is possible.
+CDC.gov
+bea.gov
+healthpeople.gov
+fcc.gov
+archives.gov
+healthit.gov
+NYtimes github
+Johns Hopkins github
+Kaggle
+
+
+
+
+# Proposal 2 -Create a time series predicting COVID19 infections using data from the previous day
+
+### High Level Description
+
+
+### Approach
+
+
+### What are your data sources
+
+
+
+# Proposal 3 - Google searches relating to COVID19 
+
+
+### High Level Description
+
+
+### Approach
+
+
+
+### What are your data sources
+
+\
