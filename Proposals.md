@@ -12,13 +12,13 @@ I plan to explore various features and how they interact with the number of case
 
 First I will use scraping, APIs, githubs, to create a dataset that can be analyzed.
 
-For analysis I plan to start with random forest, as that tends to work the best out of the box. I do also plan to verify that there isn't a better model for fitting the data intially. 
+For analysis I plan to start with random forest, as that tends to work the best out of the box. I do also plan to verify that there isn't a better model for fitting the data intially. Also would like to use this as an opportunity to cement learning in gradient boosting, as model could potentially outperform random forest. 
 
 Once I have a baseline score, I plan to tune my model and attempt to maximize accuracy without overfitting. 
 
 I hope to present my work in either a clean notebook or slides. 
 
-Data would be organized by county. The features I would be interested in modeling would be things like personal income, demographics, broadband access,  distance from airports, date stay-home order announced, date stay home order enforced, health-it adoption.
+Data would be organized by county. The features I would be interested in modeling would be things like personal income, demographics, broadband access, election results (political leanings), distance from airports, date stay-home order announced, date stay home order enforced, health-it adoption.
 
 
 The target I am most interested in is death-rate, but also open to checking out other targets listed in high level description, especially if model is more meaningful. 
@@ -32,7 +32,8 @@ I am sourcing information from the following places:
 >> *bea.gov (personal income)  
 >> *healthypeople.gov (healthcare data but typically not parsed by region so may have limited applicability)  
 >> *fcc.gov (API to pull broadband data by county)  
->> *archives.gov/census.gov(demographic data)  
+>> *archives.gov (voting data, demographic data, survey data regarding social attitudes)
+>> *census.gov(demographic data)  
 >> *healthit.gov (statewide adoption of health it in hospital and ambulatory settings, API also available, would need to apply to all counties in state, not sure if that's a good idea)  
 >> *cms.gov (information about geographic requirements for telehealth reimbursements prior to COVID, potentially indicating readiness for switch to telehealth model by many healthcare providers)  
 >> *NYtimes github (raw data sets), API also available  
@@ -53,18 +54,27 @@ I am sourcing information from the following places:
 
 ### What are your data sources
 
+Johns Hopkins github/API releases case update data on a daily basis. 
+
 
 
 # Proposal 3 - Google searches relating to COVID19 
 
 
-### High Level Description
+### High Level Description 
+
+Using machine learning to try to find the google searches that are most predictive of COVID19 infections
+
+Social distancing (prevention) is typically given as the best option for avoiding contraction of COVID-19. There seems to be anecdotal evidence of personal relaxation of adherance to these recommendations by some members of the population. Would be interested in measuring google searches (as features) relating to disbelief in the gravity of COVID-19, restlessness, and rights for essential workers, which could potentially be predictive of infection rates. Might potentially be interesting to add feature for voting history.  
 
 
 ### Approach
-
+Data will probably be organized by state. Work with several models to find best initial fit. Tune hyperparameters for improved model. 
 
 
 ### What are your data sources
+
+Use google API to gather search query data to get features. Potentially add a feature for red/blue state using archives.gov data. Use publically available covid-19 data sets (johns hopkins probably) as a target. 
+
 
 
