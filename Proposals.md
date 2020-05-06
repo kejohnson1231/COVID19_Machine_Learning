@@ -9,11 +9,8 @@ I plan to explore various features and how they interact with the number of case
 
 ### Approach
 
-<<<<<<< HEAD
-First I will use scraping, APIs, githubs, to create a dataset that can be analyzed
-=======
-First I will have to use scraping, APIs, githubs, to create a dataset that can be analyzed
->>>>>>> 4db2e361c79a51083d92308dc1bd5bb25479a6e0
+
+First I will use scraping, APIs, githubs, to create a dataset that can be analyzed.
 
 For analysis I plan to start with random forest, as that tends to work the best out of the box. I do also plan to verify that there isn't a better model for fitting the data intially. 
 
@@ -23,19 +20,14 @@ I hope to present my work in either a clean notebook or slides.
 
 Data would be organized by county. The features I would be interested in modeling would be things like personal income, demographics, broadband access,  distance from airports, date stay-home order announced, date stay home order enforced, health-it adoption.
 
-<<<<<<< HEAD
+
 The target I am most interested in is death-rate, but also open to checking out other targets listed in high level description, especially if model is more meaningful. 
 
-=======
-
-The target I am most interested in is death-rate, but 
->>>>>>> 4db2e361c79a51083d92308dc1bd5bb25479a6e0
 
 ### What are your data sources
 
 I am sourcing information from the following places: 
 
-<<<<<<< HEAD
 >> CDC.gov (COVID-19 data)
 >> bea.gov (personal income)
 >> healthypeople.gov (healthcare data but typically not parsed by region so may have limited applicability)
@@ -47,18 +39,6 @@ I am sourcing information from the following places:
 >> Johns Hopkins github (raw data sets), API also available
 >> Kaggle (crowd-sourced data in covid discussion thread, would want to verify authenticity of data)
 
-=======
-> CDC.gov (COVID-19 data)
-> bea.gov (personal income)
-> healthypeople.gov (healthcare data but typically not parsed by region so may have limited applicability)
-> fcc.gov (API to pull broadband data by county)
-> archives.gov/census.gov(demographic data)
-> healthit.gov (statewide adoption of health it in hospital and ambulatory settings, API also available, would need to apply to all counties in state, not sure if that's a good idea)
-> cms.gov (information about geographic requirements for telehealth reimbursements prior to COVID, potentially indicating readiness for switch to telehealth model by many healthcare providers)
-> NYtimes github (raw data sets), API also available
-> Johns Hopkins github (raw data sets), API also available
-> Kaggle (crowd-sourced data in covid discussion thread, would want to verify authenticity of data)
->>>>>>> 4db2e361c79a51083d92308dc1bd5bb25479a6e0
 
 
 
@@ -87,4 +67,4 @@ I am sourcing information from the following places:
 
 ### What are your data sources
 
-\
+
