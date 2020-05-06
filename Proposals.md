@@ -28,16 +28,16 @@ The target I am most interested in is death-rate, but also open to checking out 
 
 I am sourcing information from the following places: 
 
->> CDC.gov (COVID-19 data)  
->> bea.gov (personal income)  
->> healthypeople.gov (healthcare data but typically not parsed by region so may have limited applicability)  
->> fcc.gov (API to pull broadband data by county)  
->> archives.gov/census.gov(demographic data)  
->> healthit.gov (statewide adoption of health it in hospital and ambulatory settings, API also available, would need to apply to all counties in state, not sure if that's a good idea)  
->> cms.gov (information about geographic requirements for telehealth reimbursements prior to COVID, potentially indicating readiness for switch to telehealth model by many healthcare providers)  
->> NYtimes github (raw data sets), API also available  
->> Johns Hopkins github (raw data sets), API also available  
->> Kaggle (crowd-sourced data in covid discussion thread, would want to verify authenticity of data)  
+>> *CDC.gov (COVID-19 data)  
+>> *bea.gov (personal income)  
+>> *healthypeople.gov (healthcare data but typically not parsed by region so may have limited applicability)  
+>> *fcc.gov (API to pull broadband data by county)  
+>> *archives.gov/census.gov(demographic data)  
+>> *healthit.gov (statewide adoption of health it in hospital and ambulatory settings, API also available, would need to apply to all counties in state, not sure if that's a good idea)  
+>> *cms.gov (information about geographic requirements for telehealth reimbursements prior to COVID, potentially indicating readiness for switch to telehealth model by many healthcare providers)  
+>> *NYtimes github (raw data sets), API also available  
+>> *Johns Hopkins github (raw data sets), API also available  
+>> *Kaggle (crowd-sourced data in covid discussion thread, would want to verify authenticity of data)  
 
 
 
