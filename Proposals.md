@@ -1,13 +1,13 @@
 # Proposal 1 - Create a dataset and use it to study how certain factors are affecting COVID19 infection/death rates
 
-### High Level Description
+## High Level Description
 
 My goal for this project is to create a data set sourced from multiple websites. The data set will contain county by county information for COVID19 cases and COVID 19 deaths. It will also contain socio/economic data by county, and information about when the stay at home orders were announce and enforced. 
 
 I plan to explore various features and how they interact with the number of cases, the number of cases per capita, and the death rate (number of deaths/number of cases). 
 
 
-### Approach
+## Approach
 
 
 First I will use scraping, APIs, githubs, to create a dataset that can be analyzed.
@@ -24,7 +24,7 @@ Data would be organized by county. The features I would be interested in modelin
 The target I am most interested in is death-rate, but also open to checking out other targets listed in high level description, especially if model is more meaningful. 
 
 
-### What are your data sources
+## What are your data sources
 
 I am sourcing information from the following places: 
 
@@ -46,13 +46,13 @@ I am sourcing information from the following places:
 
 # Proposal 2 -Create a time series predicting COVID19 infections using data from the previous day
 
-### High Level Description
+## High Level Description
 
 
-### Approach
+## Approach
 
 
-### What are your data sources
+## What are your data sources
 
 Johns Hopkins github/API releases case update data on a daily basis. 
 
@@ -61,18 +61,18 @@ Johns Hopkins github/API releases case update data on a daily basis.
 # Proposal 3 - Google searches relating to COVID19 
 
 
-### High Level Description 
+## High Level Description 
 
 Using machine learning to try to find the google searches that are most predictive of COVID19 infections
 
 Social distancing (prevention) is typically given as the best option for avoiding contraction of COVID-19. There seems to be anecdotal evidence of personal relaxation of adherance to these recommendations by some members of the population. Would be interested in measuring google searches (as features) relating to disbelief in the gravity of COVID-19, restlessness, and rights for essential workers, which could potentially be predictive of infection rates. Might potentially be interesting to add feature for voting history.  
 
 
-### Approach
+## Approach
 Data will probably be organized by state. Work with several models to find best initial fit. Tune hyperparameters for improved model. 
 
 
-### What are your data sources
+## What are your data sources
 
 Use google API to gather search query data to get features. Potentially add a feature for red/blue state using archives.gov data. Use publically available covid-19 data sets (johns hopkins probably) as a target. 
 
