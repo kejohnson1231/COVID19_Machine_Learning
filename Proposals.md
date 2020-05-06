@@ -18,7 +18,7 @@ Once I have a baseline score, I plan to tune my model and attempt to maximize ac
 
 I hope to present my work in either a clean notebook or slides. 
 
-Data would be organized by county. The features I would be interested in modeling would be things like personal income, demographics, broadband access, election results (political leanings), distance from airports, date stay-home order announced, date stay home order enforced, health-it adoption.
+Data would be organized by county. The features I would be interested in modeling would be things like personal income, demographics (age, **population density**, minority-majority communities, etc.) , broadband access, election results (political leanings), distance from airports, date stay-home order announced, date stay home order enforced, health-it adoption.
 
 
 The target I am most interested in is death-rate, but also open to checking out other targets listed in high level description, especially if model is more meaningful. 
