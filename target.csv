@@ -1,2886 +1,2886 @@
-county,state,fips,cases,deaths
-Abbeville,South Carolina,45001.0,792,0
-Acadia,Louisiana,22001.0,4544,265
-Accomack,Virginia,51001.0,6177,92
-Ada,Idaho,16001.0,23813,464
-Adair,Iowa,19001.0,66,0
-Adair,Kentucky,21001.0,2037,227
-Adair,Missouri,29001.0,465,0
-Adair,Oklahoma,40001.0,1779,93
-Adams,Colorado,8001.0,44688,1714
-Adams,Idaho,16003.0,83,0
-Adams,Illinois,17001.0,1121,10
-Adams,Indiana,18001.0,251,29
-Adams,Mississippi,28001.0,3563,208
-Adams,Nebraska,31001.0,4297,61
-Adams,Ohio,39001.0,137,0
-Adams,Pennsylvania,42001.0,3615,82
-Adams,Washington,53001.0,1621,0
-Adams,Wisconsin,55001.0,126,27
-Addison,Vermont,50001.0,2316,52
-Aiken,South Carolina,45003.0,2927,154
-Aitkin,Minnesota,27001.0,27,0
-Alachua,Florida,12001.0,9292,68
-Alamance,North Carolina,37001.0,2802,36
-Alameda,California,6001.0,51970,1702
-Alamosa,Colorado,8003.0,404,64
-Albany,New York,36001.0,33165,1578
-Albany,Wyoming,56001.0,248,0
-Albemarle,Virginia,51003.0,2836,73
-Alcona,Michigan,26001.0,86,11
-Alcorn,Mississippi,28003.0,317,12
-Alexander,Illinois,17003.0,82,0
-Alexander,North Carolina,37003.0,153,0
-Alexandria city,Virginia,51510.0,19861,483
-Alfalfa,Oklahoma,40003.0,28,0
-Allamakee,Iowa,19005.0,2156,102
-Allegan,Michigan,26005.0,2347,29
-Allegany,Maryland,24001.0,2551,156
-Allegany,New York,36003.0,1178,7
-Alleghany,North Carolina,37005.0,130,0
-Alleghany,Virginia,51005.0,176,0
-Allegheny,Pennsylvania,42003.0,42979,2300
-Allen,Indiana,18003.0,14641,1126
-Allen,Kentucky,21003.0,333,0
-Allen,Louisiana,22003.0,3026,305
-Allen,Ohio,39003.0,3124,497
-Allendale,South Carolina,45005.0,328,27
-Alpena,Michigan,26007.0,1472,99
-Alpine,California,6003.0,62,0
-Amador,California,6005.0,240,0
-Amelia,Virginia,51007.0,499,20
-Amherst,Virginia,51009.0,427,4
-Amite,Mississippi,28005.0,782,22
-Anchorage,Alaska,2020.0,6293,157
-Anderson,Kansas,20003.0,2,0
-Anderson,Kentucky,21005.0,261,51
-Anderson,South Carolina,45007.0,5367,228
-Anderson,Tennessee,47001.0,834,33
-Anderson,Texas,48001.0,606,0
-Andrew,Missouri,29003.0,79,0
-Andrews,Texas,48003.0,607,0
-Androscoggin,Maine,23001.0,1664,42
-Angelina,Texas,48005.0,1480,0
-Anne Arundel,Maryland,24003.0,48441,2138
-Anoka,Minnesota,27003.0,6644,270
-Anson,North Carolina,37007.0,705,0
-Antelope,Nebraska,31003.0,84,0
-Antrim,Michigan,26009.0,330,1
-Apache,Arizona,4001.0,10865,172
-Appanoose,Iowa,19007.0,96,66
-Appling,Georgia,13001.0,1559,123
-Appomattox,Virginia,51011.0,439,0
-Aransas,Texas,48007.0,68,0
-Arapahoe,Colorado,8005.0,71425,3545
-Archuleta,Colorado,8007.0,265,0
-Arenac,Michigan,26011.0,538,21
-Arkansas,Arkansas,5001.0,80,0
-Arlington,Virginia,51013.0,26974,935
-Armstrong,Pennsylvania,42005.0,1448,61
-Armstrong,Texas,48011.0,43,0
-Aroostook,Maine,23003.0,128,0
-Ascension,Louisiana,22005.0,20708,1180
-Ashe,North Carolina,37009.0,155,0
-Ashland,Ohio,39005.0,266,0
-Ashland,Wisconsin,55003.0,70,0
-Ashley,Arkansas,5003.0,461,0
-Ashtabula,Ohio,39007.0,3282,297
-Asotin,Washington,53003.0,457,34
-Assumption,Louisiana,22007.0,5755,121
-Atascosa,Texas,48013.0,497,23
-Atchison,Kansas,20005.0,252,0
-Atchison,Missouri,29005.0,72,0
-Athens,Ohio,39009.0,147,42
-Atkinson,Georgia,13003.0,272,12
-Atlantic,New Jersey,34001.0,23899,1035
-Atoka,Oklahoma,40005.0,39,0
-Attala,Mississippi,28007.0,2746,25
-Audrain,Missouri,29007.0,23,0
-Audubon,Iowa,19009.0,98,0
-Auglaize,Ohio,39011.0,920,75
-Augusta,Virginia,51015.0,1144,18
-Aurora,South Dakota,46003.0,46,0
-Austin,Texas,48015.0,433,0
-Autauga,Alabama,1001.0,1343,78
-Avoyelles,Louisiana,22009.0,2598,174
-Baca,Colorado,8009.0,406,0
-Bacon,Georgia,13005.0,784,25
-Bailey,Texas,48017.0,12,0
-Baker,Florida,12003.0,784,90
-Baker,Georgia,13007.0,718,82
-Baker,Oregon,41001.0,5,0
-Baldwin,Alabama,1003.0,4939,104
-Baldwin,Georgia,13009.0,5435,190
-Ballard,Kentucky,21007.0,181,0
-Baltimore,Maryland,24005.0,81551,2931
-Baltimore city,Maryland,24510.0,61530,2625
-Bamberg,South Carolina,45009.0,337,0
-Bandera,Texas,48019.0,141,0
-Banks,Georgia,13011.0,648,0
-Bannock,Idaho,16005.0,315,0
-Baraga,Michigan,26013.0,25,0
-Barber,Kansas,20007.0,34,0
-Barbour,Alabama,1005.0,996,12
-Barbour,West Virginia,54001.0,179,18
-Barnes,North Dakota,38003.0,127,0
-Barnstable,Massachusetts,25001.0,27721,1156
-Barnwell,South Carolina,45011.0,491,0
-Barren,Kentucky,21009.0,428,0
-Barron,Wisconsin,55005.0,234,0
-Barrow,Georgia,13013.0,4027,147
-Barry,Michigan,26015.0,949,28
-Barry,Missouri,29009.0,150,0
-Bartholomew,Indiana,18005.0,6815,385
-Barton,Kansas,20009.0,292,5
-Bartow,Georgia,13015.0,11593,897
-Bastrop,Texas,48021.0,2094,59
-Bates,Missouri,29013.0,225,28
-Bath,Kentucky,21011.0,116,11
-Baxter,Arkansas,5005.0,186,0
-Bay,Florida,12005.0,2116,75
-Bay,Michigan,26017.0,3879,124
-Bayfield,Wisconsin,55007.0,138,23
-Beadle,South Dakota,46005.0,1016,71
-Beaufort,North Carolina,37013.0,640,0
-Beaufort,South Carolina,45013.0,9271,315
-Beauregard,Louisiana,22011.0,1332,79
-Beaver,Oklahoma,40007.0,202,0
-Beaver,Pennsylvania,42007.0,11288,1509
-Beaverhead,Montana,30001.0,37,0
-Becker,Minnesota,27005.0,193,0
-Beckham,Oklahoma,40009.0,121,0
-Bedford,Pennsylvania,42009.0,603,30
-Bedford,Tennessee,47003.0,4081,66
-Bedford,Virginia,51019.0,846,4
-Bee,Texas,48025.0,156,0
-Belknap,New Hampshire,33001.0,1232,0
-Bell,Texas,48027.0,5671,113
-Belmont,Ohio,39013.0,3886,168
-Beltrami,Minnesota,27007.0,232,0
-Ben Hill,Georgia,13017.0,734,0
-Bennington,Vermont,50003.0,1654,33
-Benson,North Dakota,38005.0,8,0
-Bent,Colorado,8011.0,1,0
-Benton,Arkansas,5007.0,3189,0
-Benton,Indiana,18007.0,196,0
-Benton,Iowa,19011.0,933,34
-Benton,Minnesota,27009.0,650,13
-Benton,Mississippi,28009.0,337,0
-Benton,Missouri,29015.0,189,0
-Benton,Oregon,41003.0,1192,147
-Benton,Tennessee,47005.0,214,18
-Benton,Washington,53005.0,14840,1371
-Benzie,Michigan,26019.0,94,0
-Bergen,New Jersey,34003.0,502516,31043
-Berkeley,South Carolina,45015.0,5174,228
-Berkeley,West Virginia,54003.0,4658,45
-Berks,Pennsylvania,42011.0,72553,2770
-Berkshire,Massachusetts,25003.0,16241,1097
-Bernalillo,New Mexico,35001.0,24955,1027
-Berrien,Georgia,13019.0,450,0
-Berrien,Michigan,26021.0,7510,405
-Bertie,North Carolina,37015.0,1146,52
-Bethel Census Area,Alaska,2050.0,34,0
-Bexar,Texas,48029.0,44402,1469
-Bibb,Alabama,1007.0,1096,3
-Bibb,Georgia,13021.0,7950,215
-Bienville,Louisiana,22013.0,2131,349
-Big Horn,Montana,30003.0,83,0
-Big Horn,Wyoming,56003.0,59,0
-Big Stone,Minnesota,27011.0,65,0
-Bingham,Idaho,16011.0,130,0
-Black Hawk,Iowa,19013.0,22265,261
-Blackford,Indiana,18009.0,262,26
-Bladen,North Carolina,37017.0,501,5
-Blaine,Idaho,16013.0,19476,193
-Blaine,Oklahoma,40011.0,14,0
-Blair,Pennsylvania,42013.0,654,0
-Blanco,Texas,48031.0,190,0
-Bleckley,Georgia,13023.0,370,0
-Bledsoe,Tennessee,47007.0,10756,0
-Blount,Alabama,1009.0,1036,0
-Blount,Tennessee,47009.0,2100,102
-Blue Earth,Minnesota,27013.0,1275,0
-Bolivar,Mississippi,28011.0,3342,208
-Bollinger,Missouri,29017.0,129,0
-Bon Homme,South Dakota,46009.0,158,0
-Bond,Illinois,17005.0,195,25
-Bonner,Idaho,16017.0,146,0
-Bonneville,Idaho,16019.0,747,0
-Boone,Arkansas,5009.0,160,0
-Boone,Illinois,17007.0,2457,206
-Boone,Indiana,18011.0,5970,552
-Boone,Iowa,19015.0,430,0
-Boone,Kentucky,21015.0,3861,81
-Boone,Missouri,29019.0,3979,54
-Boone,Nebraska,31011.0,13,0
-Boone,West Virginia,54005.0,107,0
-Bosque,Texas,48035.0,87,0
-Bossier,Louisiana,22015.0,9455,453
-Botetourt,Virginia,51023.0,948,60
-Boulder,Colorado,8013.0,17532,947
-Bourbon,Kansas,20011.0,260,34
-Bourbon,Kentucky,21017.0,299,56
-Bowie,Texas,48037.0,2834,246
-Bowman,North Dakota,38011.0,34,0
-Box Butte,Nebraska,31013.0,30,0
-Box Elder,Utah,49003.0,638,21
-Boyd,Kentucky,21019.0,1059,92
-Boyle,Kentucky,21021.0,556,0
-Bracken,Kentucky,21023.0,240,0
-Bradford,Florida,12007.0,1382,53
-Bradford,Pennsylvania,42015.0,989,102
-Bradley,Arkansas,5011.0,339,22
-Bradley,Tennessee,47011.0,1657,27
-Branch,Michigan,26023.0,1661,68
-Brantley,Georgia,13025.0,607,58
-Braxton,West Virginia,54007.0,49,0
-Brazoria,Texas,48039.0,15004,155
-Brazos,Texas,48041.0,6866,530
-Breathitt,Kentucky,21025.0,129,0
-Breckinridge,Kentucky,21027.0,255,0
-Bremer,Iowa,19017.0,1114,67
-Brevard,Florida,12009.0,8498,228
-Brewster,Texas,48043.0,10,0
-Briscoe,Texas,48045.0,9,0
-Bristol,Massachusetts,25005.0,94820,4314
-Bristol,Rhode Island,44001.0,3407,0
-Bristol city,Virginia,51520.0,54,0
-Broadwater,Montana,30007.0,182,0
-Brooke,West Virginia,54009.0,97,0
-Brookings,South Dakota,46011.0,377,0
-Brooks,Georgia,13027.0,1362,159
-Brooks,Texas,48047.0,19,0
-Broome,New York,36007.0,8424,471
-Broomfield,Colorado,8014.0,4580,242
-Broward,Florida,12011.0,163179,5349
-Brown,Illinois,17009.0,41,0
-Brown,Indiana,18013.0,566,34
-Brown,Kansas,20013.0,7,0
-Brown,Minnesota,27015.0,284,31
-Brown,Ohio,39015.0,349,41
-Brown,South Dakota,46013.0,1370,0
-Brown,Texas,48049.0,789,81
-Brown,Wisconsin,55009.0,24574,139
-Brunswick,North Carolina,37019.0,1580,87
-Brunswick,Virginia,51025.0,387,0
-Bryan,Georgia,13029.0,1568,90
-Bryan,Oklahoma,40013.0,248,20
-Buchanan,Iowa,19019.0,476,0
-Buchanan,Missouri,29021.0,4281,41
-Buchanan,Virginia,51027.0,390,0
-Buckingham,Virginia,51029.0,2450,3
-Bucks,Pennsylvania,42017.0,84591,5260
-Buena Vista,Iowa,19021.0,229,0
-Buena Vista city,Virginia,51530.0,189,0
-Buffalo,Nebraska,31019.0,2645,41
-Buffalo,South Dakota,46017.0,13,0
-Buffalo,Wisconsin,55011.0,146,36
-Bullitt,Kentucky,21029.0,1607,81
-Bulloch,Georgia,13031.0,1077,51
-Bullock,Alabama,1011.0,414,5
-Buncombe,North Carolina,37021.0,2142,115
-Bureau,Illinois,17011.0,316,6
-Burke,Georgia,13033.0,2137,83
-Burke,North Carolina,37023.0,2921,230
-Burke,North Dakota,38013.0,110,0
-Burleigh,North Dakota,38015.0,2843,0
-Burleson,Texas,48051.0,359,0
-Burlington,New Jersey,34005.0,74658,3194
-Burnet,Texas,48053.0,501,0
-Burt,Nebraska,31021.0,77,0
-Butler,Alabama,1013.0,1757,30
-Butler,Iowa,19023.0,177,0
-Butler,Kansas,20015.0,515,0
-Butler,Kentucky,21031.0,3210,106
-Butler,Missouri,29023.0,736,0
-Butler,Nebraska,31023.0,127,0
-Butler,Ohio,39017.0,8378,175
-Butler,Pennsylvania,42019.0,6236,198
-Butte,California,6007.0,659,0
-Butts,Georgia,13035.0,3464,201
-Cabarrus,North Carolina,37025.0,8453,279
-Cabell,West Virginia,54011.0,1221,0
-Cache,Utah,49005.0,1498,0
-Caddo,Louisiana,22017.0,50115,2911
-Caddo,Oklahoma,40015.0,1755,151
-Calaveras,California,6009.0,431,0
-Calcasieu,Louisiana,22019.0,13017,784
-Caldwell,Kentucky,21033.0,380,0
-Caldwell,Louisiana,22021.0,805,0
-Caldwell,Missouri,29025.0,80,0
-Caldwell,North Carolina,37027.0,1020,0
-Caldwell,Texas,48055.0,434,0
-Caledonia,Vermont,50005.0,435,0
-Calhoun,Alabama,1015.0,3034,70
-Calhoun,Florida,12013.0,336,0
-Calhoun,Georgia,13037.0,2746,110
-Calhoun,Illinois,17013.0,36,0
-Calhoun,Iowa,19025.0,10,0
-Calhoun,Michigan,26025.0,6011,296
-Calhoun,Mississippi,28013.0,1416,78
-Calhoun,South Carolina,45017.0,255,41
-Calhoun,Texas,48057.0,902,55
-Calhoun,West Virginia,54013.0,15,0
-Callahan,Texas,48059.0,62,4
-Callaway,Missouri,29027.0,883,35
-Calloway,Kentucky,21035.0,905,34
-Calumet,Wisconsin,55015.0,419,1
-Calvert,Maryland,24009.0,4636,201
-Camas,Idaho,16025.0,41,0
-Cambria,Pennsylvania,42021.0,811,54
-Camden,Georgia,13039.0,1022,18
-Camden,Missouri,29029.0,1258,44
-Camden,New Jersey,34007.0,96490,3689
-Camden,North Carolina,37029.0,23,0
-Cameron,Louisiana,22023.0,86,0
-Cameron,Pennsylvania,42023.0,50,0
-Cameron,Texas,48061.0,11568,371
-Camp,Texas,48063.0,191,0
-Campbell,Kentucky,21037.0,2566,227
-Campbell,Tennessee,47013.0,518,26
-Campbell,Virginia,51031.0,362,0
-Campbell,Wyoming,56005.0,665,0
-Canadian,Oklahoma,40017.0,3041,97
-Candler,Georgia,13043.0,219,0
-Cannon,Tennessee,47015.0,377,0
-Canyon,Idaho,16027.0,7987,206
-Cape Girardeau,Missouri,29031.0,1508,34
-Cape May,New Jersey,34009.0,9101,584
-Carbon,Montana,30009.0,201,0
-Carbon,Pennsylvania,42025.0,5271,349
-Carbon,Utah,49007.0,165,0
-Carbon,Wyoming,56007.0,198,0
-Caribou,Idaho,16029.0,37,0
-Carlisle,Kentucky,21039.0,35,10
-Carlton,Minnesota,27017.0,1476,0
-Caroline,Maryland,24011.0,1932,0
-Caroline,Virginia,51033.0,675,13
-Carroll,Arkansas,5015.0,128,0
-Carroll,Georgia,13045.0,11917,380
-Carroll,Illinois,17015.0,282,62
-Carroll,Indiana,18015.0,776,30
-Carroll,Iowa,19027.0,99,0
-Carroll,Kentucky,21041.0,85,0
-Carroll,Maryland,24013.0,13672,1433
-Carroll,Mississippi,28015.0,1220,42
-Carroll,Missouri,29033.0,43,0
-Carroll,New Hampshire,33003.0,1239,0
-Carroll,Ohio,39019.0,655,17
-Carroll,Tennessee,47017.0,587,21
-Carroll,Virginia,51035.0,302,0
-Carson,Texas,48065.0,43,0
-Carson City,Nevada,32510.0,1301,20
-Carter,Kentucky,21043.0,144,0
-Carter,Missouri,29035.0,134,37
-Carter,Oklahoma,40019.0,94,14
-Carter,Tennessee,47019.0,323,26
-Carteret,North Carolina,37031.0,972,73
-Carver,Minnesota,27019.0,990,2
-Cascade,Montana,30013.0,593,44
-Casey,Kentucky,21045.0,27,0
-Cass,Illinois,17017.0,660,0
-Cass,Indiana,18017.0,20495,60
-Cass,Iowa,19029.0,28,0
-Cass,Michigan,26027.0,879,59
-Cass,Minnesota,27021.0,184,1
-Cass,Missouri,29037.0,2019,180
-Cass,Nebraska,31025.0,204,0
-Cass,North Dakota,38017.0,12826,345
-Cass,Texas,48067.0,459,66
-Cassia,Idaho,16031.0,400,41
-Castro,Texas,48069.0,574,37
-Caswell,North Carolina,37033.0,561,3
-Catahoula,Louisiana,22025.0,1152,69
-Catawba,North Carolina,37035.0,1775,38
-Catoosa,Georgia,13047.0,1208,0
-Catron,New Mexico,35003.0,45,16
-Cattaraugus,New York,36009.0,1415,16
-Cayuga,New York,36011.0,1425,35
-Cecil,Maryland,24015.0,5001,198
-Cedar,Iowa,19031.0,1042,4
-Cedar,Missouri,29039.0,223,0
-Cedar,Nebraska,31027.0,55,0
-Centre,Pennsylvania,42027.0,3215,44
-Cerro Gordo,Iowa,19033.0,565,0
-Chaffee,Colorado,8015.0,1910,336
-Chambers,Alabama,1017.0,9322,568
-Chambers,Texas,48071.0,1369,0
-Champaign,Illinois,17019.0,4748,146
-Champaign,Ohio,39021.0,391,30
-Chariton,Missouri,29041.0,188,0
-Charles,Maryland,24017.0,16241,1006
-Charles City,Virginia,51036.0,448,20
-Charles Mix,South Dakota,46023.0,171,0
-Charleston,South Carolina,45019.0,16171,189
-Charlevoix,Michigan,26029.0,487,28
-Charlotte,Florida,12015.0,6745,507
-Charlotte,Virginia,51037.0,244,0
-Charlottesville city,Virginia,51540.0,1795,54
-Charlton,Georgia,13049.0,298,0
-Chase,Kansas,20017.0,34,0
-Chatham,Georgia,13051.0,7464,268
-Chatham,North Carolina,37037.0,7406,160
-Chattahoochee,Georgia,13053.0,292,0
-Chattooga,Georgia,13055.0,420,47
-Chautauqua,Kansas,20019.0,129,0
-Chautauqua,New York,36013.0,1064,44
-Chaves,New Mexico,35005.0,864,23
-Cheatham,Tennessee,47021.0,1309,0
-Cheboygan,Michigan,26031.0,551,37
-Chelan,Washington,53007.0,3350,238
-Chemung,New York,36015.0,3412,91
-Chenango,New York,36017.0,3142,10
-Cherokee,Alabama,1019.0,484,0
-Cherokee,Georgia,13057.0,13572,392
-Cherokee,Iowa,19035.0,54,0
-Cherokee,Kansas,20021.0,288,0
-Cherokee,North Carolina,37039.0,588,41
-Cherokee,Oklahoma,40021.0,890,34
-Cherokee,South Carolina,45021.0,472,0
-Cherokee,Texas,48073.0,427,27
-Cherry,Nebraska,31031.0,37,0
-Chesapeake city,Virginia,51550.0,7212,178
-Cheshire,New Hampshire,33005.0,1157,66
-Chester,Pennsylvania,42029.0,39543,2610
-Chester,South Carolina,45023.0,964,0
-Chester,Tennessee,47023.0,342,0
-Chesterfield,South Carolina,45025.0,1559,11
-Chesterfield,Virginia,51041.0,15009,440
-Cheyenne,Colorado,8017.0,12,0
-Cheyenne,Kansas,20023.0,23,0
-Cheyenne,Nebraska,31033.0,163,0
-Chickasaw,Iowa,19037.0,123,0
-Chickasaw,Mississippi,28017.0,2001,178
-Chicot,Arkansas,5017.0,282,0
-Childress,Texas,48075.0,23,0
-Chilton,Alabama,1021.0,1690,19
-Chippewa,Michigan,26033.0,68,8
-Chippewa,Minnesota,27023.0,55,0
-Chippewa,Wisconsin,55017.0,848,0
-Chisago,Minnesota,27025.0,364,38
-Chittenden,Vermont,50007.0,15588,988
-Choctaw,Alabama,1023.0,1039,0
-Choctaw,Mississippi,28019.0,496,41
-Choctaw,Oklahoma,40023.0,109,0
-Chowan,North Carolina,37041.0,191,0
-Christian,Illinois,17021.0,1074,175
-Christian,Kentucky,21047.0,2843,93
-Christian,Missouri,29043.0,758,0
-Churchill,Nevada,32001.0,88,21
-Cibola,New Mexico,35006.0,1609,66
-Cimarron,Oklahoma,40025.0,20,0
-Citrus,Florida,12017.0,3313,322
-Clackamas,Oregon,41005.0,6983,221
-Claiborne,Louisiana,22027.0,1847,193
-Claiborne,Mississippi,28021.0,587,0
-Claiborne,Tennessee,47025.0,190,0
-Clallam,Washington,53009.0,616,0
-Clare,Michigan,26035.0,311,38
-Clarendon,South Carolina,45027.0,5754,436
-Clarion,Pennsylvania,42031.0,679,23
-Clark,Arkansas,5019.0,1270,0
-Clark,Illinois,17023.0,168,0
-Clark,Indiana,18019.0,8113,503
-Clark,Kansas,20025.0,98,0
-Clark,Kentucky,21049.0,746,0
-Clark,Missouri,29045.0,38,0
-Clark,Nevada,32003.0,126984,5839
-Clark,Ohio,39023.0,1469,35
-Clark,South Dakota,46025.0,46,0
-Clark,Washington,53011.0,11837,727
-Clark,Wisconsin,55019.0,596,62
-Clarke,Alabama,1025.0,1016,21
-Clarke,Georgia,13059.0,5007,482
-Clarke,Iowa,19039.0,83,0
-Clarke,Mississippi,28023.0,1396,97
-Clarke,Virginia,51043.0,269,0
-Clatsop,Oregon,41007.0,346,0
-Clay,Alabama,1027.0,680,18
-Clay,Arkansas,5021.0,64,0
-Clay,Florida,12019.0,8593,509
-Clay,Georgia,13061.0,741,72
-Clay,Illinois,17025.0,46,0
-Clay,Indiana,18021.0,617,19
-Clay,Iowa,19041.0,142,0
-Clay,Kansas,20027.0,110,14
-Clay,Kentucky,21051.0,25,0
-Clay,Minnesota,27027.0,3836,222
-Clay,Mississippi,28025.0,1202,48
-Clay,Missouri,29047.0,2446,35
-Clay,Nebraska,31035.0,213,0
-Clay,North Carolina,37043.0,168,0
-Clay,South Dakota,46027.0,228,0
-Clay,Tennessee,47027.0,160,0
-Clay,Texas,48077.0,112,0
-Clay,West Virginia,54015.0,8,0
-Clayton,Georgia,13063.0,22179,807
-Clayton,Iowa,19043.0,410,31
-Clear Creek,Colorado,8019.0,485,20
-Clearfield,Pennsylvania,42033.0,505,0
-Clearwater,Minnesota,27029.0,94,0
-Cleburne,Alabama,1029.0,480,22
-Cleburne,Arkansas,5023.0,3286,170
-Clermont,Ohio,39025.0,2718,72
-Cleveland,Arkansas,5025.0,394,0
-Cleveland,North Carolina,37045.0,1546,45
-Cleveland,Oklahoma,40027.0,13429,896
-Clinch,Georgia,13065.0,299,0
-Clinton,Illinois,17027.0,2552,78
-Clinton,Indiana,18023.0,1178,46
-Clinton,Iowa,19045.0,1517,15
-Clinton,Kentucky,21053.0,83,0
-Clinton,Michigan,26037.0,4030,245
-Clinton,Missouri,29049.0,437,0
-Clinton,New York,36019.0,2161,104
-Clinton,Ohio,39027.0,914,1
-Clinton,Pennsylvania,42035.0,673,0
-Cloud,Kansas,20029.0,117,0
-Coahoma,Mississippi,28027.0,2133,72
-Cobb,Georgia,13067.0,50093,2592
-Cochise,Arizona,4003.0,1031,3
-Cochran,Texas,48079.0,18,0
-Cocke,Tennessee,47029.0,420,0
-Coconino,Arizona,4005.0,14851,1241
-Codington,South Dakota,46029.0,529,0
-Coffee,Alabama,1031.0,2784,3
-Coffee,Georgia,13069.0,3661,163
-Coffee,Tennessee,47031.0,957,0
-Coffey,Kansas,20031.0,1710,198
-Coke,Texas,48081.0,6,0
-Colbert,Alabama,1033.0,915,52
-Cole,Missouri,29051.0,1861,38
-Coleman,Texas,48083.0,13,0
-Coles,Illinois,17029.0,535,16
-Colfax,Nebraska,31037.0,3045,5
-Colfax,New Mexico,35007.0,130,0
-Colleton,South Carolina,45029.0,890,77
-Collier,Florida,12021.0,19611,480
-Collin,Texas,48085.0,23948,558
-Collingsworth,Texas,48087.0,9,0
-Colonial Heights city,Virginia,51570.0,1207,89
-Colorado,Texas,48089.0,326,0
-Colquitt,Georgia,13071.0,5306,246
-Columbia,Arkansas,5027.0,296,18
-Columbia,Florida,12023.0,1891,26
-Columbia,Georgia,13073.0,4490,76
-Columbia,New York,36021.0,5694,498
-Columbia,Oregon,41009.0,474,0
-Columbia,Pennsylvania,42037.0,7492,320
-Columbia,Washington,53013.0,60,0
-Columbia,Wisconsin,55021.0,1119,35
-Columbiana,Ohio,39029.0,7097,626
-Columbus,North Carolina,37047.0,3163,198
-Colusa,California,6011.0,118,0
-Comal,Texas,48091.0,1798,209
-Comanche,Oklahoma,40031.0,2836,30
-Comanche,Texas,48093.0,108,11
-Concho,Texas,48095.0,31,0
-Concordia,Louisiana,22029.0,1028,94
-Conecuh,Alabama,1035.0,284,0
-Conejos,Colorado,8021.0,4,0
-Contra Costa,California,6013.0,29733,770
-Converse,Wyoming,56009.0,511,0
-Conway,Arkansas,5029.0,328,44
-Cook,Georgia,13075.0,588,25
-Cook,Illinois,17031.0,1045726,42060
-Cooke,Texas,48097.0,165,0
-Cooper,Missouri,29053.0,224,0
-Coos,New Hampshire,33007.0,69,0
-Coos,Oregon,41011.0,375,0
-Coosa,Alabama,1037.0,873,28
-Copiah,Mississippi,28029.0,2668,26
-Corson,South Dakota,46031.0,32,0
-Cortland,New York,36023.0,954,0
-Coryell,Texas,48099.0,3515,37
-Coshocton,Ohio,39031.0,644,0
-Costilla,Colorado,8023.0,129,0
-Cottle,Texas,48101.0,34,2
-Cotton,Oklahoma,40033.0,184,21
-Cottonwood,Minnesota,27033.0,582,0
-Covington,Alabama,1039.0,1027,19
-Covington,Mississippi,28031.0,1533,3
-Covington city,Virginia,51580.0,2,0
-Coweta,Georgia,13077.0,6600,143
-Cowley,Kansas,20035.0,73,32
-Cowlitz,Washington,53015.0,1509,0
-Craig,Oklahoma,40035.0,331,0
-Craig,Virginia,51045.0,85,0
-Craighead,Arkansas,5031.0,2135,11
-Crane,Texas,48103.0,93,0
-Craven,North Carolina,37049.0,1335,96
-Crawford,Arkansas,5033.0,166,0
-Crawford,Georgia,13079.0,432,0
-Crawford,Illinois,17033.0,263,0
-Crawford,Indiana,18025.0,548,14
-Crawford,Iowa,19047.0,1236,30
-Crawford,Kansas,20037.0,263,42
-Crawford,Michigan,26039.0,1230,88
-Crawford,Missouri,29055.0,223,0
-Crawford,Ohio,39033.0,1358,8
-Crawford,Pennsylvania,42039.0,632,0
-Crawford,Wisconsin,55023.0,175,0
-Creek,Oklahoma,40037.0,2680,174
-Crenshaw,Alabama,1041.0,466,0
-Crisp,Georgia,13081.0,4650,85
-Crittenden,Arkansas,5035.0,5540,152
-Crittenden,Kentucky,21055.0,119,21
-Crockett,Tennessee,47033.0,157,0
-Crook,Oregon,41013.0,38,0
-Crook,Wyoming,56011.0,145,0
-Crosby,Texas,48107.0,51,26
-Cross,Arkansas,5037.0,518,0
-Crow Wing,Minnesota,27035.0,657,13
-Crowley,Colorado,8025.0,192,53
-Cullman,Alabama,1043.0,1746,17
-Culpeper,Virginia,51047.0,3529,52
-Cumberland,Illinois,17035.0,113,0
-Cumberland,Kentucky,21057.0,128,0
-Cumberland,Maine,23005.0,17366,744
-Cumberland,New Jersey,34011.0,18533,367
-Cumberland,North Carolina,37051.0,6374,170
-Cumberland,Pennsylvania,42041.0,8867,401
-Cumberland,Tennessee,47035.0,2325,13
-Cumberland,Virginia,51049.0,348,0
-Cuming,Nebraska,31039.0,171,0
-Currituck,North Carolina,37053.0,139,0
-Curry,New Mexico,35009.0,528,0
-Curry,Oregon,41015.0,125,0
-Custer,Colorado,8027.0,77,0
-Custer,Idaho,16037.0,87,0
-Custer,Nebraska,31041.0,724,78
-Custer,Oklahoma,40039.0,359,0
-Cuyahoga,Ohio,39035.0,68904,2808
-Dade,Georgia,13083.0,380,38
-Dakota,Minnesota,27037.0,6293,260
-Dakota,Nebraska,31043.0,15146,39
-Dale,Alabama,1045.0,761,0
-Dallam,Texas,48111.0,202,16
-Dallas,Alabama,1047.0,1357,66
-Dallas,Arkansas,5039.0,37,0
-Dallas,Iowa,19049.0,8339,27
-Dallas,Missouri,29059.0,66,0
-Dallas,Texas,48113.0,113188,2776
-Dane,Wisconsin,55025.0,16170,673
-Danville city,Virginia,51590.0,1074,20
-Dare,North Carolina,37055.0,393,32
-Darke,Ohio,39037.0,2369,404
-Darlington,South Carolina,45031.0,3353,32
-Dauphin,Pennsylvania,42043.0,16338,564
-Davidson,North Carolina,37057.0,4768,159
-Davidson,Tennessee,47037.0,84544,837
-Davie,North Carolina,37059.0,1014,76
-Daviess,Indiana,18027.0,1212,275
-Daviess,Kentucky,21059.0,5701,140
-Daviess,Missouri,29061.0,60,0
-Davis,Iowa,19051.0,49,0
-Davis,Utah,49011.0,9920,88
-Davison,South Dakota,46035.0,223,62
-Dawes,Nebraska,31045.0,2,0
-Dawson,Georgia,13085.0,1812,42
-Dawson,Nebraska,31047.0,10036,26
-Dawson,Texas,48115.0,607,32
-Day,South Dakota,46037.0,88,0
-De Soto,Louisiana,22031.0,6141,354
-De Witt,Illinois,17039.0,83,0
-DeKalb,Alabama,1049.0,2223,49
-DeKalb,Georgia,13089.0,61255,1287
-DeKalb,Illinois,17037.0,2818,37
-DeKalb,Indiana,18033.0,520,40
-DeKalb,Missouri,29063.0,106,0
-DeKalb,Tennessee,47041.0,546,0
-DeSoto,Florida,12027.0,1048,141
-DeSoto,Mississippi,28033.0,9564,122
-DeWitt,Texas,48123.0,490,20
-Deaf Smith,Texas,48117.0,794,0
-Dearborn,Indiana,18029.0,3261,223
-Decatur,Georgia,13087.0,2315,28
-Decatur,Indiana,18031.0,6616,756
-Decatur,Tennessee,47039.0,119,0
-Deer Lodge,Montana,30023.0,128,0
-Defiance,Ohio,39039.0,642,18
-Del Norte,California,6015.0,91,0
-Delaware,Indiana,18035.0,4792,327
-Delaware,Iowa,19055.0,139,8
-Delaware,New York,36025.0,2018,6
-Delaware,Ohio,39041.0,5304,112
-Delaware,Oklahoma,40041.0,2643,263
-Delaware,Pennsylvania,42045.0,107087,5577
-Delta,Colorado,8029.0,1011,33
-Delta,Michigan,26041.0,430,52
-Delta,Texas,48119.0,33,0
-Denton,Texas,48121.0,25338,649
-Denver,Colorado,8031.0,88157,3990
-Des Moines,Iowa,19057.0,508,15
-Deschutes,Oregon,41017.0,2726,0
-Desha,Arkansas,5041.0,434,0
-Deuel,South Dakota,46039.0,44,0
-Dewey,Oklahoma,40043.0,60,0
-Dickens,Texas,48125.0,35,0
-Dickinson,Iowa,19059.0,130,0
-Dickinson,Kansas,20041.0,42,0
-Dickinson,Michigan,26043.0,115,68
-Dickson,Tennessee,47043.0,2156,0
-Dillon,South Carolina,45033.0,1263,0
-Dimmit,Texas,48127.0,30,0
-Dinwiddie,Virginia,51053.0,430,0
-District of Columbia,District of Columbia,11001.0,128224,5436
-Divide,North Dakota,38023.0,44,0
-Dixie,Florida,12029.0,188,0
-Dixon,Nebraska,31051.0,187,0
-Dodge,Georgia,13091.0,780,14
-Dodge,Minnesota,27039.0,742,0
-Dodge,Nebraska,31053.0,1820,0
-Dodge,Wisconsin,55027.0,1098,27
-Doniphan,Kansas,20043.0,108,0
-Donley,Texas,48129.0,794,0
-Dooly,Georgia,13093.0,3212,223
-Door,Wisconsin,55029.0,408,48
-Dorchester,Maryland,24019.0,1364,48
-Dorchester,South Carolina,45035.0,3233,59
-Dougherty,Georgia,13095.0,53397,3790
-Douglas,Colorado,8035.0,16265,641
-Douglas,Georgia,13097.0,9743,306
-Douglas,Illinois,17041.0,543,0
-Douglas,Kansas,20045.0,1919,0
-Douglas,Minnesota,27041.0,142,0
-Douglas,Nebraska,31055.0,21645,434
-Douglas,Nevada,32005.0,630,0
-Douglas,Oregon,41019.0,826,0
-Douglas,South Dakota,46043.0,14,0
-Douglas,Washington,53017.0,2061,33
-Douglas,Wisconsin,55031.0,372,0
-Doña Ana,New Mexico,35013.0,3961,38
-Drew,Arkansas,5043.0,408,31
-DuPage,Illinois,17043.0,87277,4379
-Dubois,Indiana,18037.0,707,0
-Dubuque,Iowa,19061.0,3065,97
-Duchesne,Utah,49013.0,173,0
-Dukes,Massachusetts,25007.0,566,20
-Dunklin,Missouri,29069.0,702,50
-Dunn,North Dakota,38025.0,275,0
-Dunn,Wisconsin,55033.0,377,0
-Duplin,North Carolina,37061.0,2383,19
-Durham,North Carolina,37063.0,19814,422
-Dutchess,New York,36027.0,92200,2091
-Duval,Florida,12031.0,33676,714
-Duval,Texas,48131.0,56,0
-Dyer,Tennessee,47045.0,1050,0
-Eagle,Colorado,8037.0,20833,267
-Early,Georgia,13099.0,6527,510
-East Baton Rouge,Louisiana,22033.0,60906,3669
-East Carroll,Louisiana,22035.0,202,0
-East Feliciana,Louisiana,22037.0,3612,341
-Eastland,Texas,48133.0,138,0
-Eaton,Michigan,26045.0,3997,183
-Eau Claire,Wisconsin,55035.0,1152,0
-Echols,Georgia,13101.0,142,0
-Ector,Texas,48135.0,2391,109
-Eddy,New Mexico,35015.0,390,47
-Eddy,North Dakota,38027.0,38,0
-Edgecombe,North Carolina,37065.0,2427,88
-Edgefield,South Carolina,45037.0,754,30
-Edmonson,Kentucky,21061.0,633,24
-Edwards,Kansas,20047.0,55,0
-Effingham,Georgia,13103.0,1106,36
-Effingham,Illinois,17049.0,152,32
-El Dorado,California,6017.0,1622,0
-El Paso,Colorado,8041.0,31692,2189
-El Paso,Texas,48141.0,24544,444
-Elbert,Colorado,8039.0,924,37
-Elbert,Georgia,13105.0,575,0
-Elk,Pennsylvania,42047.0,96,4
-Elkhart,Indiana,18039.0,7646,248
-Elko,Nevada,32007.0,732,37
-Ellis,Kansas,20051.0,191,0
-Ellis,Texas,48139.0,4365,178
-Ellsworth,Kansas,20053.0,10,0
-Elmore,Alabama,1051.0,2793,47
-Elmore,Idaho,16039.0,896,37
-Emanuel,Georgia,13107.0,543,3
-Emery,Utah,49015.0,134,0
-Emmet,Michigan,26047.0,773,78
-Emmons,North Dakota,38029.0,36,34
-Emporia city,Virginia,51595.0,676,43
-Erath,Texas,48143.0,441,38
-Erie,New York,36029.0,98350,6431
-Erie,Ohio,39043.0,1467,93
-Erie,Pennsylvania,42049.0,2533,50
-Escambia,Alabama,1053.0,709,35
-Escambia,Florida,12033.0,14889,322
-Essex,Massachusetts,25009.0,235464,10876
-Essex,New Jersey,34013.0,414305,31604
-Essex,New York,36031.0,938,0
-Essex,Vermont,50009.0,57,0
-Essex,Virginia,51057.0,213,0
-Etowah,Alabama,1055.0,4058,285
-Evangeline,Louisiana,22039.0,1735,11
-Evans,Georgia,13109.0,108,0
-Fairbanks North Star Borough,Alaska,2090.0,3188,67
-Fairfax,Virginia,51059.0,96743,3324
-Fairfax city,Virginia,51600.0,644,42
-Fairfield,Connecticut,9001.0,338063,21162
-Fairfield,Ohio,39045.0,4199,55
-Fairfield,South Carolina,45039.0,1387,42
-Fall River,South Dakota,46047.0,51,0
-Falls,Texas,48145.0,101,0
-Falls Church city,Virginia,51610.0,634,53
-Fannin,Georgia,13111.0,797,15
-Fannin,Texas,48147.0,448,5
-Faribault,Minnesota,27043.0,193,0
-Faulk,South Dakota,46049.0,45,0
-Faulkner,Arkansas,5045.0,2805,67
-Fauquier,Virginia,51061.0,2779,48
-Fayette,Alabama,1057.0,163,0
-Fayette,Georgia,13113.0,5726,314
-Fayette,Illinois,17051.0,481,48
-Fayette,Indiana,18041.0,1166,146
-Fayette,Iowa,19065.0,458,0
-Fayette,Kentucky,21067.0,9630,317
-Fayette,Ohio,39047.0,497,0
-Fayette,Pennsylvania,42051.0,2557,117
-Fayette,Tennessee,47047.0,1853,26
-Fayette,Texas,48149.0,622,17
-Fayette,West Virginia,54019.0,358,0
-Fentress,Tennessee,47049.0,139,0
-Ferry,Washington,53019.0,47,0
-Fillmore,Minnesota,27045.0,486,18
-Fillmore,Nebraska,31059.0,34,19
-Finney,Kansas,20055.0,8507,48
-Flagler,Florida,12035.0,3519,82
-Flathead,Montana,30029.0,1430,47
-Fleming,Kentucky,21069.0,57,0
-Florence,South Carolina,45041.0,7585,422
-Florence,Wisconsin,55037.0,71,0
-Floyd,Georgia,13115.0,5177,327
-Floyd,Indiana,18043.0,5673,426
-Floyd,Iowa,19067.0,18,1
-Floyd,Kentucky,21071.0,257,0
-Floyd,Texas,48153.0,83,0
-Floyd,Virginia,51063.0,54,0
-Fluvanna,Virginia,51065.0,2085,108
-Fond du Lac,Wisconsin,55039.0,2754,121
-Ford,Illinois,17053.0,265,34
-Ford,Kansas,20057.0,13913,14
-Forest,Pennsylvania,42053.0,231,0
-Forest,Wisconsin,55041.0,7,0
-Forrest,Mississippi,28035.0,6352,270
-Forsyth,Georgia,13117.0,8770,263
-Forsyth,North Carolina,37067.0,6972,163
-Fort Bend,Texas,48157.0,32472,735
-Foster,North Dakota,38031.0,47,0
-Fountain,Indiana,18045.0,297,64
-Franklin,Alabama,1059.0,2183,9
-Franklin,Arkansas,5047.0,51,0
-Franklin,Florida,12037.0,74,0
-Franklin,Georgia,13119.0,524,11
-Franklin,Illinois,17055.0,240,0
-Franklin,Indiana,18047.0,3468,293
-Franklin,Iowa,19069.0,80,0
-Franklin,Kansas,20059.0,564,0
-Franklin,Kentucky,21073.0,573,0
-Franklin,Louisiana,22041.0,3475,76
-Franklin,Maine,23007.0,676,16
-Franklin,Massachusetts,25011.0,7952,1118
-Franklin,Mississippi,28037.0,543,16
-Franklin,Missouri,29071.0,3611,237
-Franklin,Nebraska,31061.0,116,0
-Franklin,New York,36033.0,552,0
-Franklin,North Carolina,37069.0,2843,383
-Franklin,Ohio,39049.0,70975,1810
-Franklin,Pennsylvania,42055.0,7282,206
-Franklin,Tennessee,47051.0,1064,38
-Franklin,Texas,48159.0,57,0
-Franklin,Vermont,50011.0,3118,137
-Franklin,Virginia,51067.0,695,0
-Franklin,Washington,53021.0,9098,232
-Franklin city,Virginia,51620.0,522,10
-Frederick,Maryland,24021.0,25235,1308
-Frederick,Virginia,51069.0,3402,16
-Fredericksburg city,Virginia,51630.0,919,0
-Freeborn,Minnesota,27047.0,1112,0
-Freestone,Texas,48161.0,109,0
-Fremont,Colorado,8043.0,551,0
-Fremont,Idaho,16043.0,88,0
-Fremont,Iowa,19071.0,3,0
-Fremont,Wyoming,56013.0,3373,80
-Fresno,California,6019.0,16475,238
-Frio,Texas,48163.0,217,0
-Frontier,Nebraska,31063.0,12,0
-Fulton,Arkansas,5049.0,30,0
-Fulton,Georgia,13121.0,89992,3382
-Fulton,Illinois,17057.0,66,2
-Fulton,Indiana,18049.0,552,11
-Fulton,Kentucky,21075.0,26,0
-Fulton,New York,36035.0,1788,41
-Fulton,Ohio,39051.0,626,0
-Fulton,Pennsylvania,42057.0,120,1
-Furnas,Nebraska,31065.0,66,0
-Gadsden,Florida,12039.0,2378,0
-Gage,Nebraska,31067.0,1084,68
-Gaines,Texas,48165.0,81,0
-Galax city,Virginia,51640.0,299,0
-Gallatin,Illinois,17059.0,63,0
-Gallatin,Kentucky,21077.0,30,0
-Gallatin,Montana,30031.0,5868,13
-Gallia,Ohio,39053.0,225,48
-Galveston,Texas,48167.0,18907,662
-Garfield,Colorado,8045.0,3106,74
-Garfield,Oklahoma,40047.0,463,31
-Garfield,Utah,49017.0,72,0
-Garland,Arkansas,5051.0,3989,5
-Garrard,Kentucky,21079.0,52,0
-Garrett,Maryland,24023.0,187,0
-Garvin,Oklahoma,40049.0,504,12
-Garza,Texas,48169.0,29,0
-Gasconade,Missouri,29073.0,78,0
-Gaston,North Carolina,37071.0,4401,113
-Gates,North Carolina,37073.0,215,0
-Geary,Kansas,20061.0,364,0
-Geauga,Ohio,39055.0,4416,323
-Gem,Idaho,16045.0,429,0
-Genesee,Michigan,26049.0,48804,4885
-Genesee,New York,36037.0,4215,61
-Geneva,Alabama,1061.0,202,0
-Gentry,Missouri,29075.0,35,0
-George,Mississippi,28039.0,409,23
-Georgetown,South Carolina,45043.0,1431,75
-Gibson,Indiana,18051.0,239,0
-Gibson,Tennessee,47053.0,1264,19
-Gila,Arizona,4007.0,346,3
-Gilchrist,Florida,12041.0,153,0
-Giles,Tennessee,47055.0,223,0
-Giles,Virginia,51071.0,134,0
-Gillespie,Texas,48171.0,92,0
-Gilmer,Georgia,13123.0,1363,0
-Gilmer,West Virginia,54021.0,50,0
-Gilpin,Colorado,8047.0,36,0
-Glacier,Montana,30035.0,161,0
-Glades,Florida,12043.0,208,41
-Gladwin,Michigan,26051.0,384,21
-Glascock,Georgia,13125.0,4,1
-Glasscock,Texas,48173.0,11,0
-Glenn,California,6021.0,167,0
-Gloucester,New Jersey,34015.0,34469,1170
-Gloucester,Virginia,51073.0,844,20
-Glynn,Georgia,13127.0,1957,18
-Gogebic,Michigan,26053.0,158,46
-Golden Valley,Montana,30037.0,78,0
-Goliad,Texas,48175.0,199,0
-Gonzales,Texas,48177.0,447,29
-Goochland,Virginia,51075.0,2134,87
-Goodhue,Minnesota,27049.0,704,0
-Gooding,Idaho,16047.0,314,0
-Gordon,Georgia,13129.0,2833,313
-Goshen,Wyoming,56015.0,138,0
-Gosper,Nebraska,31073.0,234,0
-Gove,Kansas,20063.0,45,0
-Grady,Georgia,13131.0,1525,73
-Grady,Oklahoma,40051.0,972,37
-Grafton,New Hampshire,33009.0,2208,10
-Graham,Arizona,4009.0,326,0
-Graham,North Carolina,37075.0,20,0
-Grainger,Tennessee,47057.0,178,0
-Grand,Colorado,8049.0,209,0
-Grand,Utah,49019.0,72,0
-Grand Forks,North Dakota,38035.0,5288,8
-Grand Isle,Vermont,50013.0,106,0
-Grand Traverse,Michigan,26055.0,727,159
-Grant,Arkansas,5053.0,442,0
-Grant,Indiana,18053.0,3502,255
-Grant,Kansas,20067.0,90,0
-Grant,Kentucky,21081.0,661,78
-Grant,Louisiana,22043.0,493,0
-Grant,Minnesota,27051.0,12,0
-Grant,New Mexico,35017.0,430,0
-Grant,North Dakota,38037.0,41,0
-Grant,Oklahoma,40053.0,68,0
-Grant,Oregon,41023.0,52,0
-Grant,South Dakota,46051.0,11,0
-Grant,Washington,53025.0,6056,69
-Grant,West Virginia,54023.0,43,0
-Grant,Wisconsin,55043.0,1003,121
-Granville,North Carolina,37077.0,4411,146
-Gratiot,Michigan,26057.0,489,32
-Graves,Kentucky,21083.0,2770,261
-Gray,Kansas,20069.0,80,0
-Gray,Texas,48179.0,1231,0
-Grays Harbor,Washington,53027.0,431,0
-Grayson,Kentucky,21085.0,1422,73
-Grayson,Texas,48181.0,1144,0
-Grayson,Virginia,51077.0,51,0
-Greeley,Nebraska,31077.0,32,0
-Green,Kentucky,21087.0,38,0
-Green,Wisconsin,55045.0,515,0
-Green Lake,Wisconsin,55047.0,72,0
-Greenbrier,West Virginia,54025.0,169,0
-Greene,Alabama,1063.0,1390,22
-Greene,Arkansas,5055.0,489,0
-Greene,Georgia,13133.0,1615,69
-Greene,Illinois,17061.0,67,0
-Greene,Indiana,18055.0,2080,173
-Greene,Iowa,19073.0,144,0
-Greene,Mississippi,28041.0,131,17
-Greene,Missouri,29077.0,3491,332
-Greene,New York,36039.0,3785,15
-Greene,North Carolina,37079.0,607,2
-Greene,Ohio,39057.0,1434,105
-Greene,Pennsylvania,42059.0,936,8
-Greene,Tennessee,47059.0,1385,67
-Greene,Virginia,51079.0,313,20
-Greenlee,Arizona,4011.0,72,0
-Greensville,Virginia,51081.0,934,116
-Greenup,Kentucky,21089.0,314,0
-Greenville,South Carolina,45045.0,21011,751
-Greenwood,Kansas,20073.0,77,0
-Greenwood,South Carolina,45047.0,1412,0
-Greer,Oklahoma,40055.0,2009,187
-Gregg,Texas,48183.0,2326,0
-Grenada,Mississippi,28043.0,913,15
-Grimes,Texas,48185.0,547,25
-Grundy,Illinois,17063.0,1118,3
-Grundy,Iowa,19075.0,263,0
-Grundy,Tennessee,47061.0,945,27
-Guadalupe,New Mexico,35019.0,243,0
-Guadalupe,Texas,48187.0,2468,0
-Guernsey,Ohio,39059.0,441,0
-Guilford,North Carolina,37081.0,10648,689
-Gulf,Florida,12045.0,40,0
-Gunnison,Colorado,8051.0,5827,146
-Guthrie,Iowa,19077.0,376,0
-Gwinnett,Georgia,13135.0,51404,1666
-Habersham,Georgia,13137.0,6051,180
-Hale,Alabama,1065.0,1235,39
-Hale,Texas,48189.0,693,100
-Halifax,North Carolina,37083.0,1539,24
-Halifax,Virginia,51083.0,453,0
-Hall,Georgia,13139.0,35549,416
-Hall,Nebraska,31079.0,24520,578
-Hamblen,Tennessee,47063.0,477,50
-Hamilton,Florida,12047.0,170,0
-Hamilton,Illinois,17065.0,43,0
-Hamilton,Indiana,18057.0,24576,1657
-Hamilton,Iowa,19079.0,165,0
-Hamilton,Kansas,20075.0,82,0
-Hamilton,Nebraska,31081.0,1104,140
-Hamilton,New York,36041.0,148,0
-Hamilton,Ohio,39061.0,35277,1763
-Hamilton,Tennessee,47065.0,5551,458
-Hamilton,Texas,48193.0,141,0
-Hamlin,South Dakota,46057.0,69,0
-Hampden,Massachusetts,25013.0,104755,9423
-Hampshire,Massachusetts,25015.0,14464,735
-Hampshire,West Virginia,54027.0,211,22
-Hampton,South Carolina,45049.0,649,0
-Hampton city,Virginia,51650.0,3516,46
-Hancock,Georgia,13141.0,1197,28
-Hancock,Illinois,17067.0,164,0
-Hancock,Indiana,18059.0,6354,330
-Hancock,Iowa,19081.0,145,0
-Hancock,Kentucky,21091.0,177,0
-Hancock,Maine,23009.0,262,3
-Hancock,Mississippi,28045.0,2140,199
-Hancock,Ohio,39063.0,1111,31
-Hancock,West Virginia,54029.0,334,0
-Hand,South Dakota,46059.0,15,0
-Hanover,Virginia,51085.0,3328,209
-Hansford,Texas,48195.0,143,13
-Haralson,Georgia,13143.0,891,34
-Hardee,Florida,12049.0,482,0
-Hardeman,Tennessee,47069.0,700,0
-Hardin,Illinois,17069.0,20,0
-Hardin,Iowa,19083.0,188,0
-Hardin,Kentucky,21093.0,1277,11
-Hardin,Ohio,39065.0,615,0
-Hardin,Tennessee,47071.0,173,0
-Hardin,Texas,48199.0,3078,95
-Harding,New Mexico,35021.0,18,0
-Hardy,West Virginia,54031.0,189,0
-Harford,Maryland,24025.0,10917,293
-Harlan,Kentucky,21095.0,4,0
-Harnett,North Carolina,37085.0,3943,204
-Harney,Oregon,41025.0,13,0
-Harper,Kansas,20077.0,11,0
-Harper,Oklahoma,40059.0,23,0
-Harris,Georgia,13145.0,1587,56
-Harris,Texas,48201.0,192577,3244
-Harrison,Indiana,18061.0,3713,185
-Harrison,Iowa,19085.0,608,0
-Harrison,Kentucky,21097.0,818,0
-Harrison,Mississippi,28047.0,5867,199
-Harrison,Missouri,29081.0,211,0
-Harrison,Ohio,39067.0,97,0
-Harrison,Texas,48203.0,2666,113
-Harrison,West Virginia,54033.0,1179,35
-Harrisonburg city,Virginia,51660.0,10705,262
-Hart,Georgia,13147.0,298,0
-Hart,Kentucky,21099.0,134,0
-Hartford,Connecticut,9003.0,151924,16366
-Hartley,Texas,48205.0,97,11
-Harvey,Kansas,20079.0,221,0
-Haskell,Kansas,20081.0,156,0
-Haskell,Oklahoma,40061.0,94,0
-Hawaii,Hawaii,15001.0,2218,0
-Hawkins,Tennessee,47073.0,994,68
-Hays,Texas,48209.0,5191,31
-Haywood,North Carolina,37087.0,257,0
-Haywood,Tennessee,47075.0,605,31
-Heard,Georgia,13149.0,312,47
-Hemphill,Texas,48211.0,37,0
-Hempstead,Arkansas,5057.0,193,32
-Henderson,Illinois,17071.0,93,0
-Henderson,Kentucky,21101.0,1753,24
-Henderson,North Carolina,37089.0,5070,456
-Henderson,Tennessee,47077.0,186,0
-Henderson,Texas,48213.0,683,0
-Hendricks,Indiana,18063.0,20729,1050
-Hendry,Florida,12051.0,2213,66
-Hennepin,Minnesota,27053.0,51564,5456
-Henrico,Virginia,51087.0,24744,2644
-Henry,Alabama,1067.0,671,17
-Henry,Georgia,13151.0,15279,340
-Henry,Illinois,17073.0,1275,0
-Henry,Indiana,18065.0,1291,32
-Henry,Iowa,19087.0,1045,36
-Henry,Kentucky,21103.0,179,0
-Henry,Missouri,29083.0,231,43
-Henry,Ohio,39069.0,128,0
-Henry,Tennessee,47079.0,375,0
-Henry,Virginia,51089.0,452,20
-Herkimer,New York,36043.0,2008,55
-Hernando,Florida,12053.0,3203,113
-Hertford,North Carolina,37091.0,793,36
-Hickman,Kentucky,21105.0,52,0
-Hickman,Tennessee,47081.0,807,0
-Hidalgo,Texas,48215.0,9977,136
-Highland,Ohio,39071.0,322,7
-Highland,Virginia,51091.0,32,0
-Highlands,Florida,12055.0,2720,230
-Hill,Montana,30041.0,47,0
-Hill,Texas,48217.0,459,25
-Hillsborough,Florida,12057.0,39550,781
-Hillsborough,New Hampshire,33011.0,28141,1054
-Hillsdale,Michigan,26059.0,3823,466
-Hinds,Mississippi,28049.0,14945,213
-Hinsdale,Colorado,8053.0,107,0
-Hitchcock,Nebraska,31087.0,11,0
-Hocking,Ohio,39073.0,339,19
-Hockley,Texas,48219.0,680,38
-Hoke,North Carolina,37093.0,1892,0
-Holmes,Florida,12059.0,245,0
-Holmes,Mississippi,28051.0,3655,240
-Holmes,Ohio,39075.0,165,21
-Holt,Missouri,29087.0,26,0
-Holt,Nebraska,31089.0,8,0
-Honolulu,Hawaii,15003.0,15470,291
-Hood,Texas,48221.0,647,90
-Hood River,Oregon,41027.0,232,0
-Hopewell city,Virginia,51670.0,770,0
-Hopkins,Kentucky,21107.0,5367,583
-Hopkins,Texas,48223.0,189,0
-Horry,South Carolina,45051.0,7034,464
-Hot Spring,Arkansas,5059.0,486,0
-Hot Springs,Wyoming,56017.0,103,0
-Houghton,Michigan,26061.0,70,0
-Houston,Alabama,1069.0,2582,101
-Houston,Georgia,13153.0,7054,432
-Houston,Minnesota,27055.0,40,0
-Houston,Tennessee,47083.0,168,0
-Houston,Texas,48225.0,126,0
-Howard,Arkansas,5061.0,442,1
-Howard,Indiana,18067.0,4321,222
-Howard,Iowa,19089.0,202,0
-Howard,Maryland,24027.0,24831,525
-Howard,Missouri,29089.0,66,0
-Howard,Nebraska,31093.0,310,0
-Howard,Texas,48227.0,94,30
-Howell,Missouri,29091.0,166,0
-Hudson,New Jersey,34017.0,432691,19868
-Huerfano,Colorado,8055.0,67,0
-Hughes,South Dakota,46065.0,290,0
-Humboldt,California,6023.0,2194,0
-Humboldt,Iowa,19091.0,82,0
-Humboldt,Nevada,32013.0,1254,58
-Humphreys,Mississippi,28053.0,611,100
-Humphreys,Tennessee,47085.0,276,16
-Hunt,Texas,48231.0,1247,63
-Hunterdon,New Jersey,34019.0,18073,786
-Huntingdon,Pennsylvania,42061.0,1240,0
-Huntington,Indiana,18069.0,302,58
-Huron,Michigan,26063.0,522,10
-Huron,Ohio,39077.0,863,43
-Hutchinson,South Dakota,46067.0,103,0
-Hutchinson,Texas,48233.0,349,0
-Hyde,North Carolina,37095.0,12,0
-Hyde,South Dakota,46069.0,28,0
-Iberia,Louisiana,22045.0,7638,493
-Iberville,Louisiana,22047.0,12715,836
-Idaho,Idaho,16049.0,122,0
-Imperial,California,6025.0,9002,191
-Independence,Arkansas,5063.0,344,0
-Indian River,Florida,12061.0,3383,153
-Indiana,Pennsylvania,42063.0,1936,104
-Ingham,Michigan,26065.0,14256,298
-Inyo,California,6027.0,690,18
-Ionia,Michigan,26067.0,1686,65
-Iosco,Michigan,26069.0,963,127
-Iowa,Iowa,19095.0,550,0
-Iowa,Wisconsin,55049.0,263,0
-Iredell,North Carolina,37097.0,3633,103
-Iron,Missouri,29093.0,52,0
-Iron,Utah,49021.0,760,0
-Iron,Wisconsin,55051.0,75,45
-Iroquois,Illinois,17075.0,951,9
-Irwin,Georgia,13155.0,569,19
-Isabella,Michigan,26073.0,1823,211
-Isanti,Minnesota,27059.0,208,0
-Island,Washington,53029.0,7202,323
-Isle of Wight,Virginia,51093.0,2749,45
-Itasca,Minnesota,27061.0,239,0
-Itawamba,Mississippi,28057.0,1258,70
-Izard,Arkansas,5065.0,155,0
-Jack,Texas,48237.0,111,0
-Jackson,Alabama,1071.0,1495,79
-Jackson,Arkansas,5067.0,28,0
-Jackson,Florida,12063.0,621,0
-Jackson,Georgia,13157.0,2474,50
-Jackson,Illinois,17077.0,2688,209
-Jackson,Indiana,18071.0,4345,13
-Jackson,Iowa,19097.0,182,0
-Jackson,Kansas,20085.0,68,0
-Jackson,Kentucky,21109.0,1491,170
-Jackson,Louisiana,22049.0,933,38
-Jackson,Michigan,26075.0,10197,524
-Jackson,Minnesota,27063.0,354,0
-Jackson,Mississippi,28059.0,8000,235
-Jackson,Missouri,29095.0,10889,418
-Jackson,North Carolina,37099.0,264,6
-Jackson,Ohio,39079.0,137,0
-Jackson,Oklahoma,40065.0,436,0
-Jackson,Oregon,41029.0,1915,0
-Jackson,Tennessee,47087.0,238,0
-Jackson,Texas,48239.0,267,0
-Jackson,West Virginia,54035.0,3239,272
-Jackson,Wisconsin,55053.0,396,28
-James City,Virginia,51095.0,6305,362
-Jasper,Georgia,13159.0,617,0
-Jasper,Illinois,17079.0,960,89
-Jasper,Indiana,18073.0,1035,46
-Jasper,Iowa,19099.0,3300,42
-Jasper,Mississippi,28061.0,1207,30
-Jasper,Missouri,29097.0,778,0
-Jasper,South Carolina,45053.0,646,22
-Jasper,Texas,48241.0,393,32
-Jay,Indiana,18075.0,405,0
-Jeff Davis,Georgia,13161.0,375,21
-Jefferson,Alabama,1073.0,31035,1182
-Jefferson,Arkansas,5069.0,5679,331
-Jefferson,Colorado,8059.0,42510,2000
-Jefferson,Florida,12065.0,776,46
-Jefferson,Georgia,13163.0,416,32
-Jefferson,Idaho,16051.0,188,0
-Jefferson,Illinois,17081.0,1787,197
-Jefferson,Indiana,18077.0,778,0
-Jefferson,Iowa,19101.0,189,0
-Jefferson,Kansas,20087.0,272,0
-Jefferson,Kentucky,21111.0,36766,2652
-Jefferson,Louisiana,22051.0,217495,10783
-Jefferson,Mississippi,28063.0,435,0
-Jefferson,Missouri,29099.0,7755,181
-Jefferson,Montana,30043.0,93,0
-Jefferson,Nebraska,31095.0,53,0
-Jefferson,New York,36045.0,2045,0
-Jefferson,Ohio,39081.0,1278,24
-Jefferson,Oklahoma,40067.0,58,0
-Jefferson,Oregon,41031.0,231,0
-Jefferson,Pennsylvania,42065.0,125,0
-Jefferson,Tennessee,47089.0,712,2
-Jefferson,Texas,48245.0,8055,491
-Jefferson,Washington,53031.0,1220,0
-Jefferson,West Virginia,54037.0,2412,13
-Jefferson,Wisconsin,55055.0,1339,4
-Jefferson Davis,Louisiana,22053.0,1937,163
-Jefferson Davis,Mississippi,28065.0,750,28
-Jenkins,Georgia,13165.0,481,33
-Jennings,Indiana,18079.0,2619,70
-Jerauld,South Dakota,46073.0,152,17
-Jerome,Idaho,16053.0,1553,65
-Jersey,Illinois,17083.0,360,16
-Jessamine,Kentucky,21113.0,1293,0
-Jewell,Kansas,20089.0,122,0
-Jim Hogg,Texas,48247.0,44,0
-Jim Wells,Texas,48249.0,112,0
-Jo Daviess,Illinois,17085.0,440,0
-Johnson,Arkansas,5071.0,879,0
-Johnson,Georgia,13167.0,1327,48
-Johnson,Illinois,17087.0,88,0
-Johnson,Indiana,18081.0,18540,1686
-Johnson,Iowa,19103.0,13789,140
-Johnson,Kansas,20091.0,15817,1137
-Johnson,Kentucky,21115.0,70,0
-Johnson,Missouri,29101.0,1920,0
-Johnson,Nebraska,31097.0,94,0
-Johnson,Tennessee,47091.0,117,0
-Johnson,Texas,48251.0,2410,67
-Johnson,Wyoming,56019.0,509,28
-Johnston,North Carolina,37101.0,4704,372
-Johnston,Oklahoma,40069.0,79,0
-Jones,Georgia,13169.0,781,0
-Jones,Iowa,19105.0,631,0
-Jones,Mississippi,28067.0,3787,37
-Jones,North Carolina,37103.0,367,49
-Jones,Texas,48253.0,928,0
-Josephine,Oregon,41033.0,798,30
-Juab,Utah,49023.0,169,0
-Juneau,Wisconsin,55057.0,453,29
-Juneau City and Borough,Alaska,2110.0,908,0
-Juniata,Pennsylvania,42067.0,2327,12
-Kalamazoo,Michigan,26077.0,9816,460
-Kalkaska,Michigan,26079.0,611,78
-Kanabec,Minnesota,27065.0,35,0
-Kanawha,West Virginia,54039.0,4907,138
-Kandiyohi,Minnesota,27067.0,2520,13
-Kane,Illinois,17089.0,41928,1536
-Kane,Utah,49025.0,107,0
-Kankakee,Illinois,17091.0,10815,726
-Karnes,Texas,48255.0,116,0
-Kauai,Hawaii,15007.0,875,0
-Kaufman,Texas,48257.0,2154,11
-Kay,Oklahoma,40071.0,1842,186
-Kearney,Nebraska,31099.0,154,0
-Kearny,Kansas,20093.0,346,0
-Keith,Nebraska,31101.0,12,0
-Kemper,Mississippi,28069.0,1439,51
-Kenai Peninsula Borough,Alaska,2122.0,720,5
-Kendall,Illinois,17093.0,7357,208
-Kendall,Texas,48259.0,581,0
-Kennebec,Maine,23011.0,3179,160
-Kenosha,Wisconsin,55059.0,12388,265
-Kent,Delaware,10001.0,19927,636
-Kent,Maryland,24029.0,1798,109
-Kent,Michigan,26081.0,36147,942
-Kent,Rhode Island,44003.0,15619,224
-Kenton,Kentucky,21117.0,7480,559
-Keokuk,Iowa,19107.0,118,0
-Kern,California,6029.0,26856,215
-Kerr,Texas,48265.0,160,0
-Kershaw,South Carolina,45055.0,8983,308
-Ketchikan Gateway Borough,Alaska,2130.0,727,0
-Kewaunee,Wisconsin,55061.0,387,27
-Kimball,Nebraska,31105.0,362,0
-Kimble,Texas,48267.0,3,0
-King,Washington,53033.0,230763,16045
-King George,Virginia,51099.0,883,78
-King William,Virginia,51101.0,174,12
-King and Queen,Virginia,51097.0,88,0
-Kingfisher,Oklahoma,40073.0,238,0
-Kings,California,6031.0,2999,30
-Kiowa,Kansas,20097.0,26,0
-Kiowa,Oklahoma,40075.0,124,0
-Kit Carson,Colorado,8063.0,595,44
-Kitsap,Washington,53035.0,5850,61
-Kittitas,Washington,53037.0,668,0
-Kittson,Minnesota,27069.0,23,0
-Klamath,Oregon,41035.0,1217,0
-Kleberg,Texas,48273.0,233,28
-Klickitat,Washington,53039.0,668,94
-Knott,Kentucky,21119.0,94,0
-Knox,Illinois,17095.0,946,0
-Knox,Indiana,18083.0,641,0
-Knox,Kentucky,21121.0,146,0
-Knox,Maine,23013.0,530,0
-Knox,Nebraska,31107.0,119,0
-Knox,Ohio,39083.0,529,39
-Knox,Tennessee,47093.0,7946,156
-Knox,Texas,48275.0,34,0
-Kodiak Island Borough,Alaska,2150.0,25,0
-Koochiching,Minnesota,27071.0,39,0
-Kootenai,Idaho,16055.0,2218,0
-Kosciusko,Indiana,18085.0,1003,46
-Kossuth,Iowa,19109.0,61,0
-La Crosse,Wisconsin,55063.0,1164,0
-La Paz,Arizona,4012.0,340,39
-La Plata,Colorado,8067.0,2096,2
-La Salle,Texas,48283.0,27,0
-LaGrange,Indiana,18087.0,750,48
-LaPorte,Indiana,18091.0,5601,201
-LaSalle,Illinois,17099.0,1629,58
-LaSalle,Louisiana,22059.0,661,0
-Labette,Kansas,20099.0,682,0
-Lac qui Parle,Minnesota,27073.0,56,0
-Lackawanna,Pennsylvania,42069.0,26083,2041
-Laclede,Missouri,29105.0,3,0
-Lafayette,Arkansas,5073.0,196,15
-Lafayette,Florida,12067.0,49,0
-Lafayette,Louisiana,22055.0,16065,607
-Lafayette,Mississippi,28071.0,2505,91
-Lafayette,Missouri,29107.0,1423,42
-Lafayette,Wisconsin,55065.0,157,0
-Lafourche,Louisiana,22057.0,21229,1173
-Lake,California,6033.0,203,0
-Lake,Colorado,8065.0,448,0
-Lake,Florida,12069.0,7803,301
-Lake,Illinois,17097.0,102465,3513
-Lake,Indiana,18089.0,51015,2338
-Lake,Michigan,26085.0,58,0
-Lake,Minnesota,27075.0,4,0
-Lake,Montana,30047.0,208,0
-Lake,Ohio,39085.0,5678,249
-Lake,South Dakota,46079.0,117,0
-Lake,Tennessee,47095.0,992,0
-Lamar,Alabama,1075.0,347,0
-Lamar,Georgia,13171.0,1068,15
-Lamar,Mississippi,28073.0,2858,66
-Lamar,Texas,48277.0,1077,4
-Lamb,Texas,48279.0,100,0
-Lamoille,Vermont,50015.0,966,63
-Lampasas,Texas,48281.0,126,0
-Lancaster,Nebraska,31109.0,6861,37
-Lancaster,Pennsylvania,42071.0,49595,4279
-Lancaster,South Carolina,45057.0,3091,87
-Lancaster,Virginia,51103.0,84,0
-Lander,Nevada,32015.0,149,0
-Lane,Oregon,41039.0,1846,71
-Lanier,Georgia,13173.0,261,30
-Lapeer,Michigan,26087.0,5079,649
-Laramie,Wyoming,56021.0,4034,26
-Larimer,Colorado,8069.0,11484,561
-Larue,Kentucky,21123.0,178,0
-Las Animas,Colorado,8071.0,101,0
-Latah,Idaho,16057.0,141,0
-Latimer,Oklahoma,40077.0,174,37
-Lauderdale,Alabama,1077.0,1480,111
-Lauderdale,Mississippi,28075.0,9687,665
-Lauderdale,Tennessee,47097.0,572,0
-Laurel,Kentucky,21125.0,484,56
-Laurens,Georgia,13175.0,1869,31
-Laurens,South Carolina,45059.0,955,42
-Lavaca,Texas,48285.0,186,16
-Lawrence,Alabama,1079.0,455,0
-Lawrence,Arkansas,5075.0,1300,66
-Lawrence,Illinois,17101.0,88,0
-Lawrence,Indiana,18093.0,3161,389
-Lawrence,Kentucky,21127.0,41,0
-Lawrence,Mississippi,28077.0,1086,0
-Lawrence,Missouri,29109.0,27,0
-Lawrence,Ohio,39087.0,747,0
-Lawrence,Pennsylvania,42073.0,2141,197
-Lawrence,South Dakota,46081.0,375,0
-Lawrence,Tennessee,47099.0,546,0
-Le Flore,Oklahoma,40079.0,282,3
-Le Sueur,Minnesota,27079.0,979,0
-Lea,New Mexico,35025.0,270,0
-Leake,Mississippi,28079.0,4743,39
-Leavenworth,Kansas,20103.0,10256,112
-Lebanon,Pennsylvania,42075.0,18599,241
-Lee,Alabama,1081.0,12311,684
-Lee,Arkansas,5077.0,109,27
-Lee,Florida,12071.0,32844,1298
-Lee,Georgia,13177.0,10980,688
-Lee,Illinois,17103.0,810,0
-Lee,Iowa,19111.0,231,0
-Lee,Mississippi,28081.0,2406,140
-Lee,North Carolina,37105.0,3400,9
-Lee,South Carolina,45061.0,1854,195
-Lee,Texas,48287.0,85,0
-Lee,Virginia,51105.0,288,0
-Leelanau,Michigan,26089.0,273,0
-Leflore,Mississippi,28083.0,4125,408
-Lehigh,Pennsylvania,42077.0,86021,1910
-Lemhi,Idaho,16059.0,16,0
-Lenawee,Michigan,26091.0,2911,25
-Lenoir,North Carolina,37107.0,1622,60
-Leon,Florida,12073.0,6689,76
-Leon,Texas,48289.0,185,0
-Leslie,Kentucky,21131.0,88,0
-Letcher,Kentucky,21133.0,59,0
-Levy,Florida,12075.0,480,0
-Lewis,Kentucky,21135.0,107,0
-Lewis,Missouri,29111.0,113,19
-Lewis,New York,36049.0,322,0
-Lewis,Tennessee,47101.0,93,0
-Lewis,Washington,53041.0,971,88
-Lewis,West Virginia,54041.0,98,0
-Lewis and Clark,Montana,30049.0,708,0
-Lexington,South Carolina,45063.0,11442,426
-Lexington city,Virginia,51678.0,132,0
-Liberty,Florida,12077.0,1009,0
-Liberty,Georgia,13179.0,1139,0
-Liberty,Montana,30051.0,41,0
-Liberty,Texas,48291.0,1214,7
-Licking,Ohio,39089.0,4022,159
-Limestone,Alabama,1083.0,1731,0
-Limestone,Texas,48293.0,411,37
-Lincoln,Arkansas,5079.0,16521,46
-Lincoln,Colorado,8073.0,99,0
-Lincoln,Georgia,13181.0,395,0
-Lincoln,Idaho,16063.0,773,0
-Lincoln,Kentucky,21137.0,129,26
-Lincoln,Louisiana,22061.0,2362,151
-Lincoln,Maine,23015.0,533,0
-Lincoln,Minnesota,27081.0,92,0
-Lincoln,Mississippi,28085.0,4001,256
-Lincoln,Missouri,29113.0,1450,33
-Lincoln,Montana,30053.0,296,45
-Lincoln,Nebraska,31111.0,920,55
-Lincoln,Nevada,32017.0,3,0
-Lincoln,New Mexico,35027.0,57,0
-Lincoln,North Carolina,37109.0,872,0
-Lincoln,Oklahoma,40081.0,465,15
-Lincoln,Oregon,41041.0,193,0
-Lincoln,South Dakota,46083.0,3863,0
-Lincoln,Tennessee,47103.0,421,0
-Lincoln,Washington,53043.0,87,0
-Lincoln,West Virginia,54043.0,48,0
-Lincoln,Wisconsin,55069.0,10,0
-Lincoln,Wyoming,56023.0,255,0
-Linn,Iowa,19113.0,18197,1142
-Linn,Kansas,20107.0,274,0
-Linn,Missouri,29115.0,162,28
-Linn,Oregon,41043.0,3079,223
-Lipscomb,Texas,48295.0,25,0
-Litchfield,Connecticut,9005.0,27116,2140
-Live Oak,Texas,48297.0,155,0
-Livingston,Illinois,17105.0,692,21
-Livingston,Kentucky,21139.0,87,0
-Livingston,Louisiana,22063.0,6473,359
-Livingston,Michigan,26093.0,11122,449
-Livingston,Missouri,29117.0,76,0
-Livingston,New York,36051.0,2053,63
-Llano,Texas,48299.0,135,0
-Logan,Arkansas,5083.0,87,1
-Logan,Colorado,8075.0,5123,29
-Logan,Illinois,17107.0,180,0
-Logan,Kentucky,21141.0,451,12
-Logan,Ohio,39091.0,533,0
-Logan,Oklahoma,40083.0,459,12
-Logan,West Virginia,54045.0,391,29
-Long,Georgia,13183.0,115,0
-Lonoke,Arkansas,5085.0,1281,0
-Lorain,Ohio,39093.0,12880,737
-Los Alamos,New Mexico,35028.0,193,0
-Los Angeles,California,6037.0,658533,28543
-Loudon,Tennessee,47105.0,1014,0
-Loudoun,Virginia,51107.0,21925,384
-Louisa,Iowa,19115.0,7038,51
-Louisa,Virginia,51109.0,1379,0
-Love,Oklahoma,40085.0,85,0
-Lowndes,Alabama,1085.0,1532,41
-Lowndes,Georgia,13185.0,4414,123
-Lowndes,Mississippi,28087.0,1607,49
-Lubbock,Texas,48303.0,16157,1174
-Lucas,Ohio,39095.0,35623,2469
-Luce,Michigan,26095.0,38,0
-Lumpkin,Georgia,13187.0,1287,20
-Luna,New Mexico,35029.0,127,11
-Lunenburg,Virginia,51111.0,120,0
-Luzerne,Pennsylvania,42079.0,67280,2091
-Lycoming,Pennsylvania,42081.0,1931,53
-Lyman,South Dakota,46085.0,95,0
-Lynchburg city,Virginia,51680.0,1645,20
-Lynn,Texas,48305.0,187,20
-Lyon,Iowa,19119.0,282,0
-Lyon,Kansas,20111.0,5095,29
-Lyon,Kentucky,21143.0,457,88
-Lyon,Minnesota,27083.0,267,0
-Lyon,Nevada,32019.0,749,0
-Mackinac,Michigan,26097.0,176,0
-Macomb,Michigan,26099.0,173005,16218
-Macon,Alabama,1087.0,999,62
-Macon,Georgia,13193.0,1980,60
-Macon,Illinois,17115.0,2785,291
-Macon,Missouri,29121.0,87,0
-Macon,North Carolina,37113.0,82,34
-Macon,Tennessee,47111.0,2358,258
-Macoupin,Illinois,17117.0,866,6
-Madera,California,6039.0,1746,83
-Madison,Alabama,1089.0,8442,139
-Madison,Arkansas,5087.0,33,0
-Madison,Florida,12079.0,1280,47
-Madison,Georgia,13195.0,706,42
-Madison,Idaho,16065.0,341,0
-Madison,Illinois,17119.0,8648,473
-Madison,Indiana,18095.0,12647,1404
-Madison,Iowa,19121.0,169,30
-Madison,Kentucky,21151.0,958,36
-Madison,Louisiana,22065.0,196,0
-Madison,Mississippi,28089.0,7332,199
-Madison,Missouri,29123.0,43,0
-Madison,Montana,30057.0,346,42
-Madison,Nebraska,31119.0,2847,89
-Madison,New York,36053.0,5332,91
-Madison,North Carolina,37115.0,16,0
-Madison,Ohio,39097.0,1661,110
-Madison,Tennessee,47113.0,3569,22
-Madison,Texas,48313.0,58,0
-Madison,Virginia,51113.0,435,7
-Mahaska,Iowa,19123.0,372,21
-Mahnomen,Minnesota,27087.0,57,5
-Mahoning,Ohio,39099.0,25618,2271
-Major,Oklahoma,40093.0,87,27
-Malheur,Oregon,41045.0,254,0
-Manassas Park city,Virginia,51685.0,1628,27
-Manassas city,Virginia,51683.0,5399,29
-Manatee,Florida,12081.0,16823,1370
-Manistee,Michigan,26101.0,388,0
-Manitowoc,Wisconsin,55071.0,315,15
-Marathon,Wisconsin,55073.0,649,30
-Marengo,Alabama,1091.0,1458,77
-Maricopa,Arizona,4013.0,123104,4075
-Maries,Missouri,29125.0,80,0
-Marin,California,6041.0,8701,440
-Marinette,Wisconsin,55075.0,267,26
-Marion,Alabama,1093.0,2444,186
-Marion,Arkansas,5089.0,31,0
-Marion,Florida,12083.0,5187,127
-Marion,Georgia,13197.0,996,24
-Marion,Illinois,17121.0,859,0
-Marion,Indiana,18097.0,170849,8904
-Marion,Iowa,19125.0,229,0
-Marion,Kansas,20115.0,169,14
-Marion,Kentucky,21155.0,477,0
-Marion,Mississippi,28091.0,1800,114
-Marion,Missouri,29127.0,91,0
-Marion,Ohio,39101.0,51455,130
-Marion,Oregon,41047.0,16105,550
-Marion,South Carolina,45067.0,836,54
-Marion,Tennessee,47115.0,1039,40
-Marion,Texas,48315.0,243,0
-Marion,West Virginia,54049.0,1511,70
-Mariposa,California,6043.0,147,0
-Marlboro,South Carolina,45069.0,1181,7
-Marquette,Michigan,26103.0,1325,213
-Marquette,Wisconsin,55077.0,110,23
-Marshall,Alabama,1095.0,8737,160
-Marshall,Illinois,17123.0,119,0
-Marshall,Indiana,18099.0,866,19
-Marshall,Iowa,19127.0,10725,28
-Marshall,Kentucky,21157.0,773,10
-Marshall,Minnesota,27089.0,75,0
-Marshall,Mississippi,28093.0,1556,69
-Marshall,Oklahoma,40095.0,57,0
-Marshall,South Dakota,46091.0,42,0
-Marshall,Tennessee,47117.0,640,31
-Marshall,West Virginia,54051.0,432,0
-Martin,Florida,12085.0,6256,151
-Martin,Indiana,18101.0,196,0
-Martin,Kentucky,21159.0,105,0
-Martin,Minnesota,27091.0,2497,162
-Martin,North Carolina,37117.0,482,7
-Martin,Texas,48317.0,86,6
-Mason,Illinois,17125.0,266,0
-Mason,Kentucky,21161.0,205,0
-Mason,Michigan,26105.0,242,0
-Mason,Texas,48319.0,321,0
-Mason,Washington,53045.0,862,15
-Mason,West Virginia,54053.0,396,0
-Massac,Illinois,17127.0,126,0
-Matagorda,Texas,48321.0,2271,141
-Matanuska-Susitna Borough,Alaska,2170.0,633,27
-Mathews,Virginia,51115.0,137,0
-Maui,Hawaii,15009.0,3861,148
-Maury,Tennessee,47119.0,1523,29
-Maverick,Texas,48323.0,574,0
-Mayes,Oklahoma,40097.0,720,112
-McClain,Oklahoma,40087.0,1480,22
-McCook,South Dakota,46087.0,152,32
-McCormick,South Carolina,45065.0,188,34
-McCracken,Kentucky,21145.0,1422,65
-McCreary,Kentucky,21147.0,335,0
-McCulloch,Texas,48307.0,93,0
-McCurtain,Oklahoma,40089.0,232,0
-McDonald,Missouri,29119.0,155,0
-McDonough,Illinois,17109.0,486,15
-McDowell,North Carolina,37111.0,787,16
-McDowell,West Virginia,54047.0,191,0
-McDuffie,Georgia,13189.0,1322,112
-McHenry,Illinois,17111.0,17711,865
-McHenry,North Dakota,38049.0,48,42
-McIntosh,Georgia,13191.0,159,0
-McIntosh,North Dakota,38051.0,46,0
-McIntosh,Oklahoma,40091.0,62,0
-McKean,Pennsylvania,42083.0,161,4
-McKenzie,North Dakota,38053.0,376,0
-McKinley,New Mexico,35031.0,23470,448
-McLean,Illinois,17113.0,3371,116
-McLean,Kentucky,21149.0,341,0
-McLean,North Dakota,38055.0,132,0
-McLennan,Texas,48309.0,3389,127
-McLeod,Minnesota,27085.0,126,0
-McMinn,Tennessee,47107.0,1534,27
-McNairy,Tennessee,47109.0,356,0
-McPherson,Kansas,20113.0,683,0
-McPherson,South Dakota,46089.0,16,0
-Meade,Kansas,20119.0,157,0
-Meade,Kentucky,21163.0,263,34
-Meade,South Dakota,46093.0,56,0
-Meagher,Montana,30059.0,46,0
-Mecklenburg,North Carolina,37119.0,52819,1207
-Mecklenburg,Virginia,51117.0,2727,166
-Mecosta,Michigan,26107.0,473,53
-Medina,Ohio,39103.0,5739,416
-Medina,Texas,48325.0,614,57
-Meeker,Minnesota,27093.0,272,0
-Meigs,Ohio,39105.0,68,0
-Meigs,Tennessee,47121.0,252,0
-Menard,Illinois,17129.0,239,0
-Mendocino,California,6045.0,352,0
-Menifee,Kentucky,21165.0,139,0
-Menominee,Michigan,26109.0,98,0
-Menominee,Wisconsin,55078.0,44,0
-Merced,California,6047.0,3688,102
-Mercer,Illinois,17131.0,215,0
-Mercer,Kentucky,21167.0,353,0
-Mercer,New Jersey,34021.0,109184,5746
-Mercer,North Dakota,38057.0,18,0
-Mercer,Ohio,39107.0,823,37
-Mercer,Pennsylvania,42085.0,2050,27
-Mercer,West Virginia,54055.0,347,0
-Meriwether,Georgia,13199.0,1578,10
-Merrick,Nebraska,31121.0,354,0
-Merrimack,New Hampshire,33013.0,4824,122
-Mesa,Colorado,8077.0,1542,0
-Metcalfe,Kentucky,21169.0,17,0
-Miami,Indiana,18103.0,2104,9
-Miami,Kansas,20121.0,163,0
-Miami,Ohio,39109.0,5458,843
-Miami-Dade,Florida,12086.0,380295,9172
-Middlesex,Connecticut,9007.0,18722,1997
-Middlesex,Massachusetts,25017.0,390471,20060
-Middlesex,New Jersey,34023.0,340112,15019
-Middlesex,Virginia,51119.0,154,0
-Midland,Michigan,26111.0,1823,123
-Midland,Texas,48329.0,2337,176
-Mifflin,Pennsylvania,42087.0,952,0
-Milam,Texas,48331.0,451,17
-Millard,Utah,49027.0,166,0
-Mille Lacs,Minnesota,27095.0,62,22
-Miller,Arkansas,5091.0,1071,19
-Miller,Georgia,13201.0,895,0
-Miller,Missouri,29131.0,39,0
-Mills,Iowa,19129.0,93,0
-Milwaukee,Wisconsin,55079.0,95966,5238
-Miner,South Dakota,46097.0,31,0
-Mineral,Colorado,8079.0,84,0
-Mineral,Nevada,32021.0,59,0
-Mineral,West Virginia,54057.0,408,0
-Mingo,West Virginia,54059.0,54,26
-Minidoka,Idaho,16067.0,290,0
-Minnehaha,South Dakota,46099.0,52613,308
-Missaukee,Michigan,26113.0,334,45
-Mississippi,Arkansas,5093.0,584,0
-Mississippi,Missouri,29133.0,504,0
-Missoula,Montana,30063.0,1426,37
-Mitchell,Georgia,13205.0,8880,838
-Mitchell,Iowa,19131.0,90,0
-Mitchell,Kansas,20123.0,121,0
-Mitchell,North Carolina,37121.0,160,0
-Mitchell,Texas,48335.0,34,0
-Mobile,Alabama,1097.0,29584,1447
-Moffat,Colorado,8081.0,203,0
-Mohave,Arizona,4015.0,3030,249
-Moniteau,Missouri,29135.0,945,0
-Monmouth,New Jersey,34025.0,192905,9411
-Mono,California,6051.0,1001,41
-Monona,Iowa,19133.0,312,0
-Monongalia,West Virginia,54061.0,3638,139
-Monroe,Alabama,1099.0,375,33
-Monroe,Arkansas,5095.0,113,0
-Monroe,Florida,12087.0,2846,109
-Monroe,Georgia,13207.0,753,67
-Monroe,Illinois,17133.0,2052,246
-Monroe,Indiana,18105.0,4143,172
-Monroe,Iowa,19135.0,16,0
-Monroe,Kentucky,21171.0,132,0
-Monroe,Michigan,26115.0,9655,345
-Monroe,Mississippi,28095.0,3810,321
-Monroe,New York,36055.0,45586,2742
-Monroe,Ohio,39111.0,107,0
-Monroe,Pennsylvania,42089.0,37692,1519
-Monroe,Tennessee,47123.0,588,25
-Monroe,West Virginia,54063.0,129,0
-Monroe,Wisconsin,55081.0,442,13
-Montague,Texas,48337.0,194,20
-Montcalm,Michigan,26117.0,1181,34
-Monterey,California,6053.0,6233,168
-Montezuma,Colorado,8083.0,534,70
-Montgomery,Alabama,1101.0,10276,207
-Montgomery,Arkansas,5097.0,13,0
-Montgomery,Georgia,13209.0,67,0
-Montgomery,Illinois,17135.0,677,3
-Montgomery,Indiana,18107.0,1845,16
-Montgomery,Iowa,19137.0,54,0
-Montgomery,Kansas,20125.0,550,74
-Montgomery,Kentucky,21173.0,404,0
-Montgomery,Maryland,24031.0,124155,5789
-Montgomery,Mississippi,28097.0,970,41
-Montgomery,Missouri,29139.0,262,0
-Montgomery,New York,36057.0,1586,41
-Montgomery,North Carolina,37123.0,885,49
-Montgomery,Ohio,39113.0,9258,289
-Montgomery,Pennsylvania,42091.0,125953,8437
-Montgomery,Tennessee,47125.0,4602,70
-Montgomery,Texas,48339.0,17021,336
-Montgomery,Virginia,51121.0,1576,16
-Montmorency,Michigan,26119.0,121,0
-Montour,Pennsylvania,42093.0,1689,0
-Montrose,Colorado,8085.0,3008,284
-Moody,South Dakota,46101.0,122,0
-Moore,North Carolina,37125.0,2576,73
-Moore,Tennessee,47127.0,68,0
-Moore,Texas,48341.0,7342,91
-Morehouse,Louisiana,22067.0,1515,108
-Morgan,Alabama,1103.0,2221,0
-Morgan,Colorado,8087.0,8426,327
-Morgan,Georgia,13211.0,795,0
-Morgan,Illinois,17137.0,631,42
-Morgan,Indiana,18109.0,4976,166
-Morgan,Kentucky,21175.0,29,0
-Morgan,Missouri,29141.0,113,0
-Morgan,Ohio,39115.0,119,0
-Morgan,Tennessee,47129.0,217,0
-Morgan,Utah,49029.0,273,0
-Morgan,West Virginia,54065.0,330,0
-Morrill,Nebraska,31123.0,65,0
-Morris,Kansas,20127.0,124,0
-Morris,New Jersey,34027.0,164184,11173
-Morris,Texas,48343.0,193,0
-Morrison,Minnesota,27097.0,107,0
-Morrow,Ohio,39117.0,1267,14
-Morrow,Oregon,41049.0,235,0
-Morton,Kansas,20129.0,74,0
-Morton,North Dakota,38059.0,1047,70
-Motley,Texas,48345.0,28,0
-Moultrie,Illinois,17139.0,127,0
-Mountrail,North Dakota,38061.0,1131,0
-Mower,Minnesota,27099.0,1140,0
-Muhlenberg,Kentucky,21177.0,5162,102
-Multnomah,Oregon,41051.0,21583,1189
-Murray,Georgia,13213.0,894,10
-Murray,Minnesota,27101.0,311,0
-Murray,Oklahoma,40099.0,41,0
-Muscatine,Iowa,19139.0,9009,283
-Muscogee,Georgia,13215.0,8747,194
-Muskegon,Michigan,26121.0,6908,408
-Muskingum,Ohio,39119.0,453,0
-Muskogee,Oklahoma,40101.0,1007,144
-Musselshell,Montana,30065.0,43,0
-Nacogdoches,Texas,48347.0,3919,192
-Nance,Nebraska,31125.0,52,0
-Nantucket,Massachusetts,25019.0,414,0
-Napa,California,6055.0,2129,79
-Nash,North Carolina,37127.0,2505,61
-Nassau,Florida,12089.0,1785,9
-Nassau,New York,36059.0,1180783,59876
-Natchitoches,Louisiana,22069.0,2274,91
-Natrona,Wyoming,56025.0,1599,0
-Navajo,Arizona,4017.0,21236,572
-Navarro,Texas,48349.0,846,75
-Nelson,Kentucky,21179.0,644,0
-Nelson,North Dakota,38063.0,22,0
-Nelson,Virginia,51125.0,244,0
-Nemaha,Kansas,20131.0,13,0
-Nemaha,Nebraska,31127.0,53,0
-Neosho,Kansas,20133.0,86,0
-Neshoba,Mississippi,28099.0,4425,121
-Nevada,Arkansas,5099.0,54,0
-Nevada,California,6057.0,1561,38
-New Castle,Delaware,10003.0,52154,1729
-New Hanover,North Carolina,37129.0,2690,65
-New Haven,Connecticut,9009.0,206415,12866
-New Kent,Virginia,51127.0,703,23
-New London,Connecticut,9011.0,15219,863
-New Madrid,Missouri,29143.0,306,0
-Newaygo,Michigan,26123.0,555,0
-Newberry,South Carolina,45071.0,796,33
-Newport,Rhode Island,44005.0,4348,32
-Newport News city,Virginia,51700.0,3985,188
-Newton,Arkansas,5101.0,84,0
-Newton,Georgia,13217.0,5755,185
-Newton,Indiana,18111.0,1384,184
-Newton,Mississippi,28101.0,1926,2
-Newton,Missouri,29145.0,383,19
-Newton,Texas,48351.0,80,0
-Nez Perce,Idaho,16069.0,1647,447
-Niagara,New York,36063.0,12356,393
-Nicholas,Kentucky,21181.0,44,0
-Nicholas,West Virginia,54067.0,164,0
-Nicollet,Minnesota,27103.0,404,54
-Niobrara,Wyoming,56027.0,50,0
-Noble,Indiana,18113.0,1999,242
-Noble,Ohio,39121.0,125,0
-Noble,Oklahoma,40103.0,265,0
-Nobles,Minnesota,27105.0,14468,24
-Nodaway,Missouri,29147.0,113,0
-Nolan,Texas,48353.0,26,0
-Nome Census Area,Alaska,2180.0,26,0
-Norfolk,Massachusetts,25021.0,166737,11884
-Norfolk city,Virginia,51710.0,5878,92
-Norman,Minnesota,27107.0,171,0
-Northampton,North Carolina,37131.0,2917,90
-Northampton,Pennsylvania,42095.0,61149,2232
-Northampton,Virginia,51131.0,1672,22
-Northumberland,Pennsylvania,42097.0,2648,0
-Northumberland,Virginia,51133.0,246,4
-Norton,Kansas,20137.0,18,0
-Norton city,Virginia,51720.0,40,0
-Nottoway,Virginia,51135.0,320,0
-Nowata,Oklahoma,40105.0,604,0
-Noxubee,Mississippi,28103.0,1539,15
-Nueces,Texas,48355.0,3637,52
-Nye,Nevada,32023.0,1017,0
-O'Brien,Iowa,19141.0,226,0
-Oakland,Michigan,26125.0,241127,19956
-Obion,Tennessee,47131.0,384,39
-Ocean,New Jersey,34029.0,197251,10499
-Oceana,Michigan,26127.0,329,34
-Ochiltree,Texas,48357.0,332,16
-Oconee,Georgia,13219.0,2009,4
-Oconee,South Carolina,45073.0,777,0
-Oconto,Wisconsin,55083.0,337,0
-Ogemaw,Michigan,26129.0,320,0
-Oglala Lakota,South Dakota,46102.0,34,0
-Ogle,Illinois,17141.0,2654,43
-Oglethorpe,Georgia,13221.0,1240,86
-Ohio,Indiana,18115.0,123,0
-Ohio,Kentucky,21183.0,1225,0
-Ohio,West Virginia,54069.0,1013,28
-Okaloosa,Florida,12091.0,5110,106
-Okanogan,Washington,53047.0,692,24
-Okeechobee,Florida,12093.0,371,0
-Okfuskee,Oklahoma,40107.0,31,0
-Oklahoma,Oklahoma,40109.0,24303,1003
-Okmulgee,Oklahoma,40111.0,574,0
-Oktibbeha,Mississippi,28105.0,1872,84
-Oldham,Kentucky,21185.0,906,0
-Oldham,Texas,48359.0,128,47
-Oliver,North Dakota,38065.0,42,0
-Olmsted,Minnesota,27109.0,8454,178
-Oneida,New York,36065.0,12885,347
-Oneida,Wisconsin,55085.0,228,0
-Onondaga,New York,36067.0,26243,1008
-Onslow,North Carolina,37133.0,1430,48
-Ontario,New York,36069.0,2940,101
-Orange,California,6059.0,76578,1425
-Orange,Florida,12095.0,47379,928
-Orange,Indiana,18117.0,1933,250
-Orange,New York,36071.0,267251,6767
-Orange,North Carolina,37135.0,6897,373
-Orange,Texas,48361.0,2067,18
-Orange,Vermont,50017.0,277,0
-Orange,Virginia,51137.0,898,0
-Orangeburg,South Carolina,45075.0,2317,26
-Oregon,Missouri,29149.0,43,0
-Orleans,Louisiana,22071.0,241654,13681
-Orleans,New York,36073.0,2269,131
-Orleans,Vermont,50019.0,375,0
-Osage,Kansas,20139.0,176,0
-Osage,Missouri,29151.0,172,0
-Osage,Oklahoma,40113.0,2445,268
-Osborne,Kansas,20141.0,75,0
-Osceola,Florida,12097.0,16531,257
-Osceola,Iowa,19143.0,235,0
-Osceola,Michigan,26133.0,255,0
-Oscoda,Michigan,26135.0,156,3
-Oswego,New York,36075.0,2047,14
-Otero,Colorado,8089.0,287,17
-Otero,New Mexico,35035.0,199,0
-Otoe,Nebraska,31131.0,52,0
-Otsego,Michigan,26137.0,2594,197
-Otsego,New York,36077.0,2063,153
-Ottawa,Kansas,20143.0,130,0
-Ottawa,Michigan,26139.0,6437,263
-Ottawa,Ohio,39123.0,1024,15
-Ottawa,Oklahoma,40115.0,1008,17
-Otter Tail,Minnesota,27111.0,330,0
-Ouachita,Arkansas,5103.0,206,0
-Ouachita,Louisiana,22073.0,20717,504
-Ouray,Colorado,8091.0,167,32
-Outagamie,Wisconsin,55087.0,1876,71
-Overton,Tennessee,47133.0,282,0
-Owen,Indiana,18119.0,877,31
-Owen,Kentucky,21187.0,13,0
-Owsley,Kentucky,21189.0,62,0
-Owyhee,Idaho,16073.0,219,0
-Oxford,Maine,23017.0,626,0
-Ozaukee,Wisconsin,55089.0,3428,372
-Pacific,Washington,53049.0,106,0
-Page,Iowa,19145.0,205,0
-Page,Virginia,51139.0,1890,65
-Palm Beach,Florida,12099.0,92957,5293
-Palo Alto,Iowa,19147.0,3,0
-Palo Pinto,Texas,48363.0,224,35
-Pamlico,North Carolina,37137.0,233,0
-Panola,Mississippi,28107.0,1250,71
-Panola,Texas,48365.0,2373,121
-Park,Colorado,8093.0,349,0
-Park,Montana,30067.0,294,0
-Park,Wyoming,56029.0,55,0
-Parke,Indiana,18121.0,382,0
-Parker,Texas,48367.0,894,0
-Parmer,Texas,48369.0,180,0
-Pasco,Florida,12101.0,8291,192
-Pasquotank,North Carolina,37139.0,1121,28
-Passaic,New Jersey,34031.0,354763,13421
-Patrick,Virginia,51141.0,45,0
-Paulding,Georgia,13223.0,5564,218
-Paulding,Ohio,39125.0,214,0
-Pawnee,Oklahoma,40117.0,1156,81
-Payette,Idaho,16075.0,452,38
-Payne,Oklahoma,40119.0,1491,16
-Peach,Georgia,13225.0,1461,78
-Pearl River,Mississippi,28109.0,5109,456
-Pecos,Texas,48371.0,237,0
-Pembina,North Dakota,38067.0,51,0
-Pemiscot,Missouri,29155.0,791,32
-Pend Oreille,Washington,53051.0,63,0
-Pender,North Carolina,37141.0,387,6
-Pendleton,Kentucky,21191.0,169,0
-Pendleton,West Virginia,54071.0,91,0
-Pennington,Minnesota,27113.0,20,0
-Pennington,South Dakota,46103.0,460,0
-Penobscot,Maine,23019.0,2101,0
-Peoria,Illinois,17143.0,2359,80
-Perquimans,North Carolina,37143.0,338,15
-Perry,Alabama,1105.0,326,0
-Perry,Arkansas,5105.0,171,0
-Perry,Illinois,17145.0,431,0
-Perry,Indiana,18123.0,324,0
-Perry,Kentucky,21193.0,258,0
-Perry,Mississippi,28111.0,897,44
-Perry,Missouri,29157.0,1521,0
-Perry,Ohio,39127.0,371,6
-Perry,Pennsylvania,42099.0,852,38
-Perry,Tennessee,47135.0,295,0
-Person,North Carolina,37145.0,610,12
-Petersburg Borough,Alaska,2195.0,70,0
-Petersburg city,Virginia,51730.0,956,40
-Pettis,Missouri,29159.0,871,0
-Phelps,Missouri,29161.0,51,0
-Phelps,Nebraska,31137.0,126,0
-Philadelphia,Pennsylvania,42101.0,407091,15533
-Phillips,Arkansas,5107.0,139,29
-Phillips,Colorado,8095.0,189,0
-Phillips,Kansas,20147.0,30,0
-Piatt,Illinois,17147.0,231,0
-Pickaway,Ohio,39129.0,38069,328
-Pickens,Alabama,1107.0,1477,30
-Pickens,Georgia,13227.0,796,80
-Pickens,South Carolina,45077.0,1704,12
-Pickett,Tennessee,47137.0,1,0
-Pierce,Georgia,13229.0,1839,78
-Pierce,Nebraska,31139.0,32,0
-Pierce,North Dakota,38069.0,106,0
-Pierce,Washington,53053.0,49200,1440
-Pierce,Wisconsin,55093.0,388,0
-Pike,Alabama,1109.0,1841,0
-Pike,Arkansas,5109.0,116,0
-Pike,Georgia,13231.0,1119,47
-Pike,Illinois,17149.0,37,0
-Pike,Indiana,18125.0,41,0
-Pike,Kentucky,21195.0,284,52
-Pike,Mississippi,28113.0,4091,153
-Pike,Missouri,29163.0,282,0
-Pike,Ohio,39131.0,89,0
-Pike,Pennsylvania,42103.0,11603,408
-Pima,Arizona,4019.0,37580,2404
-Pinal,Arizona,4021.0,11852,301
-Pine,Minnesota,27115.0,1115,0
-Pinellas,Florida,12103.0,24565,998
-Pipestone,Minnesota,27117.0,84,0
-Piscataquis,Maine,23021.0,22,0
-Pitkin,Colorado,8097.0,2390,89
-Pitt,North Carolina,37147.0,3812,49
-Pittsburg,Oklahoma,40121.0,808,48
-Pittsylvania,Virginia,51143.0,342,20
-Piute,Utah,49031.0,4,0
-Placer,California,6061.0,5866,285
-Plaquemines,Louisiana,22075.0,6121,508
-Platte,Missouri,29165.0,1131,0
-Platte,Nebraska,31141.0,2800,0
-Pleasants,West Virginia,54073.0,66,0
-Plumas,California,6063.0,147,0
-Plymouth,Iowa,19149.0,536,0
-Plymouth,Massachusetts,25023.0,137170,6757
-Pocahontas,Iowa,19151.0,34,0
-Pocahontas,West Virginia,54075.0,27,0
-Poinsett,Arkansas,5111.0,577,23
-Pointe Coupee,Louisiana,22077.0,2834,329
-Polk,Arkansas,5113.0,287,0
-Polk,Florida,12105.0,14745,623
-Polk,Georgia,13233.0,1660,0
-Polk,Iowa,19153.0,28772,834
-Polk,Minnesota,27119.0,654,2
-Polk,Missouri,29167.0,34,0
-Polk,Nebraska,31143.0,187,0
-Polk,North Carolina,37149.0,575,0
-Polk,Oregon,41053.0,1645,59
-Polk,Tennessee,47139.0,257,0
-Polk,Texas,48373.0,648,0
-Polk,Wisconsin,55095.0,118,0
-Pondera,Montana,30073.0,48,0
-Pontotoc,Mississippi,28115.0,705,65
-Pontotoc,Oklahoma,40123.0,393,37
-Pope,Arkansas,5115.0,1352,0
-Pope,Illinois,17151.0,3,0
-Pope,Minnesota,27121.0,20,0
-Poquoson city,Virginia,51735.0,233,0
-Portage,Ohio,39133.0,7320,1041
-Portage,Wisconsin,55097.0,185,0
-Porter,Indiana,18127.0,7101,164
-Portsmouth city,Virginia,51740.0,3955,164
-Posey,Indiana,18129.0,345,0
-Pottawatomie,Kansas,20149.0,336,0
-Pottawatomie,Oklahoma,40125.0,1397,118
-Pottawattamie,Iowa,19155.0,1123,40
-Potter,Pennsylvania,42105.0,163,0
-Potter,Texas,48375.0,14101,211
-Powell,Kentucky,21197.0,43,0
-Power,Idaho,16077.0,68,0
-Poweshiek,Iowa,19157.0,1288,82
-Powhatan,Virginia,51145.0,373,0
-Prairie,Arkansas,5117.0,74,0
-Pratt,Kansas,20151.0,40,0
-Preble,Ohio,39135.0,767,33
-Prentiss,Mississippi,28117.0,893,21
-Presque Isle,Michigan,26141.0,231,0
-Preston,West Virginia,54077.0,392,0
-Price,Wisconsin,55099.0,30,0
-Prince Edward,Virginia,51147.0,1145,50
-Prince George,Virginia,51149.0,1163,0
-Prince George's,Maryland,24033.0,167280,5784
-Prince William,Virginia,51153.0,43081,578
-Prince of Wales-Hyder Census Area,Alaska,2198.0,57,0
-Providence,Rhode Island,44007.0,149138,3471
-Prowers,Colorado,8099.0,70,0
-Pueblo,Colorado,8101.0,4076,277
-Pulaski,Arkansas,5119.0,16271,531
-Pulaski,Georgia,13235.0,769,28
-Pulaski,Illinois,17153.0,445,0
-Pulaski,Indiana,18131.0,438,0
-Pulaski,Kentucky,21199.0,1386,69
-Pulaski,Missouri,29169.0,1017,40
-Pulaski,Virginia,51155.0,254,0
-Pushmataha,Oklahoma,40127.0,14,0
-Putnam,Florida,12107.0,2807,59
-Putnam,Georgia,13237.0,983,93
-Putnam,Indiana,18133.0,2071,138
-Putnam,New York,36079.0,28390,1309
-Putnam,Ohio,39137.0,1298,152
-Putnam,Tennessee,47141.0,4380,106
-Putnam,West Virginia,54079.0,697,1
-Quay,New Mexico,35037.0,92,21
-Queen Anne's,Maryland,24035.0,1468,123
-Quitman,Georgia,13239.0,144,26
-Quitman,Mississippi,28119.0,517,0
-Rabun,Georgia,13241.0,342,8
-Racine,Wisconsin,55101.0,10142,331
-Radford city,Virginia,51750.0,81,0
-Rains,Texas,48379.0,57,0
-Raleigh,West Virginia,54081.0,294,0
-Ralls,Missouri,29173.0,47,0
-Ramsey,Minnesota,27123.0,12286,682
-Ramsey,North Dakota,38071.0,160,0
-Randall,Texas,48381.0,6009,93
-Randolph,Alabama,1111.0,2056,140
-Randolph,Arkansas,5121.0,507,0
-Randolph,Georgia,13243.0,4962,493
-Randolph,Illinois,17157.0,3614,30
-Randolph,Indiana,18135.0,607,58
-Randolph,Missouri,29175.0,306,0
-Randolph,North Carolina,37151.0,4941,97
-Randolph,West Virginia,54083.0,154,0
-Rankin,Mississippi,28121.0,5982,143
-Ransom,North Dakota,38073.0,22,0
-Rapides,Louisiana,22079.0,8734,306
-Rappahannock,Virginia,51157.0,97,0
-Ravalli,Montana,30081.0,177,0
-Ray,Missouri,29177.0,332,0
-Red Lake,Minnesota,27125.0,31,0
-Red River,Louisiana,22081.0,740,129
-Red River,Texas,48387.0,38,0
-Red Willow,Nebraska,31145.0,62,0
-Redwood,Minnesota,27127.0,56,0
-Reeves,Texas,48389.0,3,0
-Refugio,Texas,48391.0,7,0
-Reno,Kansas,20155.0,936,0
-Rensselaer,New York,36083.0,8309,488
-Renville,Minnesota,27129.0,153,0
-Renville,North Dakota,38075.0,10,0
-Republic,Kansas,20157.0,134,0
-Reynolds,Missouri,29179.0,84,0
-Rhea,Tennessee,47143.0,102,0
-Rice,Kansas,20159.0,51,0
-Rice,Minnesota,27131.0,697,24
-Richland,Illinois,17159.0,75,0
-Richland,Louisiana,22083.0,1694,6
-Richland,Montana,30083.0,96,0
-Richland,North Dakota,38077.0,181,0
-Richland,Ohio,39139.0,2419,43
-Richland,South Carolina,45079.0,27679,863
-Richland,Wisconsin,55103.0,336,38
-Richmond,Georgia,13245.0,10748,390
-Richmond,North Carolina,37153.0,1169,54
-Richmond,Virginia,51159.0,2664,13
-Richmond city,Virginia,51760.0,10368,379
-Riley,Kansas,20161.0,1336,0
-Rio Arriba,New Mexico,35039.0,540,0
-Rio Blanco,Colorado,8103.0,38,0
-Rio Grande,Colorado,8105.0,270,0
-Ripley,Indiana,18137.0,3432,156
-Ripley,Missouri,29181.0,154,0
-Ritchie,West Virginia,54085.0,8,0
-Riverside,California,6065.0,112590,4021
-Roane,Tennessee,47145.0,282,0
-Roane,West Virginia,54087.0,162,0
-Roanoke,Virginia,51161.0,1228,0
-Roanoke city,Virginia,51770.0,1576,4
-Roberts,South Dakota,46109.0,225,0
-Roberts,Texas,48393.0,50,0
-Robertson,Tennessee,47147.0,4942,0
-Robertson,Texas,48395.0,118,0
-Robeson,North Carolina,37155.0,3817,75
-Rock,Minnesota,27133.0,260,0
-Rock,Wisconsin,55105.0,5462,197
-Rock Island,Illinois,17161.0,9521,239
-Rockbridge,Virginia,51163.0,207,0
-Rockcastle,Kentucky,21203.0,360,0
-Rockdale,Georgia,13247.0,5792,201
-Rockingham,New Hampshire,33015.0,22270,610
-Rockingham,North Carolina,37157.0,769,71
-Rockingham,Virginia,51165.0,5679,21
-Rockland,New York,36087.0,384009,10369
-Rockwall,Texas,48397.0,1893,35
-Rogers,Oklahoma,40131.0,1600,85
-Rolette,North Dakota,38079.0,36,0
-Rooks,Kansas,20163.0,146,0
-Roosevelt,Montana,30085.0,210,0
-Roosevelt,New Mexico,35041.0,186,0
-Roscommon,Michigan,26143.0,457,0
-Roseau,Minnesota,27135.0,34,0
-Ross,Ohio,39141.0,1089,20
-Routt,Colorado,8107.0,1936,107
-Rowan,Kentucky,21205.0,57,0
-Rowan,North Carolina,37159.0,10175,525
-Runnels,Texas,48399.0,22,0
-Rush,Indiana,18139.0,1018,44
-Rusk,Texas,48401.0,1025,24
-Rusk,Wisconsin,55107.0,133,0
-Russell,Alabama,1113.0,1647,0
-Russell,Kentucky,21207.0,456,66
-Russell,Virginia,51167.0,101,0
-Rutherford,North Carolina,37161.0,3262,139
-Rutherford,Tennessee,47149.0,14919,302
-Rutland,Vermont,50021.0,1630,25
-Sabine,Louisiana,22085.0,482,13
-Sabine,Texas,48403.0,36,0
-Sac,Iowa,19161.0,15,0
-Sacramento,California,6067.0,36458,1415
-Sagadahoc,Maine,23023.0,699,4
-Saginaw,Michigan,26145.0,17929,1390
-Saguache,Colorado,8109.0,125,0
-Salem,New Jersey,34033.0,6361,285
-Salem city,Virginia,51775.0,447,0
-Saline,Arkansas,5125.0,1926,36
-Saline,Illinois,17165.0,120,0
-Saline,Kansas,20169.0,591,64
-Saline,Missouri,29195.0,3846,0
-Saline,Nebraska,31151.0,3385,0
-Salt Lake,Utah,49035.0,72964,730
-Saluda,South Carolina,45081.0,1176,0
-Sampson,North Carolina,37163.0,1671,6
-San Augustine,Texas,48405.0,514,38
-San Benito,California,6069.0,1828,93
-San Bernardino,California,6071.0,58080,2467
-San Diego,California,6073.0,111706,3727
-San Francisco,California,6075.0,50581,818
-San Jacinto,Texas,48407.0,300,0
-San Joaquin,California,6077.0,17619,835
-San Juan,Colorado,8111.0,5,0
-San Juan,New Mexico,35045.0,16113,1019
-San Juan,Utah,49037.0,1754,50
-San Juan,Washington,53055.0,539,0
-San Luis Obispo,California,6079.0,6505,37
-San Mateo,California,6081.0,39642,1441
-San Miguel,Colorado,8113.0,613,0
-San Miguel,New Mexico,35047.0,96,0
-San Patricio,Texas,48409.0,394,0
-Sanborn,South Dakota,46111.0,84,0
-Sandoval,New Mexico,35043.0,11882,353
-Sandusky,Ohio,39143.0,810,117
-Sangamon,Illinois,17167.0,4333,299
-Sanilac,Michigan,26151.0,1141,127
-Sanpete,Utah,49039.0,109,0
-Santa Barbara,California,6083.0,17962,202
-Santa Clara,California,6085.0,80441,3576
-Santa Cruz,Arizona,4023.0,860,0
-Santa Cruz,California,6087.0,4587,69
-Santa Fe,New Mexico,35049.0,3730,5
-Santa Rosa,Florida,12113.0,5129,244
-Sarasota,Florida,12115.0,11742,1116
-Saratoga,New York,36091.0,11514,82
-Sargent,North Dakota,38081.0,40,0
-Sarpy,Nebraska,31153.0,3524,11
-Sauk,Wisconsin,55111.0,1637,114
-Saunders,Nebraska,31155.0,306,3
-Sawyer,Wisconsin,55113.0,81,0
-Schenectady,New York,36093.0,13776,687
-Schley,Georgia,13249.0,532,35
-Schoharie,New York,36095.0,1068,0
-Schoolcraft,Michigan,26153.0,95,0
-Schuyler,Illinois,17169.0,53,0
-Schuyler,New York,36097.0,241,0
-Schuylkill,Pennsylvania,42107.0,10640,199
-Scioto,Ohio,39145.0,254,0
-Scotland,Missouri,29199.0,120,0
-Scotland,North Carolina,37165.0,660,0
-Scott,Arkansas,5127.0,41,0
-Scott,Indiana,18143.0,1234,83
-Scott,Iowa,19163.0,6624,143
-Scott,Kansas,20171.0,50,0
-Scott,Kentucky,21209.0,1044,0
-Scott,Minnesota,27139.0,1641,38
-Scott,Mississippi,28123.0,7543,34
-Scott,Missouri,29201.0,1815,45
-Scott,Tennessee,47151.0,386,0
-Scott,Virginia,51169.0,164,23
-Scotts Bluff,Nebraska,31157.0,848,0
-Screven,Georgia,13251.0,426,26
-Scurry,Texas,48415.0,62,0
-Searcy,Arkansas,5129.0,265,0
-Sebastian,Arkansas,5131.0,484,0
-Sedgwick,Kansas,20173.0,11282,261
-Seminole,Florida,12117.0,12956,202
-Seminole,Georgia,13253.0,915,52
-Seminole,Oklahoma,40133.0,352,46
-Seneca,New York,36099.0,1017,24
-Seneca,Ohio,39147.0,440,41
-Sequatchie,Tennessee,47153.0,139,0
-Sequoyah,Oklahoma,40135.0,413,93
-Sevier,Arkansas,5133.0,393,12
-Sevier,Tennessee,47155.0,1428,30
-Sevier,Utah,49041.0,143,0
-Seward,Kansas,20175.0,9382,0
-Seward,Nebraska,31159.0,206,20
-Shackelford,Texas,48417.0,4,0
-Sharkey,Mississippi,28125.0,153,0
-Sharp,Arkansas,5135.0,154,4
-Shasta,California,6089.0,1084,138
-Shawano,Wisconsin,55115.0,331,0
-Shawnee,Kansas,20177.0,3685,177
-Sheboygan,Wisconsin,55117.0,1753,74
-Shelby,Alabama,1117.0,10850,345
-Shelby,Illinois,17173.0,232,12
-Shelby,Indiana,18145.0,5866,353
-Shelby,Iowa,19165.0,359,0
-Shelby,Kentucky,21211.0,929,73
-Shelby,Missouri,29205.0,47,0
-Shelby,Ohio,39149.0,1032,16
-Shelby,Tennessee,47157.0,76580,1507
-Shelby,Texas,48419.0,2830,45
-Shenandoah,Virginia,51171.0,2967,56
-Sherburne,Minnesota,27141.0,1162,6
-Sheridan,Kansas,20179.0,40,0
-Sheridan,Wyoming,56033.0,629,0
-Sherman,Kansas,20181.0,78,0
-Sherman,Nebraska,31163.0,28,0
-Sherman,Oregon,41055.0,36,0
-Sherman,Texas,48421.0,335,0
-Shiawassee,Michigan,26155.0,4353,218
-Sibley,Minnesota,27143.0,63,0
-Sierra,New Mexico,35051.0,12,0
-Silver Bow,Montana,30093.0,508,0
-Simpson,Kentucky,21213.0,844,68
-Simpson,Mississippi,28127.0,1121,0
-Sioux,Iowa,19167.0,529,0
-Sioux,North Dakota,38085.0,45,0
-Siskiyou,California,6093.0,217,0
-Sitka City and Borough,Alaska,2220.0,15,0
-Skagit,Washington,53057.0,11341,364
-Skamania,Washington,53059.0,110,0
-Slope,North Dakota,38087.0,107,0
-Smith,Kansas,20183.0,50,0
-Smith,Mississippi,28129.0,1949,96
-Smith,Tennessee,47159.0,564,26
-Smith,Texas,48423.0,4937,115
-Smyth,Virginia,51173.0,409,0
-Snohomish,Washington,53061.0,97629,3726
-Snyder,Pennsylvania,42109.0,966,41
-Socorro,New Mexico,35053.0,1134,36
-Solano,California,6095.0,8558,135
-Somerset,Maine,23025.0,498,0
-Somerset,Maryland,24039.0,656,2
-Somerset,New Jersey,34035.0,100657,6860
-Somerset,Pennsylvania,42111.0,750,9
-Sonoma,California,6097.0,8341,100
-Southampton,Virginia,51175.0,2252,20
-Southeast Fairbanks Census Area,Alaska,2240.0,43,0
-Spalding,Georgia,13255.0,5499,270
-Spartanburg,South Carolina,45083.0,8728,257
-Spencer,Indiana,18147.0,194,9
-Spencer,Kentucky,21215.0,372,0
-Spink,South Dakota,46115.0,114,0
-Spokane,Washington,53063.0,13247,718
-Spotsylvania,Virginia,51177.0,4049,69
-St. Bernard,Louisiana,22087.0,16127,551
-St. Charles,Louisiana,22089.0,18826,1184
-St. Charles,Missouri,29183.0,17560,976
-St. Clair,Alabama,1115.0,2277,5
-St. Clair,Illinois,17163.0,13204,836
-St. Clair,Michigan,26147.0,9864,501
-St. Clair,Missouri,29185.0,64,0
-St. Croix,Wisconsin,55109.0,559,0
-St. Francis,Arkansas,5123.0,2587,0
-St. Francois,Missouri,29187.0,942,33
-St. Helena,Louisiana,22091.0,795,25
-St. James,Louisiana,22093.0,8897,590
-St. John the Baptist,Louisiana,22095.0,25212,2126
-St. Johns,Florida,12109.0,7818,144
-St. Joseph,Indiana,18141.0,16955,499
-St. Joseph,Michigan,26149.0,1100,28
-St. Landry,Louisiana,22097.0,5538,1009
-St. Lawrence,New York,36089.0,4933,46
-St. Louis,Minnesota,27137.0,2142,286
-St. Louis,Missouri,29189.0,94276,4174
-St. Louis city,Missouri,29510.0,34647,1630
-St. Lucie,Florida,12111.0,7822,588
-St. Martin,Louisiana,22099.0,7379,491
-St. Mary,Louisiana,22101.0,5979,494
-St. Mary's,Maryland,24037.0,4632,145
-St. Tammany,Louisiana,22103.0,41616,2890
-Stafford,Kansas,20185.0,43,0
-Stafford,Virginia,51179.0,6790,49
-Stanislaus,California,6099.0,10211,269
-Stanley,South Dakota,46117.0,106,0
-Stanly,North Carolina,37167.0,833,97
-Stanton,Kansas,20187.0,124,0
-Stanton,Nebraska,31167.0,136,0
-Stark,Illinois,17175.0,33,0
-Stark,North Dakota,38089.0,1642,63
-Stark,Ohio,39151.0,10435,1189
-Starke,Indiana,18149.0,480,37
-Starr,Texas,48427.0,321,0
-Staunton city,Virginia,51790.0,281,0
-Ste. Genevieve,Missouri,29186.0,276,35
-Stearns,Minnesota,27145.0,10256,25
-Steele,Minnesota,27147.0,675,0
-Stephens,Georgia,13257.0,1873,24
-Stephens,Oklahoma,40137.0,685,39
-Stephens,Texas,48429.0,31,0
-Stephenson,Illinois,17177.0,1070,0
-Steuben,Indiana,18151.0,890,35
-Steuben,New York,36101.0,6444,309
-Stevens,Kansas,20189.0,235,0
-Stevens,Minnesota,27149.0,4,0
-Stevens,Washington,53065.0,330,28
-Stewart,Georgia,13259.0,598,0
-Stewart,Tennessee,47161.0,197,0
-Stillwater,Montana,30095.0,32,0
-Stoddard,Missouri,29207.0,638,0
-Stokes,North Carolina,37169.0,366,0
-Stone,Arkansas,5137.0,306,0
-Stone,Mississippi,28131.0,608,0
-Stone,Missouri,29209.0,119,0
-Story,Iowa,19169.0,870,13
-Strafford,New Hampshire,33017.0,4264,151
-Stutsman,North Dakota,38093.0,169,0
-Sublette,Wyoming,56035.0,80,0
-Suffolk,Massachusetts,25025.0,355892,12431
-Suffolk,New York,36103.0,1075053,34713
-Suffolk city,Virginia,51800.0,4300,219
-Sullivan,Indiana,18153.0,407,0
-Sullivan,Missouri,29211.0,9,0
-Sullivan,New Hampshire,33019.0,390,40
-Sullivan,New York,36105.0,24214,396
-Sullivan,Pennsylvania,42113.0,37,0
-Sullivan,Tennessee,47163.0,1732,39
-Sully,South Dakota,46119.0,29,0
-Summers,West Virginia,54089.0,30,0
-Summit,Colorado,8117.0,3903,44
-Summit,Ohio,39153.0,18270,1328
-Summit,Utah,49043.0,14221,0
-Sumner,Kansas,20191.0,117,32
-Sumner,Tennessee,47165.0,21288,1118
-Sumter,Alabama,1119.0,1774,49
-Sumter,Florida,12119.0,6364,409
-Sumter,Georgia,13261.0,11574,709
-Sumter,South Carolina,45085.0,7557,283
-Sunflower,Mississippi,28133.0,1794,78
-Surry,North Carolina,37171.0,545,9
-Surry,Virginia,51181.0,140,20
-Susquehanna,Pennsylvania,42115.0,2164,174
-Sussex,Delaware,10005.0,53016,1432
-Sussex,New Jersey,34037.0,27271,2684
-Sussex,Virginia,51183.0,730,20
-Sutter,California,6101.0,1050,75
-Suwannee,Florida,12121.0,3683,316
-Swain,North Carolina,37173.0,49,0
-Sweetwater,Wyoming,56037.0,484,0
-Swift,Minnesota,27151.0,52,0
-Swisher,Texas,48437.0,234,0
-Switzerland,Indiana,18155.0,525,0
-Talbot,Georgia,13263.0,658,34
-Talbot,Maryland,24041.0,1031,37
-Taliaferro,Georgia,13265.0,8,0
-Talladega,Alabama,1121.0,1868,48
-Tallahatchie,Mississippi,28135.0,324,24
-Tallapoosa,Alabama,1123.0,7480,544
-Tama,Iowa,19171.0,7173,217
-Taney,Missouri,29213.0,367,42
-Tangipahoa,Louisiana,22105.0,17189,620
-Taos,New Mexico,35055.0,723,0
-Tarrant,Texas,48439.0,62835,1830
-Tate,Mississippi,28137.0,1321,0
-Tattnall,Georgia,13267.0,253,0
-Taylor,Florida,12123.0,73,0
-Taylor,Georgia,13269.0,475,69
-Taylor,Iowa,19173.0,44,0
-Taylor,Kentucky,21217.0,213,0
-Taylor,Texas,48441.0,7125,112
-Taylor,West Virginia,54091.0,188,0
-Tazewell,Illinois,17179.0,1227,98
-Tazewell,Virginia,51185.0,181,0
-Tehama,California,6103.0,38,15
-Telfair,Georgia,13271.0,665,0
-Teller,Colorado,8119.0,894,80
-Tensas,Louisiana,22107.0,49,0
-Terrebonne,Louisiana,22109.0,13277,873
-Terrell,Georgia,13273.0,5731,578
-Terry,Texas,48445.0,369,0
-Teton,Idaho,16081.0,316,0
-Teton,Wyoming,56039.0,2941,18
-Texas,Oklahoma,40139.0,3540,42
-Thomas,Georgia,13275.0,5202,482
-Thomas,Nebraska,31171.0,5,0
-Thurston,Nebraska,31173.0,97,0
-Thurston,Washington,53067.0,4000,37
-Tift,Georgia,13277.0,3640,121
-Tillamook,Oregon,41057.0,214,0
-Tillman,Oklahoma,40141.0,166,0
-Tioga,New York,36107.0,1984,132
-Tioga,Pennsylvania,42117.0,505,50
-Tippah,Mississippi,28139.0,2070,279
-Tippecanoe,Indiana,18157.0,3511,71
-Tipton,Indiana,18159.0,564,25
-Tipton,Tennessee,47167.0,3322,12
-Tishomingo,Mississippi,28141.0,186,0
-Titus,Texas,48449.0,472,0
-Todd,Kentucky,21219.0,333,0
-Todd,Minnesota,27153.0,253,0
-Todd,South Dakota,46121.0,91,0
-Tolland,Connecticut,9013.0,12526,1129
-Tom Green,Texas,48451.0,1582,31
-Tompkins,New York,36109.0,4978,58
-Tooele,Utah,49045.0,1871,0
-Toole,Montana,30101.0,1011,187
-Toombs,Georgia,13279.0,862,85
-Torrance,New Mexico,35057.0,483,4
-Towns,Georgia,13281.0,496,13
-Traill,North Dakota,38097.0,4,0
-Transylvania,North Carolina,37175.0,280,0
-Traverse,Minnesota,27155.0,85,0
-Travis,Texas,48453.0,49029,1159
-Trempealeau,Wisconsin,55121.0,79,0
-Treutlen,Georgia,13283.0,78,0
-Trigg,Kentucky,21221.0,183,0
-Trimble,Kentucky,21223.0,71,0
-Trinity,California,6105.0,1,0
-Trinity,Texas,48455.0,239,0
-Troup,Georgia,13285.0,4184,148
-Trousdale,Tennessee,47169.0,14040,46
-Trumbull,Ohio,39155.0,9697,798
-Tucker,West Virginia,54093.0,175,0
-Tulare,California,6107.0,18993,939
-Tulsa,Oklahoma,40143.0,17870,958
-Tunica,Mississippi,28143.0,1184,57
-Tuolumne,California,6109.0,89,0
-Turner,Georgia,13287.0,1992,181
-Turner,South Dakota,46125.0,399,0
-Tuscaloosa,Alabama,1125.0,6469,37
-Tuscarawas,Ohio,39157.0,2507,5
-Tuscola,Michigan,26157.0,2815,401
-Twiggs,Georgia,13289.0,217,0
-Twin Falls,Idaho,16083.0,5129,297
-Tyler,Texas,48457.0,186,0
-Tyler,West Virginia,54095.0,96,0
-Tyrrell,North Carolina,37177.0,105,0
-Uinta,Wyoming,56041.0,224,0
-Uintah,Utah,49047.0,207,0
-Ulster,New York,36111.0,36968,290
-Umatilla,Oregon,41059.0,1413,9
-Unicoi,Tennessee,47171.0,57,0
-Union,Arkansas,5139.0,1368,6
-Union,Florida,12125.0,127,0
-Union,Georgia,13291.0,725,36
-Union,Illinois,17181.0,520,6
-Union,Indiana,18161.0,314,0
-Union,Iowa,19175.0,31,0
-Union,Kentucky,21225.0,269,0
-Union,Louisiana,22111.0,3365,182
-Union,Mississippi,28145.0,665,43
-Union,New Jersey,34039.0,371111,17326
-Union,New Mexico,35059.0,46,0
-Union,North Carolina,37179.0,6975,243
-Union,Ohio,39159.0,648,0
-Union,Oregon,41061.0,160,0
-Union,Pennsylvania,42119.0,1011,6
-Union,South Carolina,45087.0,877,0
-Union,South Dakota,46127.0,606,0
-Union,Tennessee,47173.0,108,0
-Upshur,Texas,48459.0,421,0
-Upshur,West Virginia,54097.0,140,0
-Upson,Georgia,13293.0,5954,422
-Utah,Utah,49049.0,25317,187
-Uvalde,Texas,48463.0,263,0
-Val Verde,Texas,48465.0,473,0
-Valdez-Cordova Census Area,Alaska,2261.0,4,0
-Valencia,New Mexico,35061.0,1248,8
-Valley,Idaho,16085.0,94,0
-Valley,Nebraska,31175.0,14,0
-Van Buren,Arkansas,5141.0,1155,74
-Van Buren,Iowa,19177.0,290,0
-Van Buren,Michigan,26159.0,1523,69
-Van Buren,Tennessee,47175.0,44,0
-Van Wert,Ohio,39161.0,106,0
-Van Zandt,Texas,48467.0,478,43
-Vance,North Carolina,37181.0,2249,130
-Vanderburgh,Indiana,18163.0,3889,41
-Venango,Pennsylvania,42121.0,243,0
-Ventura,California,6111.0,17809,560
-Vermilion,Illinois,17183.0,467,12
-Vermilion,Louisiana,22113.0,1208,49
-Vermillion,Indiana,18165.0,218,0
-Vernon,Louisiana,22115.0,577,43
-Vernon,Missouri,29217.0,119,0
-Vernon,Wisconsin,55123.0,27,0
-Victoria,Texas,48469.0,3884,75
-Vigo,Indiana,18167.0,2066,172
-Vilas,Wisconsin,55125.0,169,0
-Vinton,Ohio,39163.0,95,0
-Virginia Beach city,Virginia,51810.0,12488,311
-Volusia,Florida,12127.0,13995,542
-Wabash,Illinois,17185.0,41,0
-Wabash,Indiana,18169.0,931,27
-Wabasha,Minnesota,27157.0,356,0
-Wabaunsee,Kansas,20197.0,379,0
-Wadena,Minnesota,27159.0,30,0
-Wagoner,Oklahoma,40145.0,3821,385
-Wahkiakum,Washington,53069.0,76,0
-Wake,North Carolina,37183.0,25756,352
-Wakulla,Florida,12129.0,643,29
-Waldo,Maine,23027.0,1386,280
-Walker,Alabama,1127.0,3497,0
-Walker,Georgia,13295.0,1325,0
-Walker,Texas,48471.0,5323,36
-Walla Walla,Washington,53071.0,1942,4
-Waller,Texas,48473.0,925,0
-Wallowa,Oregon,41063.0,42,0
-Walsh,North Dakota,38099.0,182,0
-Walthall,Mississippi,28147.0,1007,0
-Walton,Florida,12131.0,1512,9
-Walton,Georgia,13297.0,3142,118
-Walworth,South Dakota,46129.0,135,0
-Walworth,Wisconsin,55127.0,4239,189
-Wapello,Iowa,19179.0,1392,0
-Ward,North Dakota,38101.0,885,29
-Ware,Georgia,13299.0,3507,280
-Warren,Georgia,13301.0,390,0
-Warren,Illinois,17187.0,1326,0
-Warren,Indiana,18171.0,297,41
-Warren,Iowa,19181.0,799,0
-Warren,Kentucky,21227.0,7610,16
-Warren,Mississippi,28149.0,1573,47
-Warren,Missouri,29219.0,684,0
-Warren,New Jersey,34041.0,25039,1982
-Warren,New York,36113.0,4393,279
-Warren,North Carolina,37185.0,279,0
-Warren,Ohio,39165.0,4535,268
-Warren,Pennsylvania,42123.0,49,20
-Warren,Tennessee,47177.0,209,0
-Warren,Virginia,51187.0,1366,2
-Warrick,Indiana,18173.0,2583,322
-Wasatch,Utah,49051.0,5125,30
-Wasco,Oregon,41065.0,448,15
-Waseca,Minnesota,27161.0,219,0
-Washakie,Wyoming,56043.0,219,0
-Washburn,Wisconsin,55129.0,27,0
-Washington,Alabama,1129.0,892,50
-Washington,Arkansas,5143.0,2547,53
-Washington,Colorado,8121.0,210,0
-Washington,Florida,12133.0,306,0
-Washington,Georgia,13303.0,1169,25
-Washington,Idaho,16087.0,40,0
-Washington,Illinois,17189.0,284,0
-Washington,Indiana,18175.0,1311,5
-Washington,Iowa,19183.0,4481,193
-Washington,Kentucky,21229.0,159,0
-Washington,Louisiana,22117.0,8085,522
-Washington,Maine,23029.0,64,0
-Washington,Maryland,24043.0,5546,113
-Washington,Minnesota,27163.0,4608,239
-Washington,Mississippi,28151.0,2630,90
-Washington,Missouri,29221.0,191,16
-Washington,Nebraska,31177.0,921,28
-Washington,New York,36115.0,3686,57
-Washington,North Carolina,37187.0,713,70
-Washington,Ohio,39167.0,2615,279
-Washington,Oklahoma,40147.0,6763,450
-Washington,Oregon,41067.0,17692,366
-Washington,Pennsylvania,42125.0,3635,58
-Washington,Rhode Island,44009.0,8644,268
-Washington,Tennessee,47179.0,1876,0
-Washington,Texas,48477.0,3241,306
-Washington,Utah,49053.0,2184,0
-Washington,Vermont,50023.0,1278,25
-Washington,Virginia,51191.0,1084,60
-Washington,Wisconsin,55131.0,3607,136
-Washoe,Nevada,32031.0,27079,828
-Washtenaw,Michigan,26161.0,36126,1632
-Watauga,North Carolina,37189.0,364,0
-Watonwan,Minnesota,27165.0,308,0
-Waukesha,Wisconsin,55133.0,11351,491
-Waupaca,Wisconsin,55135.0,239,44
-Waushara,Wisconsin,55137.0,79,0
-Wayne,Georgia,13305.0,319,0
-Wayne,Illinois,17191.0,44,0
-Wayne,Indiana,18177.0,1918,81
-Wayne,Iowa,19185.0,10,0
-Wayne,Kentucky,21231.0,249,0
-Wayne,Michigan,26163.0,553297,48052
-Wayne,Mississippi,28153.0,562,0
-Wayne,Nebraska,31179.0,32,0
-Wayne,New York,36117.0,2287,5
-Wayne,North Carolina,37191.0,15465,224
-Wayne,Ohio,39169.0,3616,667
-Wayne,Pennsylvania,42127.0,3170,102
-Wayne,Tennessee,47181.0,107,0
-Wayne,West Virginia,54099.0,2310,144
-Waynesboro city,Virginia,51820.0,359,0
-Weakley,Tennessee,47183.0,489,0
-Webb,Texas,48479.0,10983,451
-Weber,Utah,49057.0,4916,59
-Webster,Georgia,13307.0,247,29
-Webster,Iowa,19187.0,151,0
-Webster,Kentucky,21233.0,613,0
-Webster,Louisiana,22119.0,2958,140
-Webster,Mississippi,28155.0,651,47
-Webster,Missouri,29225.0,373,0
-Webster,Nebraska,31181.0,94,0
-Weld,Colorado,8123.0,49632,2764
-Wells,Indiana,18179.0,213,0
-Wells,North Dakota,38103.0,35,0
-West Baton Rouge,Louisiana,22121.0,3370,532
-West Carroll,Louisiana,22123.0,127,0
-West Feliciana,Louisiana,22125.0,3405,65
-Westchester,New York,36119.0,998566,32196
-Westmoreland,Pennsylvania,42129.0,11788,768
-Westmoreland,Virginia,51193.0,596,0
-Wetzel,West Virginia,54103.0,123,0
-Wexford,Michigan,26165.0,310,44
-Wharton,Texas,48481.0,1236,0
-Whatcom,Washington,53073.0,11779,1022
-Wheatland,Montana,30107.0,17,0
-Wheeler,Georgia,13309.0,128,0
-Wheeler,Texas,48483.0,145,0
-White,Arkansas,5145.0,1237,21
-White,Georgia,13311.0,1496,7
-White,Illinois,17193.0,34,0
-White,Indiana,18181.0,1399,4
-White,Tennessee,47185.0,250,0
-White Pine,Nevada,32033.0,88,0
-Whiteside,Illinois,17195.0,2073,144
-Whitfield,Georgia,13313.0,2580,147
-Whitley,Indiana,18183.0,587,36
-Whitley,Kentucky,21235.0,281,0
-Whitman,Washington,53075.0,612,0
-Wichita,Texas,48485.0,2521,49
-Wicomico,Maryland,24045.0,8901,189
-Wilbarger,Texas,48487.0,32,0
-Wilcox,Alabama,1131.0,1798,49
-Wilcox,Georgia,13315.0,1955,186
-Wilkes,Georgia,13317.0,637,0
-Wilkes,North Carolina,37193.0,1658,39
-Wilkin,Minnesota,27167.0,336,76
-Wilkinson,Georgia,13319.0,870,52
-Wilkinson,Mississippi,28157.0,2274,217
-Will,Illinois,17197.0,75598,4213
-Willacy,Texas,48489.0,368,37
-Williams,North Dakota,38105.0,374,0
-Williams,Ohio,39171.0,729,26
-Williamsburg,South Carolina,45089.0,1836,41
-Williamsburg city,Virginia,51830.0,810,59
-Williamson,Illinois,17199.0,801,3
-Williamson,Tennessee,47187.0,15003,245
-Williamson,Texas,48491.0,8195,242
-Wilson,Kansas,20205.0,24,0
-Wilson,North Carolina,37195.0,4499,177
-Wilson,Tennessee,47189.0,7714,91
-Wilson,Texas,48493.0,834,62
-Winchester city,Virginia,51840.0,1213,0
-Windham,Connecticut,9015.0,5123,99
-Windham,Vermont,50025.0,2378,69
-Windsor,Vermont,50027.0,1539,86
-Winkler,Texas,48495.0,81,0
-Winn,Louisiana,22127.0,872,69
-Winnebago,Illinois,17201.0,11952,448
-Winnebago,Iowa,19189.0,73,0
-Winnebago,Wisconsin,55139.0,1911,35
-Winneshiek,Iowa,19191.0,433,0
-Winona,Minnesota,27169.0,1967,373
-Winston,Alabama,1133.0,394,0
-Winston,Mississippi,28159.0,1342,0
-Wirt,West Virginia,54105.0,91,0
-Wise,Texas,48497.0,511,49
-Wise,Virginia,51195.0,594,30
-Wood,Ohio,39173.0,4367,497
-Wood,Texas,48499.0,262,0
-Wood,West Virginia,54107.0,1139,45
-Wood,Wisconsin,55141.0,102,0
-Woodbury,Iowa,19193.0,17272,49
-Woodford,Illinois,17203.0,450,20
-Woodford,Kentucky,21239.0,644,0
-Woodruff,Arkansas,5147.0,48,0
-Woods,Oklahoma,40151.0,66,0
-Woodson,Kansas,20207.0,188,0
-Woodward,Oklahoma,40153.0,40,0
-Worcester,Maryland,24047.0,1708,37
-Worcester,Massachusetts,25027.0,150567,6538
-Worth,Georgia,13321.0,4789,285
-Worth,Iowa,19195.0,34,0
-Worth,Missouri,29227.0,35,0
-Wright,Iowa,19197.0,92,0
-Wright,Minnesota,27171.0,1373,30
-Wright,Missouri,29229.0,349,0
-Wyandot,Ohio,39175.0,676,62
-Wyandotte,Kansas,20209.0,20960,1565
-Wyoming,New York,36121.0,1859,92
-Wyoming,Pennsylvania,42131.0,614,42
-Wyoming,West Virginia,54109.0,34,0
-Wythe,Virginia,51197.0,345,20
-Yadkin,North Carolina,37197.0,626,26
-Yakima,Washington,53077.0,36974,1397
-Yalobusha,Mississippi,28161.0,675,0
-Yamhill,Oregon,41071.0,1467,236
-Yancey,North Carolina,37199.0,34,0
-Yankton,South Dakota,46135.0,920,0
-Yates,New York,36123.0,418,30
-Yavapai,Arizona,4025.0,3297,55
-Yazoo,Mississippi,28163.0,3800,47
-Yell,Arkansas,5149.0,108,7
-Yellow Medicine,Minnesota,27173.0,102,0
-Yellowstone,Montana,30111.0,2888,35
-Yoakum,Texas,48501.0,29,0
-Yolo,California,6113.0,5122,418
-York,Maine,23031.0,7244,207
-York,Nebraska,31185.0,310,0
-York,Pennsylvania,42133.0,19021,316
-York,South Carolina,45091.0,6689,119
-York,Virginia,51199.0,1604,37
-Young,Texas,48503.0,151,26
-Yuba,California,6115.0,661,36
-Yukon-Koyukuk Census Area,Alaska,2290.0,39,0
-Yuma,Arizona,4027.0,2190,32
-Yuma,Colorado,8125.0,215,0
-Zapata,Texas,48505.0,190,0
-Zavala,Texas,48507.0,26,0
-Ziebach,South Dakota,46137.0,5,0
+fips,cases,deaths
+1001.0,1427,82
+1003.0,5163,110
+1005.0,1057,13
+1007.0,1142,4
+1009.0,1081,0
+1011.0,440,6
+1013.0,1953,36
+1015.0,3159,73
+1017.0,9641,589
+1019.0,508,0
+1021.0,1757,20
+1023.0,1106,0
+1025.0,1079,22
+1027.0,707,19
+1029.0,493,23
+1031.0,2934,3
+1033.0,985,54
+1035.0,298,0
+1037.0,906,29
+1039.0,1082,20
+1041.0,509,1
+1043.0,1811,17
+1045.0,806,0
+1047.0,1479,69
+1049.0,2381,51
+1051.0,2945,51
+1053.0,746,38
+1055.0,4251,295
+1057.0,170,0
+1059.0,2430,11
+1061.0,217,0
+1063.0,1463,25
+1065.0,1307,41
+1067.0,701,18
+1069.0,2689,105
+1071.0,1555,81
+1073.0,32166,1243
+1075.0,360,0
+1077.0,1576,113
+1079.0,481,0
+1081.0,12740,714
+1083.0,1788,0
+1085.0,1635,47
+1087.0,1048,64
+1089.0,8692,143
+1091.0,1541,81
+1093.0,2540,193
+1095.0,9313,168
+1097.0,31058,1537
+1099.0,390,34
+1101.0,10918,222
+1103.0,2316,0
+1105.0,345,0
+1107.0,1547,32
+1109.0,1940,0
+1111.0,2167,147
+1113.0,1728,0
+1115.0,2361,6
+1117.0,11220,362
+1119.0,1880,53
+1121.0,1941,50
+1123.0,7808,586
+1125.0,6753,41
+1127.0,3604,0
+1129.0,946,52
+1131.0,1883,53
+1133.0,417,0
+2020.0,6488,161
+2050.0,35,0
+2090.0,3273,69
+2110.0,935,0
+2122.0,743,6
+2130.0,743,0
+2150.0,26,0
+2170.0,654,28
+2180.0,27,0
+2195.0,73,0
+2198.0,59,0
+2220.0,16,0
+2240.0,45,0
+2261.0,5,0
+2290.0,40,0
+4001.0,11592,182
+4003.0,1073,4
+4005.0,15564,1297
+4007.0,365,4
+4009.0,345,0
+4011.0,74,0
+4012.0,363,41
+4013.0,129092,4325
+4015.0,3228,274
+4017.0,22242,609
+4019.0,39182,2538
+4021.0,12472,320
+4023.0,905,0
+4025.0,3477,59
+4027.0,2386,35
+5001.0,82,0
+5003.0,479,0
+5005.0,191,0
+5007.0,3312,0
+5009.0,164,0
+5011.0,350,23
+5015.0,134,0
+5017.0,292,0
+5019.0,1303,0
+5021.0,68,0
+5023.0,3358,174
+5025.0,407,0
+5027.0,311,20
+5029.0,341,45
+5031.0,2233,11
+5033.0,171,0
+5035.0,5750,159
+5037.0,547,0
+5039.0,38,0
+5041.0,451,0
+5043.0,427,32
+5045.0,2887,69
+5047.0,53,0
+5049.0,33,0
+5051.0,4108,6
+5053.0,457,0
+5055.0,512,0
+5057.0,200,33
+5059.0,512,0
+5061.0,456,1
+5063.0,361,0
+5065.0,168,0
+5067.0,29,0
+5069.0,5917,350
+5071.0,913,0
+5073.0,205,16
+5075.0,1369,70
+5077.0,114,28
+5079.0,17462,53
+5083.0,90,1
+5085.0,1326,0
+5087.0,34,0
+5089.0,32,0
+5091.0,1108,20
+5093.0,636,0
+5095.0,118,0
+5097.0,14,0
+5099.0,57,0
+5101.0,87,0
+5103.0,215,0
+5105.0,179,0
+5107.0,143,30
+5109.0,119,0
+5111.0,602,25
+5113.0,294,0
+5115.0,1400,0
+5117.0,76,0
+5119.0,16901,554
+5121.0,529,0
+5123.0,2866,0
+5125.0,1999,37
+5127.0,42,0
+5129.0,271,0
+5131.0,499,0
+5133.0,414,13
+5135.0,170,6
+5137.0,314,0
+5139.0,1444,10
+5141.0,1183,76
+5143.0,2657,56
+5145.0,1273,22
+5147.0,49,0
+5149.0,115,8
+6001.0,54092,1777
+6003.0,64,0
+6005.0,247,0
+6007.0,679,0
+6009.0,444,0
+6011.0,121,0
+6013.0,30781,802
+6015.0,94,0
+6017.0,1678,0
+6019.0,17420,247
+6021.0,173,0
+6023.0,2255,0
+6025.0,9566,202
+6027.0,710,19
+6029.0,28156,231
+6031.0,3318,31
+6033.0,211,0
+6037.0,690791,30112
+6039.0,1813,85
+6041.0,8968,454
+6043.0,162,0
+6045.0,364,0
+6047.0,3861,105
+6051.0,1033,42
+6053.0,6515,174
+6055.0,2209,82
+6057.0,1602,39
+6059.0,80205,1501
+6061.0,6036,293
+6063.0,151,0
+6065.0,117779,4238
+6067.0,37630,1467
+6069.0,1884,95
+6071.0,61095,2588
+6073.0,116834,3921
+6075.0,52538,853
+6077.0,18240,864
+6079.0,6731,38
+6081.0,41106,1506
+6083.0,19324,213
+6085.0,82782,3707
+6087.0,4728,71
+6089.0,1116,142
+6093.0,222,0
+6095.0,8942,145
+6097.0,8653,104
+6099.0,10712,290
+6101.0,1084,77
+6103.0,39,16
+6105.0,2,0
+6107.0,20152,989
+6109.0,91,0
+6111.0,18499,579
+6113.0,5296,438
+6115.0,682,37
+8001.0,46966,1795
+8003.0,436,66
+8005.0,74738,3724
+8007.0,273,0
+8009.0,418,0
+8011.0,2,0
+8013.0,18309,1002
+8014.0,4780,259
+8015.0,1978,352
+8017.0,17,0
+8019.0,499,21
+8021.0,5,0
+8023.0,132,0
+8025.0,231,54
+8027.0,79,0
+8029.0,1066,34
+8031.0,92275,4202
+8035.0,16869,670
+8037.0,21392,275
+8039.0,963,38
+8041.0,32829,2268
+8043.0,574,0
+8045.0,3209,76
+8047.0,37,0
+8049.0,214,0
+8051.0,6000,152
+8053.0,110,0
+8055.0,70,0
+8059.0,44168,2094
+8063.0,620,46
+8065.0,471,0
+8067.0,2161,3
+8069.0,11936,580
+8071.0,105,0
+8073.0,102,0
+8075.0,5555,31
+8077.0,1593,0
+8079.0,86,0
+8081.0,209,0
+8083.0,558,73
+8085.0,3135,295
+8087.0,8943,349
+8089.0,297,18
+8091.0,173,33
+8093.0,365,0
+8095.0,198,0
+8097.0,2444,91
+8099.0,79,0
+8101.0,4261,289
+8103.0,39,0
+8105.0,278,0
+8107.0,1994,113
+8109.0,130,0
+8111.0,6,0
+8113.0,633,0
+8117.0,4072,46
+8119.0,925,82
+8121.0,219,0
+8123.0,51791,2878
+8125.0,226,0
+9001.0,351375,22196
+9003.0,159282,17287
+9005.0,28277,2249
+9007.0,19523,2112
+9009.0,215675,13582
+9011.0,16003,919
+9013.0,13071,1176
+9015.0,5394,106
+10001.0,20971,675
+10003.0,54544,1824
+10005.0,56107,1523
+11001.0,134613,5764
+12001.0,9612,73
+12003.0,809,93
+12005.0,2192,78
+12007.0,1430,55
+12009.0,8828,237
+12011.0,169061,5607
+12013.0,363,0
+12015.0,7082,540
+12017.0,3419,333
+12019.0,8895,530
+12021.0,20377,508
+12023.0,1994,28
+12027.0,1099,146
+12029.0,201,0
+12031.0,34847,743
+12033.0,15530,340
+12035.0,3666,86
+12037.0,76,0
+12039.0,2507,0
+12041.0,159,0
+12043.0,215,42
+12045.0,41,0
+12047.0,189,0
+12049.0,518,0
+12051.0,2364,72
+12053.0,3304,118
+12055.0,2819,238
+12057.0,40998,819
+12059.0,255,0
+12061.0,3483,161
+12063.0,718,0
+12065.0,804,48
+12067.0,52,0
+12069.0,8046,315
+12071.0,34128,1366
+12073.0,6942,82
+12075.0,500,0
+12077.0,1207,0
+12079.0,1341,50
+12081.0,17606,1444
+12083.0,5398,132
+12085.0,6517,157
+12086.0,394461,9662
+12087.0,2938,112
+12089.0,1846,10
+12091.0,5278,111
+12093.0,399,0
+12095.0,48890,962
+12097.0,17104,270
+12099.0,96844,5531
+12101.0,8591,201
+12103.0,25441,1059
+12105.0,15400,656
+12107.0,2934,61
+12109.0,8040,148
+12111.0,8106,613
+12113.0,5305,253
+12115.0,12172,1173
+12117.0,13371,213
+12119.0,6608,423
+12121.0,3829,334
+12123.0,76,0
+12125.0,134,0
+12127.0,14546,571
+12129.0,672,30
+12131.0,1577,11
+12133.0,318,0
+13001.0,1652,133
+13003.0,292,13
+13005.0,827,26
+13007.0,751,84
+13009.0,5710,203
+13011.0,684,0
+13013.0,4222,153
+13015.0,11957,930
+13017.0,774,0
+13019.0,469,0
+13021.0,8320,230
+13023.0,399,0
+13025.0,633,60
+13027.0,1426,166
+13029.0,1628,94
+13031.0,1121,53
+13033.0,2246,87
+13035.0,3653,218
+13037.0,2863,115
+13039.0,1059,19
+13043.0,228,0
+13045.0,12312,398
+13047.0,1263,0
+13049.0,315,1
+13051.0,7775,281
+13053.0,306,0
+13055.0,436,49
+13057.0,14193,410
+13059.0,5195,495
+13061.0,768,75
+13063.0,23123,841
+13065.0,328,0
+13067.0,52279,2710
+13069.0,3838,173
+13071.0,5516,256
+13073.0,4673,81
+13075.0,620,27
+13077.0,6878,147
+13079.0,450,0
+13081.0,4835,92
+13083.0,397,39
+13085.0,1893,43
+13087.0,2424,31
+13089.0,63810,1358
+13091.0,814,15
+13093.0,3358,235
+13095.0,55006,3918
+13097.0,10160,318
+13099.0,6753,536
+13101.0,149,0
+13103.0,1144,37
+13105.0,617,0
+13107.0,567,4
+13109.0,113,0
+13111.0,831,16
+13113.0,5927,326
+13115.0,5335,339
+13117.0,9161,273
+13119.0,550,12
+13121.0,93508,3527
+13123.0,1461,0
+13125.0,5,1
+13127.0,2030,19
+13129.0,2957,329
+13131.0,1608,77
+13133.0,1672,74
+13135.0,53879,1758
+13137.0,6437,196
+13139.0,37588,445
+13141.0,1325,31
+13143.0,923,36
+13145.0,1654,58
+13147.0,316,0
+13149.0,327,48
+13151.0,15889,354
+13153.0,7339,447
+13155.0,591,20
+13157.0,2598,53
+13159.0,642,0
+13161.0,399,22
+13163.0,433,33
+13165.0,498,34
+13167.0,1394,50
+13169.0,811,0
+13171.0,1108,16
+13173.0,272,32
+13175.0,1951,32
+13177.0,11320,710
+13179.0,1183,0
+13181.0,407,0
+13183.0,120,0
+13185.0,4599,127
+13187.0,1363,21
+13189.0,1373,116
+13191.0,166,0
+13193.0,2064,65
+13195.0,735,43
+13197.0,1036,25
+13199.0,1644,11
+13201.0,929,0
+13205.0,9232,870
+13207.0,788,71
+13209.0,71,0
+13211.0,828,0
+13213.0,941,11
+13215.0,9124,208
+13217.0,6015,193
+13219.0,2075,4
+13221.0,1296,90
+13223.0,5790,228
+13225.0,1524,80
+13227.0,829,82
+13229.0,1906,82
+13231.0,1163,49
+13233.0,1726,0
+13235.0,803,29
+13237.0,1041,99
+13239.0,150,27
+13241.0,356,9
+13243.0,5130,514
+13245.0,11197,406
+13247.0,6035,208
+13249.0,547,36
+13251.0,443,27
+13253.0,949,54
+13255.0,5736,281
+13257.0,1965,25
+13259.0,632,0
+13261.0,11974,742
+13263.0,685,35
+13265.0,9,0
+13267.0,262,0
+13269.0,496,71
+13271.0,693,0
+13273.0,5928,601
+13275.0,5451,508
+13277.0,3797,127
+13279.0,902,89
+13281.0,516,14
+13283.0,83,0
+13285.0,4374,153
+13287.0,2070,193
+13289.0,225,0
+13291.0,760,37
+13293.0,6204,446
+13295.0,1390,0
+13297.0,3294,125
+13299.0,3672,292
+13301.0,405,0
+13303.0,1226,26
+13305.0,332,0
+13307.0,257,31
+13309.0,133,0
+13311.0,1584,8
+13313.0,2737,153
+13315.0,2050,198
+13317.0,664,0
+13319.0,910,55
+13321.0,4972,298
+15001.0,2293,0
+15003.0,15880,302
+15007.0,896,0
+15009.0,3978,154
+16001.0,24552,485
+16003.0,86,0
+16005.0,328,0
+16011.0,134,0
+16013.0,19982,198
+16017.0,150,0
+16019.0,777,0
+16025.0,42,0
+16027.0,8261,213
+16029.0,38,0
+16031.0,415,42
+16037.0,89,0
+16039.0,927,39
+16043.0,91,0
+16045.0,445,0
+16047.0,332,0
+16049.0,125,0
+16051.0,193,0
+16053.0,1628,67
+16055.0,2282,0
+16057.0,146,0
+16059.0,17,0
+16063.0,802,0
+16065.0,360,0
+16067.0,301,0
+16069.0,1725,466
+16073.0,227,0
+16075.0,469,40
+16077.0,70,0
+16081.0,327,0
+16083.0,5398,308
+16085.0,96,0
+16087.0,42,0
+17001.0,1162,11
+17003.0,89,0
+17005.0,204,26
+17007.0,2663,218
+17009.0,50,0
+17011.0,330,7
+17013.0,37,0
+17015.0,293,64
+17017.0,716,0
+17019.0,5027,152
+17021.0,1103,180
+17023.0,176,0
+17025.0,48,0
+17027.0,2679,88
+17029.0,576,18
+17031.0,1099107,44421
+17033.0,273,0
+17035.0,117,0
+17037.0,3001,39
+17039.0,86,0
+17041.0,563,0
+17043.0,92022,4630
+17049.0,158,33
+17051.0,498,50
+17053.0,279,35
+17055.0,250,0
+17057.0,69,2
+17059.0,65,0
+17061.0,71,0
+17063.0,1178,4
+17065.0,46,0
+17067.0,176,0
+17069.0,21,0
+17071.0,99,0
+17073.0,1333,0
+17075.0,1049,11
+17077.0,2854,219
+17079.0,1006,95
+17081.0,1881,212
+17083.0,377,17
+17085.0,458,0
+17087.0,92,0
+17089.0,45054,1626
+17091.0,11568,759
+17093.0,7788,222
+17095.0,1021,0
+17097.0,107788,3686
+17099.0,1734,63
+17101.0,92,0
+17103.0,873,0
+17105.0,716,22
+17107.0,189,0
+17109.0,535,17
+17111.0,18669,917
+17113.0,3492,119
+17115.0,2931,306
+17117.0,905,7
+17119.0,9083,504
+17121.0,906,0
+17123.0,123,0
+17125.0,281,0
+17127.0,132,0
+17129.0,256,0
+17131.0,227,0
+17133.0,2131,257
+17135.0,711,3
+17137.0,661,43
+17139.0,133,0
+17141.0,2811,45
+17143.0,2501,86
+17145.0,469,0
+17147.0,238,0
+17149.0,38,0
+17151.0,4,0
+17153.0,472,0
+17157.0,3835,32
+17159.0,78,0
+17161.0,10038,255
+17163.0,13965,895
+17165.0,125,0
+17167.0,4608,324
+17169.0,60,0
+17173.0,242,13
+17175.0,34,0
+17177.0,1169,0
+17179.0,1286,102
+17181.0,583,7
+17183.0,492,13
+17185.0,42,0
+17187.0,1430,0
+17189.0,301,0
+17191.0,47,0
+17193.0,36,0
+17195.0,2183,152
+17197.0,79338,4415
+17199.0,845,4
+17201.0,12884,474
+17203.0,465,21
+18001.0,259,30
+18003.0,15480,1190
+18005.0,7178,414
+18007.0,209,0
+18009.0,276,27
+18011.0,6210,586
+18013.0,592,35
+18015.0,847,32
+18017.0,22021,64
+18019.0,8498,533
+18021.0,641,20
+18023.0,1275,48
+18025.0,569,15
+18027.0,1268,292
+18029.0,3412,236
+18031.0,6839,788
+18033.0,544,42
+18035.0,5021,346
+18037.0,753,0
+18039.0,8143,266
+18041.0,1230,150
+18043.0,5906,456
+18045.0,313,66
+18047.0,3577,301
+18049.0,588,12
+18051.0,247,0
+18053.0,3674,273
+18055.0,2231,190
+18057.0,25522,1743
+18059.0,6626,350
+18061.0,3874,198
+18063.0,21720,1116
+18065.0,1379,34
+18067.0,4578,232
+18069.0,316,60
+18071.0,4629,14
+18073.0,1076,47
+18075.0,428,0
+18077.0,814,0
+18079.0,2717,75
+18081.0,19382,1780
+18083.0,663,0
+18085.0,1049,48
+18087.0,789,50
+18089.0,53531,2473
+18091.0,5930,213
+18093.0,3282,406
+18095.0,13165,1470
+18097.0,178429,9359
+18099.0,900,20
+18101.0,203,0
+18103.0,2231,10
+18105.0,4288,181
+18107.0,1986,21
+18109.0,5187,175
+18111.0,1450,194
+18113.0,2135,258
+18115.0,132,0
+18117.0,2047,269
+18119.0,905,32
+18121.0,401,0
+18123.0,352,0
+18125.0,44,0
+18127.0,7439,174
+18129.0,360,0
+18131.0,472,0
+18133.0,2165,143
+18135.0,646,60
+18137.0,3533,162
+18139.0,1066,46
+18141.0,17791,530
+18143.0,1315,85
+18145.0,6202,376
+18147.0,204,10
+18149.0,502,39
+18151.0,952,37
+18153.0,427,0
+18155.0,540,0
+18157.0,3756,73
+18159.0,585,26
+18161.0,333,0
+18163.0,4078,43
+18165.0,226,0
+18167.0,2150,179
+18169.0,995,29
+18171.0,310,42
+18173.0,2706,342
+18175.0,1359,6
+18177.0,2068,86
+18179.0,224,0
+18181.0,1551,5
+18183.0,609,37
+19001.0,69,0
+19005.0,2268,106
+19007.0,102,69
+19009.0,108,0
+19011.0,968,35
+19013.0,23777,286
+19015.0,466,0
+19017.0,1172,72
+19019.0,499,0
+19021.0,268,0
+19023.0,189,0
+19025.0,11,0
+19027.0,105,0
+19029.0,29,0
+19031.0,1085,5
+19033.0,579,0
+19035.0,60,0
+19037.0,130,0
+19039.0,91,0
+19041.0,151,0
+19043.0,433,33
+19045.0,1575,16
+19047.0,1427,31
+19049.0,9040,33
+19051.0,60,0
+19055.0,148,9
+19057.0,548,16
+19059.0,136,0
+19061.0,3262,104
+19065.0,482,0
+19067.0,23,2
+19069.0,86,0
+19071.0,4,0
+19073.0,157,0
+19075.0,278,0
+19077.0,411,0
+19079.0,176,0
+19081.0,148,0
+19083.0,200,0
+19085.0,625,0
+19087.0,1088,37
+19089.0,214,0
+19091.0,89,0
+19095.0,577,0
+19097.0,189,0
+19099.0,3538,50
+19101.0,196,0
+19103.0,14344,147
+19105.0,665,0
+19107.0,127,0
+19109.0,63,0
+19111.0,249,0
+19113.0,19038,1201
+19115.0,7323,54
+19119.0,298,0
+19121.0,180,31
+19123.0,392,22
+19125.0,243,0
+19127.0,11459,31
+19129.0,101,0
+19131.0,93,0
+19133.0,324,0
+19135.0,24,0
+19137.0,58,0
+19139.0,9504,306
+19141.0,242,0
+19143.0,255,0
+19145.0,215,0
+19147.0,4,0
+19149.0,598,0
+19151.0,37,0
+19153.0,31140,895
+19155.0,1209,42
+19157.0,1369,87
+19161.0,18,0
+19163.0,6910,151
+19165.0,378,0
+19167.0,622,0
+19169.0,931,14
+19171.0,7509,230
+19173.0,45,0
+19175.0,33,0
+19177.0,298,0
+19179.0,1651,0
+19181.0,843,0
+19183.0,4643,200
+19185.0,11,0
+19187.0,161,0
+19189.0,78,0
+19191.0,451,0
+19193.0,18948,58
+19195.0,36,0
+19197.0,98,0
+20003.0,3,0
+20005.0,266,0
+20007.0,35,0
+20009.0,314,6
+20011.0,266,35
+20013.0,8,0
+20015.0,533,0
+20017.0,37,0
+20019.0,133,0
+20021.0,296,0
+20023.0,25,0
+20025.0,117,0
+20027.0,114,15
+20029.0,121,0
+20031.0,1760,206
+20035.0,76,33
+20037.0,269,43
+20041.0,44,0
+20043.0,116,0
+20045.0,1976,0
+20047.0,59,0
+20051.0,200,0
+20053.0,12,0
+20055.0,9412,52
+20057.0,15048,16
+20059.0,590,0
+20061.0,380,0
+20063.0,46,0
+20067.0,101,0
+20069.0,88,0
+20073.0,80,0
+20075.0,91,0
+20077.0,12,0
+20079.0,231,0
+20081.0,172,0
+20085.0,72,0
+20087.0,285,0
+20089.0,126,0
+20091.0,16428,1189
+20093.0,376,0
+20097.0,28,0
+20099.0,704,0
+20103.0,11195,118
+20107.0,280,0
+20111.0,5429,31
+20113.0,709,0
+20115.0,176,15
+20119.0,179,0
+20121.0,169,0
+20123.0,124,0
+20125.0,571,76
+20127.0,127,0
+20129.0,78,0
+20131.0,14,0
+20133.0,88,0
+20137.0,20,0
+20139.0,182,0
+20141.0,77,0
+20143.0,134,0
+20147.0,31,0
+20149.0,357,0
+20151.0,41,0
+20155.0,988,0
+20157.0,138,0
+20159.0,54,0
+20161.0,1394,0
+20163.0,153,0
+20169.0,616,66
+20171.0,54,0
+20173.0,11751,280
+20175.0,10075,0
+20177.0,3851,182
+20179.0,42,0
+20181.0,83,0
+20183.0,52,0
+20185.0,44,0
+20187.0,131,0
+20189.0,253,0
+20191.0,121,33
+20197.0,406,0
+20205.0,25,0
+20207.0,194,0
+20209.0,22081,1630
+21001.0,2125,240
+21003.0,362,1
+21005.0,270,52
+21007.0,189,0
+21009.0,456,0
+21011.0,122,12
+21015.0,4093,86
+21017.0,307,57
+21019.0,1092,95
+21021.0,573,0
+21023.0,249,0
+21025.0,131,0
+21027.0,268,0
+21029.0,1690,85
+21031.0,3411,112
+21033.0,392,0
+21035.0,945,35
+21037.0,2684,236
+21039.0,38,11
+21041.0,87,0
+21043.0,150,0
+21045.0,28,0
+21047.0,2938,96
+21049.0,766,0
+21051.0,27,0
+21053.0,86,0
+21055.0,123,22
+21057.0,133,0
+21059.0,5971,144
+21061.0,678,30
+21067.0,10041,327
+21069.0,58,0
+21071.0,272,0
+21073.0,590,0
+21075.0,27,0
+21077.0,31,0
+21079.0,55,0
+21081.0,692,81
+21083.0,2919,279
+21085.0,1520,79
+21087.0,39,0
+21089.0,327,0
+21091.0,183,0
+21093.0,1338,13
+21095.0,5,0
+21097.0,837,0
+21099.0,142,0
+21101.0,1835,27
+21103.0,189,0
+21105.0,57,0
+21107.0,5582,610
+21109.0,1547,182
+21111.0,38457,2771
+21113.0,1340,0
+21115.0,75,0
+21117.0,7881,589
+21119.0,98,0
+21121.0,153,0
+21123.0,184,0
+21125.0,505,58
+21127.0,42,0
+21131.0,93,0
+21133.0,62,0
+21135.0,113,0
+21137.0,134,27
+21139.0,93,0
+21141.0,514,14
+21143.0,471,91
+21145.0,1494,67
+21147.0,348,0
+21149.0,359,0
+21151.0,992,37
+21155.0,494,0
+21157.0,807,11
+21159.0,108,0
+21161.0,212,0
+21163.0,281,36
+21165.0,142,0
+21167.0,364,0
+21169.0,19,0
+21171.0,138,0
+21173.0,415,0
+21175.0,30,0
+21177.0,5619,108
+21179.0,675,0
+21181.0,45,0
+21183.0,1330,0
+21185.0,943,0
+21187.0,14,0
+21189.0,64,0
+21191.0,175,0
+21193.0,274,0
+21195.0,299,54
+21197.0,44,0
+21199.0,1430,71
+21203.0,373,0
+21205.0,63,0
+21207.0,474,70
+21209.0,1076,0
+21211.0,981,76
+21213.0,876,70
+21215.0,389,0
+21217.0,222,0
+21219.0,348,0
+21221.0,192,0
+21223.0,74,0
+21225.0,279,0
+21227.0,8183,18
+21229.0,164,0
+21231.0,257,0
+21233.0,644,0
+21235.0,293,0
+21239.0,662,0
+22001.0,4696,276
+22003.0,3116,314
+22005.0,21403,1228
+22007.0,5983,132
+22009.0,2673,181
+22011.0,1378,83
+22013.0,2208,369
+22015.0,9767,474
+22017.0,51880,3043
+22019.0,13513,821
+22021.0,853,0
+22023.0,89,0
+22025.0,1237,72
+22027.0,1906,202
+22029.0,1071,98
+22031.0,6356,368
+22033.0,63304,3857
+22035.0,225,0
+22037.0,3748,361
+22039.0,1802,12
+22041.0,3683,80
+22043.0,511,0
+22045.0,7924,519
+22047.0,13216,872
+22049.0,1000,43
+22051.0,224250,11185
+22053.0,2005,169
+22055.0,16573,629
+22057.0,21942,1232
+22059.0,694,0
+22061.0,2469,162
+22063.0,6754,383
+22065.0,209,0
+22067.0,1580,113
+22069.0,2374,100
+22071.0,248347,14151
+22073.0,21559,529
+22075.0,6311,525
+22077.0,2970,346
+22079.0,9104,319
+22081.0,776,135
+22083.0,1797,7
+22085.0,501,14
+22087.0,16641,571
+22089.0,19421,1227
+22091.0,830,26
+22093.0,9153,610
+22095.0,26013,2203
+22097.0,5752,1059
+22099.0,7639,512
+22101.0,6229,520
+22103.0,43079,3026
+22105.0,17859,648
+22107.0,55,0
+22109.0,13805,912
+22111.0,3534,192
+22113.0,1249,51
+22115.0,595,45
+22117.0,8427,548
+22119.0,3058,144
+22121.0,3493,561
+22123.0,132,0
+22125.0,3589,71
+22127.0,924,71
+23001.0,1756,44
+23003.0,134,0
+23005.0,18080,775
+23007.0,707,17
+23009.0,272,4
+23011.0,3289,168
+23013.0,549,0
+23015.0,548,0
+23017.0,643,0
+23019.0,2191,0
+23021.0,23,0
+23023.0,720,4
+23025.0,515,0
+23027.0,1435,294
+23029.0,66,0
+23031.0,7506,215
+24001.0,2697,168
+24003.0,51038,2308
+24005.0,85630,3163
+24009.0,4846,212
+24011.0,2099,0
+24013.0,14265,1467
+24015.0,5268,211
+24017.0,17007,1063
+24019.0,1462,50
+24021.0,26594,1432
+24023.0,193,0
+24025.0,11606,359
+24027.0,26070,565
+24029.0,1914,122
+24031.0,131340,6298
+24033.0,177119,6214
+24035.0,1568,132
+24037.0,4876,152
+24039.0,706,0
+24041.0,1092,38
+24043.0,5829,121
+24045.0,9591,203
+24047.0,1822,41
+24510.0,64963,2826
+25001.0,28796,1229
+25003.0,16719,1134
+25005.0,99819,4588
+25007.0,589,21
+25009.0,246896,11545
+25011.0,8248,1160
+25013.0,109518,9881
+25015.0,15152,792
+25017.0,408245,21295
+25019.0,426,0
+25021.0,173741,12545
+25023.0,143627,7165
+25025.0,371248,13162
+25027.0,158385,6995
+26001.0,90,12
+26005.0,2504,31
+26007.0,1559,107
+26009.0,340,1
+26011.0,565,22
+26013.0,26,0
+26015.0,1000,29
+26017.0,4083,133
+26019.0,98,0
+26021.0,7913,429
+26023.0,1741,70
+26025.0,6279,313
+26027.0,921,61
+26029.0,500,29
+26031.0,570,38
+26033.0,70,8
+26035.0,323,40
+26037.0,4158,255
+26039.0,1287,92
+26041.0,444,54
+26043.0,120,70
+26045.0,4148,189
+26047.0,794,80
+26049.0,50569,5109
+26051.0,401,22
+26053.0,162,47
+26055.0,747,164
+26057.0,522,36
+26059.0,3976,488
+26061.0,72,0
+26063.0,558,11
+26065.0,14842,315
+26067.0,1796,68
+26069.0,1018,135
+26073.0,1885,218
+26075.0,10597,550
+26077.0,10438,492
+26079.0,629,80
+26081.0,38479,984
+26085.0,60,0
+26087.0,5256,679
+26089.0,282,0
+26091.0,3039,27
+26093.0,11498,471
+26095.0,39,0
+26097.0,182,0
+26099.0,179069,16917
+26101.0,399,0
+26103.0,1376,223
+26105.0,263,0
+26107.0,489,55
+26109.0,104,0
+26111.0,1889,131
+26113.0,350,46
+26115.0,10048,362
+26117.0,1227,35
+26119.0,126,0
+26121.0,7292,428
+26123.0,590,0
+26125.0,248879,20805
+26127.0,359,35
+26129.0,336,0
+26133.0,264,0
+26135.0,161,4
+26137.0,2692,207
+26139.0,6857,282
+26141.0,242,0
+26143.0,477,0
+26145.0,18738,1475
+26147.0,10222,526
+26149.0,1165,29
+26151.0,1179,132
+26153.0,99,0
+26155.0,4564,235
+26157.0,2954,418
+26159.0,1616,73
+26161.0,37318,1713
+26163.0,571491,50157
+26165.0,321,46
+27001.0,29,0
+27003.0,7215,299
+27005.0,218,0
+27007.0,238,0
+27009.0,743,15
+27011.0,67,0
+27013.0,1342,0
+27015.0,293,32
+27017.0,1540,0
+27019.0,1082,3
+27021.0,192,2
+27023.0,69,0
+27025.0,384,39
+27027.0,4083,239
+27029.0,96,0
+27033.0,629,0
+27035.0,680,14
+27037.0,6764,275
+27039.0,768,0
+27041.0,158,0
+27043.0,203,0
+27045.0,499,19
+27047.0,1158,0
+27049.0,729,0
+27051.0,14,0
+27053.0,55308,5854
+27055.0,42,0
+27059.0,216,0
+27061.0,272,0
+27063.0,387,0
+27065.0,45,0
+27067.0,2836,14
+27069.0,24,0
+27071.0,41,0
+27073.0,58,0
+27075.0,5,0
+27079.0,1009,0
+27081.0,96,0
+27083.0,285,0
+27085.0,139,0
+27087.0,60,6
+27089.0,83,0
+27091.0,2609,166
+27093.0,293,0
+27095.0,69,23
+27097.0,121,0
+27099.0,1185,0
+27101.0,340,0
+27103.0,425,56
+27105.0,15737,26
+27107.0,181,0
+27109.0,8828,187
+27111.0,355,0
+27113.0,21,0
+27115.0,1188,0
+27117.0,91,0
+27119.0,707,3
+27121.0,25,0
+27123.0,13272,729
+27125.0,33,0
+27127.0,59,0
+27129.0,159,0
+27131.0,823,26
+27133.0,279,0
+27135.0,35,0
+27137.0,2238,298
+27139.0,1796,39
+27141.0,1276,7
+27143.0,67,0
+27145.0,11699,31
+27147.0,740,0
+27149.0,5,0
+27151.0,60,0
+27153.0,291,0
+27155.0,88,0
+27157.0,369,0
+27159.0,34,0
+27161.0,235,0
+27163.0,4864,254
+27165.0,333,0
+27167.0,347,79
+27169.0,2038,388
+27171.0,1483,31
+27173.0,105,0
+28001.0,3723,221
+28003.0,327,13
+28005.0,820,22
+28007.0,2942,29
+28009.0,350,0
+28011.0,3460,217
+28013.0,1474,82
+28015.0,1323,46
+28017.0,2094,188
+28019.0,512,43
+28021.0,628,0
+28023.0,1480,105
+28025.0,1268,51
+28027.0,2204,75
+28029.0,2831,27
+28031.0,1626,4
+28033.0,9900,127
+28035.0,6667,291
+28037.0,561,17
+28039.0,424,24
+28041.0,137,18
+28043.0,965,17
+28045.0,2214,209
+28047.0,6065,205
+28049.0,15620,228
+28051.0,3878,259
+28053.0,645,104
+28057.0,1327,77
+28059.0,8276,246
+28061.0,1296,32
+28063.0,466,0
+28065.0,805,29
+28067.0,4036,42
+28069.0,1532,57
+28071.0,2606,94
+28073.0,3014,70
+28075.0,10179,709
+28077.0,1152,0
+28079.0,5050,43
+28081.0,2486,144
+28083.0,4310,426
+28085.0,4187,270
+28087.0,1693,52
+28089.0,7798,211
+28091.0,1884,121
+28093.0,1612,71
+28095.0,4009,342
+28097.0,1039,42
+28099.0,4745,136
+28101.0,2068,3
+28103.0,1644,17
+28105.0,1961,88
+28107.0,1293,73
+28109.0,5299,480
+28111.0,931,45
+28113.0,4261,163
+28115.0,728,67
+28117.0,929,23
+28119.0,534,0
+28121.0,6233,149
+28123.0,8005,40
+28125.0,158,0
+28127.0,1183,0
+28129.0,2053,102
+28131.0,632,0
+28133.0,1857,81
+28135.0,336,25
+28137.0,1373,0
+28139.0,2136,290
+28141.0,196,0
+28143.0,1223,59
+28145.0,715,46
+28147.0,1048,0
+28149.0,1690,49
+28151.0,2715,93
+28153.0,590,0
+28155.0,673,48
+28157.0,2351,226
+28159.0,1408,0
+28161.0,711,0
+28163.0,3969,49
+29001.0,477,0
+29003.0,87,0
+29005.0,74,0
+29007.0,25,0
+29009.0,156,0
+29013.0,231,29
+29015.0,197,0
+29017.0,133,0
+29019.0,4079,55
+29021.0,4728,43
+29023.0,763,0
+29025.0,83,0
+29027.0,906,36
+29029.0,1294,45
+29031.0,1559,35
+29033.0,46,0
+29035.0,137,38
+29037.0,2089,188
+29039.0,232,0
+29041.0,193,0
+29043.0,778,0
+29045.0,39,0
+29047.0,2547,36
+29049.0,451,0
+29051.0,1916,39
+29053.0,233,0
+29055.0,231,0
+29059.0,68,0
+29061.0,63,0
+29063.0,109,0
+29069.0,726,52
+29071.0,3741,250
+29073.0,80,0
+29075.0,36,0
+29077.0,3594,340
+29081.0,217,0
+29083.0,240,44
+29087.0,27,0
+29089.0,69,0
+29091.0,171,0
+29093.0,54,0
+29095.0,11290,434
+29097.0,804,0
+29099.0,8064,193
+29101.0,1983,0
+29105.0,5,0
+29107.0,1485,43
+29109.0,34,0
+29111.0,119,20
+29113.0,1527,34
+29115.0,167,29
+29117.0,79,0
+29119.0,160,0
+29121.0,89,0
+29123.0,46,0
+29125.0,82,0
+29127.0,96,0
+29131.0,42,0
+29133.0,551,0
+29135.0,989,0
+29139.0,269,0
+29141.0,120,0
+29143.0,318,0
+29145.0,396,20
+29147.0,118,0
+29149.0,45,0
+29151.0,177,0
+29155.0,856,35
+29157.0,1566,0
+29159.0,938,0
+29161.0,53,0
+29163.0,294,0
+29165.0,1176,0
+29167.0,35,0
+29169.0,1053,41
+29173.0,48,0
+29175.0,314,0
+29177.0,344,0
+29179.0,86,0
+29181.0,159,0
+29183.0,18244,1026
+29185.0,66,0
+29186.0,284,36
+29187.0,972,34
+29189.0,98104,4440
+29195.0,4065,0
+29199.0,124,0
+29201.0,1895,51
+29205.0,48,0
+29207.0,667,0
+29209.0,122,0
+29211.0,10,0
+29213.0,379,44
+29217.0,123,0
+29219.0,708,0
+29221.0,200,17
+29225.0,389,0
+29227.0,36,0
+29229.0,359,0
+29510.0,36173,1720
+30001.0,38,0
+30003.0,86,0
+30007.0,186,0
+30009.0,207,0
+30013.0,609,46
+30023.0,131,0
+30029.0,1467,49
+30031.0,6017,14
+30035.0,167,0
+30037.0,81,0
+30041.0,48,0
+30043.0,96,0
+30047.0,213,0
+30049.0,724,0
+30051.0,42,0
+30053.0,303,46
+30057.0,354,43
+30059.0,47,0
+30063.0,1465,38
+30065.0,44,0
+30067.0,302,0
+30073.0,50,0
+30081.0,182,0
+30083.0,99,0
+30085.0,217,0
+30093.0,519,0
+30095.0,33,0
+30101.0,1040,193
+30107.0,18,0
+30111.0,2970,37
+31001.0,4524,66
+31003.0,90,0
+31011.0,15,0
+31013.0,31,0
+31019.0,2766,42
+31021.0,83,0
+31023.0,149,0
+31025.0,215,0
+31027.0,61,0
+31031.0,38,0
+31033.0,171,0
+31035.0,227,0
+31037.0,3464,6
+31039.0,186,0
+31041.0,757,82
+31043.0,16598,46
+31045.0,3,0
+31047.0,10748,29
+31051.0,211,0
+31053.0,1985,0
+31055.0,23294,455
+31059.0,37,20
+31061.0,122,0
+31063.0,13,0
+31065.0,70,0
+31067.0,1125,71
+31073.0,246,0
+31077.0,34,0
+31079.0,25858,613
+31081.0,1157,148
+31087.0,12,0
+31089.0,9,0
+31093.0,332,0
+31095.0,58,0
+31097.0,99,0
+31099.0,161,0
+31101.0,14,0
+31105.0,372,0
+31107.0,125,0
+31109.0,7508,39
+31111.0,960,57
+31119.0,3112,92
+31121.0,377,0
+31123.0,74,0
+31125.0,56,0
+31127.0,54,0
+31131.0,54,0
+31137.0,137,0
+31139.0,33,0
+31141.0,3173,0
+31143.0,196,0
+31145.0,67,0
+31151.0,3752,0
+31153.0,3772,12
+31155.0,318,4
+31157.0,892,0
+31159.0,223,21
+31163.0,30,0
+31167.0,148,0
+31171.0,6,0
+31173.0,110,0
+31175.0,15,0
+31177.0,944,29
+31179.0,34,0
+31181.0,99,0
+31185.0,335,0
+32001.0,93,22
+32003.0,131746,6099
+32005.0,654,0
+32007.0,759,38
+32013.0,1323,61
+32015.0,166,0
+32017.0,4,0
+32019.0,791,0
+32021.0,63,0
+32023.0,1061,0
+32031.0,28179,867
+32033.0,91,0
+32510.0,1356,22
+33001.0,1278,0
+33003.0,1276,0
+33005.0,1200,68
+33007.0,71,0
+33009.0,2266,11
+33011.0,29637,1109
+33013.0,5067,132
+33015.0,23264,663
+33017.0,4460,162
+33019.0,404,41
+34001.0,25432,1112
+34003.0,519544,32401
+34005.0,78323,3394
+34007.0,101449,3916
+34009.0,9563,616
+34011.0,19896,407
+34013.0,429907,33030
+34015.0,36159,1253
+34017.0,449627,20839
+34019.0,18796,831
+34021.0,114577,6086
+34023.0,354148,15813
+34025.0,199893,9856
+34027.0,170060,11691
+34029.0,204820,11046
+34031.0,369408,14168
+34033.0,6772,303
+34035.0,104750,7195
+34037.0,28304,2812
+34039.0,385275,18201
+34041.0,26086,2086
+35001.0,26041,1075
+35003.0,47,17
+35005.0,891,25
+35006.0,1695,70
+35007.0,135,0
+35009.0,559,0
+35013.0,4217,40
+35015.0,404,48
+35017.0,445,0
+35019.0,258,0
+35021.0,19,0
+35025.0,285,0
+35027.0,59,0
+35028.0,199,0
+35029.0,135,12
+35031.0,25055,498
+35035.0,219,0
+35037.0,96,22
+35039.0,568,0
+35041.0,197,0
+35043.0,12349,374
+35045.0,17220,1090
+35047.0,103,0
+35049.0,3842,6
+35051.0,13,0
+35053.0,1183,39
+35055.0,743,0
+35057.0,501,5
+35059.0,49,0
+35061.0,1305,9
+36001.0,34621,1690
+36003.0,1216,7
+36007.0,8802,499
+36009.0,1476,17
+36011.0,1485,36
+36013.0,1105,46
+36015.0,3543,96
+36017.0,3253,12
+36019.0,2237,108
+36021.0,6008,521
+36023.0,983,0
+36025.0,2083,6
+36027.0,95578,2197
+36029.0,102833,6818
+36031.0,978,0
+36033.0,569,0
+36035.0,1897,48
+36037.0,4388,64
+36039.0,3991,17
+36041.0,153,0
+36043.0,2089,56
+36045.0,2113,0
+36049.0,333,0
+36051.0,2155,66
+36053.0,5583,94
+36055.0,47437,2891
+36057.0,1653,44
+36059.0,1219120,62301
+36063.0,13011,427
+36065.0,13554,372
+36067.0,27530,1073
+36069.0,3047,108
+36071.0,276850,7085
+36073.0,2399,146
+36075.0,2122,14
+36077.0,2130,158
+36079.0,29488,1367
+36083.0,8720,518
+36087.0,396493,10790
+36089.0,5123,48
+36091.0,11917,85
+36093.0,14351,713
+36095.0,1114,0
+36097.0,248,0
+36099.0,1066,24
+36101.0,6672,325
+36103.0,1111964,36402
+36105.0,25323,418
+36107.0,2091,146
+36109.0,5110,60
+36111.0,38422,322
+36113.0,4610,301
+36115.0,3896,67
+36117.0,2368,6
+36119.0,1029949,33545
+36121.0,1936,95
+36123.0,439,34
+37001.0,2980,41
+37003.0,165,0
+37005.0,138,0
+37007.0,743,0
+37009.0,165,0
+37013.0,665,0
+37015.0,1207,54
+37017.0,555,6
+37019.0,1630,91
+37021.0,2243,119
+37023.0,3058,241
+37025.0,8803,296
+37027.0,1080,0
+37029.0,25,0
+37031.0,1003,76
+37033.0,602,4
+37035.0,1857,40
+37037.0,7864,171
+37039.0,606,42
+37041.0,202,0
+37043.0,173,0
+37045.0,1596,47
+37047.0,3368,212
+37049.0,1390,100
+37051.0,6725,179
+37053.0,148,0
+37055.0,410,33
+37057.0,4973,169
+37059.0,1050,78
+37061.0,2641,22
+37063.0,20711,457
+37065.0,2582,95
+37067.0,7351,168
+37069.0,2954,403
+37071.0,4576,118
+37073.0,226,0
+37075.0,22,0
+37077.0,4578,152
+37079.0,643,3
+37081.0,11257,727
+37083.0,1633,25
+37085.0,4171,217
+37087.0,274,0
+37089.0,5297,484
+37091.0,844,37
+37093.0,2015,0
+37095.0,13,0
+37097.0,3786,108
+37099.0,285,7
+37101.0,4913,390
+37103.0,387,51
+37105.0,3677,10
+37107.0,1744,64
+37109.0,911,0
+37111.0,816,17
+37113.0,85,35
+37115.0,17,0
+37117.0,513,8
+37119.0,54953,1270
+37121.0,165,0
+37123.0,927,51
+37125.0,2687,82
+37127.0,2626,64
+37129.0,2787,68
+37131.0,3023,97
+37133.0,1484,50
+37135.0,7150,406
+37137.0,241,0
+37139.0,1202,31
+37141.0,426,7
+37143.0,355,17
+37145.0,641,13
+37147.0,3981,51
+37149.0,604,0
+37151.0,5295,103
+37153.0,1260,56
+37155.0,4208,83
+37157.0,811,73
+37159.0,10663,551
+37161.0,3416,146
+37163.0,1838,7
+37165.0,701,0
+37167.0,862,101
+37169.0,377,0
+37171.0,588,10
+37173.0,54,0
+37175.0,287,0
+37177.0,109,0
+37179.0,7276,260
+37181.0,2411,146
+37183.0,26804,375
+37185.0,302,0
+37187.0,738,73
+37189.0,373,0
+37191.0,16217,237
+37193.0,1900,40
+37195.0,4713,185
+37197.0,680,27
+37199.0,43,0
+38003.0,131,0
+38005.0,10,0
+38011.0,35,0
+38013.0,115,0
+38015.0,2947,0
+38017.0,13647,372
+38023.0,45,0
+38025.0,287,0
+38027.0,40,0
+38029.0,37,35
+38031.0,48,0
+38035.0,5575,10
+38037.0,43,0
+38049.0,50,43
+38051.0,47,0
+38053.0,391,0
+38055.0,137,0
+38057.0,22,0
+38059.0,1084,72
+38061.0,1168,0
+38063.0,23,0
+38065.0,43,0
+38067.0,57,0
+38069.0,109,0
+38071.0,167,0
+38073.0,25,0
+38075.0,11,0
+38077.0,190,0
+38079.0,39,0
+38081.0,43,0
+38085.0,46,0
+38087.0,110,0
+38089.0,1703,65
+38093.0,184,0
+38097.0,5,0
+38099.0,190,0
+38101.0,912,30
+38103.0,37,0
+38105.0,393,0
+39001.0,143,0
+39003.0,3270,526
+39005.0,281,0
+39007.0,3475,316
+39009.0,153,43
+39011.0,963,78
+39013.0,4144,175
+39015.0,366,42
+39017.0,8857,188
+39019.0,679,18
+39021.0,410,31
+39023.0,1567,38
+39025.0,2843,75
+39027.0,949,1
+39029.0,7433,663
+39031.0,663,0
+39033.0,1435,9
+39035.0,71765,2955
+39037.0,2458,418
+39039.0,668,19
+39041.0,5526,116
+39043.0,1550,96
+39045.0,4377,58
+39047.0,524,0
+39049.0,74856,1934
+39051.0,657,0
+39053.0,231,49
+39055.0,4607,342
+39057.0,1497,110
+39059.0,462,0
+39061.0,37100,1864
+39063.0,1150,32
+39065.0,643,0
+39067.0,103,0
+39069.0,137,0
+39071.0,334,8
+39073.0,361,20
+39075.0,173,22
+39077.0,901,44
+39079.0,145,0
+39081.0,1334,26
+39083.0,549,40
+39085.0,5877,257
+39087.0,772,0
+39089.0,4186,166
+39091.0,556,0
+39093.0,13434,782
+39095.0,37429,2634
+39097.0,1745,113
+39099.0,26762,2394
+39101.0,53859,144
+39103.0,5934,433
+39105.0,71,0
+39107.0,907,38
+39109.0,5771,871
+39111.0,126,0
+39113.0,9680,299
+39115.0,124,0
+39117.0,1354,15
+39119.0,480,0
+39121.0,131,0
+39123.0,1071,17
+39125.0,223,0
+39127.0,385,7
+39129.0,40002,351
+39131.0,94,0
+39133.0,7600,1087
+39135.0,795,34
+39137.0,1374,165
+39139.0,2540,45
+39141.0,1142,21
+39143.0,862,125
+39145.0,267,0
+39147.0,454,42
+39149.0,1064,17
+39151.0,10946,1256
+39153.0,19185,1406
+39155.0,10105,833
+39157.0,2723,6
+39159.0,676,0
+39161.0,109,0
+39163.0,107,0
+39165.0,4744,281
+39167.0,2729,296
+39169.0,3804,709
+39171.0,773,27
+39173.0,4592,528
+39175.0,703,64
+40001.0,1851,96
+40003.0,29,0
+40005.0,40,0
+40007.0,222,0
+40009.0,127,0
+40011.0,17,0
+40013.0,260,21
+40015.0,1863,160
+40017.0,3152,100
+40019.0,100,15
+40021.0,920,35
+40023.0,112,0
+40025.0,21,0
+40027.0,13885,928
+40031.0,2960,32
+40033.0,189,23
+40035.0,344,0
+40037.0,2762,181
+40039.0,370,0
+40041.0,2736,279
+40043.0,62,0
+40047.0,485,32
+40049.0,519,13
+40051.0,1018,39
+40053.0,70,0
+40055.0,2074,193
+40059.0,24,0
+40061.0,99,0
+40065.0,455,1
+40067.0,61,0
+40069.0,82,0
+40071.0,1890,193
+40073.0,246,0
+40075.0,130,0
+40077.0,179,38
+40079.0,295,4
+40081.0,482,17
+40083.0,477,13
+40085.0,88,0
+40087.0,1565,24
+40089.0,240,0
+40091.0,67,0
+40093.0,92,28
+40095.0,59,0
+40097.0,745,116
+40099.0,43,0
+40101.0,1036,150
+40103.0,272,0
+40105.0,626,0
+40107.0,32,0
+40109.0,25257,1046
+40111.0,590,0
+40113.0,2534,276
+40115.0,1042,18
+40117.0,1185,83
+40119.0,1536,17
+40121.0,847,51
+40123.0,403,39
+40125.0,1451,122
+40127.0,15,0
+40131.0,1670,90
+40133.0,373,48
+40135.0,427,96
+40137.0,707,40
+40139.0,3944,46
+40141.0,185,0
+40143.0,18578,994
+40145.0,3950,402
+40147.0,7064,479
+40151.0,69,0
+40153.0,41,0
+41001.0,6,0
+41003.0,1241,152
+41005.0,7251,230
+41007.0,379,0
+41009.0,489,0
+41011.0,405,0
+41013.0,39,0
+41015.0,129,0
+41017.0,2812,0
+41019.0,850,0
+41023.0,53,0
+41025.0,14,0
+41027.0,245,0
+41029.0,1964,0
+41031.0,255,0
+41033.0,822,31
+41035.0,1257,0
+41039.0,1906,73
+41041.0,199,0
+41043.0,3182,231
+41045.0,268,0
+41047.0,16799,573
+41049.0,247,0
+41051.0,22482,1242
+41053.0,1732,65
+41055.0,37,0
+41057.0,220,0
+41059.0,1498,11
+41061.0,164,0
+41063.0,43,0
+41065.0,463,16
+41067.0,18279,379
+41071.0,1516,243
+42001.0,3782,87
+42003.0,44490,2423
+42005.0,1503,66
+42007.0,11779,1587
+42009.0,632,31
+42011.0,75970,2941
+42013.0,683,0
+42015.0,1027,107
+42017.0,88619,5609
+42019.0,6431,204
+42021.0,855,56
+42023.0,52,0
+42025.0,5469,366
+42027.0,3334,46
+42029.0,41469,2797
+42031.0,702,24
+42033.0,530,0
+42035.0,714,0
+42037.0,7820,348
+42039.0,653,0
+42041.0,9318,434
+42043.0,17168,600
+42045.0,112188,5976
+42047.0,101,5
+42049.0,2656,52
+42051.0,2642,121
+42053.0,238,0
+42055.0,7795,218
+42057.0,128,1
+42059.0,963,9
+42061.0,1427,0
+42063.0,2012,109
+42065.0,132,0
+42067.0,2420,13
+42069.0,27270,2158
+42071.0,51851,4518
+42073.0,2211,204
+42075.0,19414,257
+42077.0,89280,2031
+42079.0,69706,2203
+42081.0,2063,57
+42083.0,167,5
+42085.0,2125,29
+42087.0,1004,0
+42089.0,38916,1583
+42091.0,131245,8962
+42093.0,1738,0
+42095.0,63614,2392
+42097.0,2773,0
+42099.0,887,39
+42101.0,425404,16426
+42103.0,12036,429
+42105.0,167,0
+42107.0,11093,212
+42109.0,999,42
+42111.0,782,10
+42113.0,38,0
+42115.0,2246,187
+42117.0,521,52
+42119.0,1052,7
+42121.0,250,0
+42123.0,50,21
+42125.0,3759,62
+42127.0,3287,107
+42129.0,12206,800
+42131.0,644,45
+42133.0,19805,329
+44001.0,3578,1
+44003.0,16478,270
+44005.0,4530,36
+44007.0,157812,3813
+44009.0,9050,300
+45001.0,826,0
+45003.0,3046,160
+45005.0,354,30
+45007.0,5553,236
+45009.0,353,0
+45011.0,524,0
+45013.0,9551,327
+45015.0,5369,243
+45017.0,263,42
+45019.0,16662,200
+45021.0,494,0
+45023.0,1004,0
+45025.0,1639,12
+45027.0,6019,463
+45029.0,922,81
+45031.0,3532,35
+45033.0,1365,0
+45035.0,3341,62
+45037.0,793,32
+45039.0,1468,47
+45041.0,8029,445
+45043.0,1482,78
+45045.0,21957,796
+45047.0,1475,0
+45049.0,677,1
+45051.0,7301,482
+45053.0,671,23
+45055.0,9240,320
+45057.0,3202,92
+45059.0,1003,44
+45061.0,1969,203
+45063.0,11926,450
+45065.0,195,35
+45067.0,885,57
+45069.0,1240,8
+45071.0,827,34
+45073.0,814,0
+45075.0,2418,28
+45077.0,1777,13
+45079.0,28798,920
+45081.0,1266,0
+45083.0,9074,269
+45085.0,7847,296
+45087.0,908,0
+45089.0,1978,48
+45091.0,6931,124
+46003.0,48,0
+46005.0,1037,73
+46009.0,162,0
+46011.0,391,0
+46013.0,1497,0
+46017.0,14,0
+46023.0,176,0
+46025.0,48,0
+46027.0,237,0
+46029.0,544,0
+46031.0,33,0
+46035.0,230,63
+46037.0,98,0
+46039.0,45,0
+46043.0,15,0
+46047.0,53,0
+46049.0,46,0
+46051.0,14,0
+46057.0,71,0
+46059.0,16,0
+46065.0,305,0
+46067.0,106,0
+46069.0,29,0
+46073.0,158,18
+46079.0,122,0
+46081.0,384,0
+46083.0,4054,0
+46085.0,98,0
+46087.0,156,33
+46089.0,17,0
+46091.0,43,0
+46093.0,60,0
+46097.0,32,0
+46099.0,55565,337
+46101.0,136,0
+46102.0,35,0
+46103.0,487,0
+46109.0,239,0
+46111.0,87,0
+46115.0,118,0
+46117.0,114,0
+46119.0,30,0
+46121.0,101,0
+46125.0,417,0
+46127.0,659,0
+46129.0,140,0
+46135.0,950,0
+46137.0,6,0
+47001.0,867,34
+47003.0,4319,69
+47005.0,220,19
+47007.0,11360,0
+47009.0,2172,105
+47011.0,1729,28
+47013.0,535,27
+47015.0,390,0
+47017.0,608,22
+47019.0,341,27
+47021.0,1375,0
+47023.0,354,0
+47025.0,197,0
+47027.0,166,0
+47029.0,438,0
+47031.0,1011,0
+47033.0,169,0
+47035.0,2409,14
+47037.0,88243,872
+47039.0,123,0
+47041.0,574,0
+47043.0,2242,0
+47045.0,1093,0
+47047.0,1933,27
+47049.0,145,0
+47051.0,1105,39
+47053.0,1320,20
+47055.0,232,0
+47057.0,184,0
+47059.0,1431,69
+47061.0,975,28
+47063.0,498,52
+47065.0,5791,471
+47069.0,871,0
+47071.0,181,0
+47073.0,1025,70
+47075.0,631,32
+47077.0,196,0
+47079.0,390,0
+47081.0,859,0
+47083.0,174,0
+47085.0,288,17
+47087.0,248,0
+47089.0,738,2
+47091.0,122,0
+47093.0,8226,161
+47095.0,1053,0
+47097.0,608,0
+47099.0,567,0
+47101.0,95,0
+47103.0,437,0
+47105.0,1057,0
+47107.0,1656,35
+47109.0,367,0
+47111.0,1366,95
+47113.0,3725,23
+47115.0,1068,41
+47117.0,664,32
+47119.0,1578,29
+47121.0,274,0
+47123.0,619,26
+47125.0,4782,72
+47127.0,71,0
+47129.0,229,0
+47131.0,400,40
+47133.0,296,0
+47135.0,308,0
+47137.0,2,0
+47139.0,269,0
+47141.0,4558,111
+47143.0,108,0
+47145.0,290,0
+47147.0,5162,0
+47149.0,15664,316
+47151.0,397,0
+47153.0,145,0
+47155.0,1493,32
+47157.0,79952,1577
+47159.0,588,27
+47161.0,204,0
+47163.0,1786,40
+47165.0,21987,1156
+47167.0,3695,14
+47169.0,15403,48
+47171.0,60,0
+47173.0,111,0
+47175.0,46,0
+47177.0,221,0
+47179.0,1941,0
+47181.0,110,0
+47183.0,513,0
+47185.0,266,0
+47187.0,15448,255
+47189.0,8016,98
+48001.0,647,0
+48003.0,628,0
+48005.0,1580,0
+48007.0,70,0
+48011.0,45,0
+48013.0,521,24
+48015.0,448,0
+48017.0,15,0
+48019.0,147,0
+48021.0,2204,61
+48025.0,162,0
+48027.0,5891,116
+48029.0,46322,1526
+48031.0,196,0
+48035.0,92,0
+48037.0,2941,257
+48039.0,15677,164
+48041.0,7144,548
+48043.0,11,0
+48045.0,10,0
+48047.0,20,0
+48049.0,827,87
+48051.0,374,0
+48053.0,527,0
+48055.0,464,0
+48057.0,938,58
+48059.0,68,5
+48061.0,12095,394
+48063.0,198,0
+48065.0,46,0
+48067.0,479,66
+48069.0,597,38
+48071.0,1419,0
+48073.0,445,28
+48075.0,25,0
+48077.0,115,0
+48079.0,19,0
+48081.0,7,0
+48083.0,15,0
+48085.0,24889,587
+48087.0,13,0
+48089.0,342,0
+48091.0,1863,215
+48093.0,111,12
+48095.0,32,0
+48097.0,177,0
+48099.0,3723,39
+48101.0,38,3
+48103.0,95,0
+48107.0,53,27
+48111.0,216,16
+48113.0,119311,2921
+48115.0,637,33
+48117.0,853,0
+48119.0,34,0
+48121.0,26284,674
+48123.0,505,21
+48125.0,36,0
+48127.0,31,0
+48129.0,820,0
+48131.0,61,0
+48133.0,141,0
+48135.0,2494,113
+48139.0,4576,189
+48141.0,25884,477
+48143.0,455,39
+48145.0,107,0
+48147.0,471,6
+48149.0,647,18
+48153.0,87,0
+48157.0,33857,773
+48159.0,60,0
+48161.0,116,0
+48163.0,251,0
+48165.0,84,0
+48167.0,19593,691
+48169.0,32,0
+48171.0,96,0
+48173.0,12,0
+48175.0,206,0
+48177.0,506,31
+48179.0,1306,0
+48181.0,1235,0
+48183.0,2444,0
+48185.0,589,26
+48187.0,2565,0
+48189.0,730,104
+48193.0,148,0
+48195.0,155,15
+48199.0,3193,99
+48201.0,200753,3423
+48203.0,2852,122
+48205.0,105,13
+48209.0,5400,33
+48211.0,38,0
+48213.0,724,0
+48215.0,10371,144
+48217.0,478,26
+48219.0,700,39
+48221.0,666,93
+48223.0,197,0
+48225.0,139,0
+48227.0,100,31
+48231.0,1304,66
+48233.0,370,0
+48237.0,115,0
+48239.0,281,0
+48241.0,412,33
+48245.0,8436,516
+48247.0,47,0
+48249.0,119,0
+48251.0,2527,71
+48253.0,1023,0
+48255.0,119,0
+48257.0,2274,12
+48259.0,600,0
+48265.0,169,0
+48267.0,4,0
+48273.0,244,29
+48275.0,35,0
+48277.0,1166,8
+48279.0,107,0
+48281.0,134,0
+48283.0,29,0
+48285.0,192,17
+48287.0,90,0
+48289.0,194,0
+48291.0,1280,8
+48293.0,426,38
+48295.0,27,0
+48297.0,160,0
+48299.0,138,0
+48303.0,16755,1224
+48305.0,192,21
+48307.0,96,0
+48309.0,3483,131
+48313.0,61,0
+48315.0,259,0
+48317.0,89,7
+48319.0,349,0
+48321.0,2335,146
+48323.0,600,0
+48325.0,646,59
+48329.0,2438,188
+48331.0,471,18
+48335.0,35,0
+48337.0,203,21
+48339.0,17745,353
+48341.0,7868,100
+48343.0,202,0
+48345.0,29,0
+48347.0,4130,201
+48349.0,882,77
+48351.0,84,0
+48353.0,28,0
+48355.0,3784,55
+48357.0,361,17
+48359.0,131,48
+48361.0,2152,20
+48363.0,233,37
+48365.0,2517,129
+48367.0,939,0
+48369.0,199,0
+48371.0,252,0
+48373.0,683,0
+48375.0,15280,228
+48379.0,59,0
+48381.0,6388,96
+48387.0,47,0
+48389.0,4,0
+48391.0,8,0
+48393.0,52,0
+48395.0,123,0
+48397.0,1997,40
+48399.0,24,0
+48401.0,1065,25
+48403.0,38,0
+48405.0,535,39
+48407.0,311,0
+48409.0,416,0
+48415.0,64,0
+48417.0,5,0
+48419.0,2982,50
+48421.0,358,0
+48423.0,5115,119
+48427.0,335,0
+48429.0,32,0
+48437.0,246,0
+48439.0,66580,1934
+48441.0,7511,118
+48445.0,381,0
+48449.0,507,0
+48451.0,1641,32
+48453.0,51200,1224
+48455.0,250,0
+48457.0,193,0
+48459.0,438,0
+48463.0,269,0
+48465.0,486,0
+48467.0,496,44
+48469.0,4034,80
+48471.0,5665,38
+48473.0,963,0
+48477.0,3405,324
+48479.0,11420,468
+48481.0,1277,0
+48483.0,159,0
+48485.0,2596,51
+48487.0,34,0
+48489.0,382,38
+48491.0,8575,256
+48493.0,870,66
+48495.0,84,0
+48497.0,541,51
+48499.0,276,0
+48501.0,31,0
+48503.0,155,27
+48505.0,197,0
+48507.0,28,0
+49003.0,659,22
+49005.0,1557,0
+49007.0,172,0
+49011.0,10258,90
+49013.0,182,0
+49015.0,139,0
+49017.0,75,0
+49019.0,76,0
+49021.0,789,0
+49023.0,177,0
+49025.0,110,0
+49027.0,171,0
+49029.0,283,0
+49031.0,5,0
+49035.0,76334,778
+49037.0,1903,53
+49039.0,115,0
+49041.0,151,0
+49043.0,14607,0
+49045.0,1948,0
+49047.0,214,0
+49049.0,26675,198
+49051.0,5308,31
+49053.0,2309,0
+49057.0,5109,61
+50001.0,2378,54
+50003.0,1713,34
+50005.0,449,0
+50007.0,16020,1025
+50009.0,59,0
+50011.0,3217,142
+50013.0,110,0
+50015.0,992,34
+50017.0,285,0
+50019.0,384,0
+50021.0,1679,26
+50023.0,1316,26
+50025.0,2452,72
+50027.0,1584,88
+51001.0,6701,99
+51003.0,2959,77
+51005.0,182,0
+51007.0,516,21
+51009.0,443,4
+51011.0,461,0
+51013.0,28373,995
+51015.0,1208,19
+51019.0,884,5
+51023.0,978,63
+51025.0,406,0
+51027.0,406,0
+51029.0,2696,4
+51031.0,375,0
+51033.0,713,15
+51035.0,336,0
+51036.0,469,21
+51037.0,255,0
+51041.0,15798,466
+51043.0,285,0
+51045.0,89,0
+51047.0,3805,57
+51049.0,361,0
+51053.0,458,0
+51057.0,237,0
+51059.0,102943,3567
+51061.0,2959,52
+51063.0,57,0
+51065.0,2164,114
+51067.0,723,0
+51069.0,3568,18
+51071.0,142,0
+51073.0,871,21
+51075.0,2215,92
+51077.0,66,0
+51079.0,328,21
+51081.0,981,123
+51083.0,475,0
+51085.0,3499,225
+51087.0,25827,2754
+51089.0,477,21
+51091.0,34,0
+51093.0,2861,48
+51095.0,6478,377
+51097.0,93,0
+51099.0,925,82
+51101.0,186,13
+51103.0,90,0
+51105.0,298,0
+51107.0,23120,414
+51109.0,1435,0
+51111.0,126,0
+51113.0,456,8
+51115.0,142,0
+51117.0,2861,176
+51119.0,164,0
+51121.0,1642,17
+51125.0,254,0
+51127.0,729,24
+51131.0,1842,27
+51133.0,256,5
+51135.0,334,0
+51137.0,945,0
+51139.0,2019,77
+51141.0,49,0
+51143.0,359,21
+51145.0,391,0
+51147.0,1211,52
+51149.0,1208,0
+51153.0,46072,631
+51155.0,263,0
+51157.0,107,0
+51159.0,2854,16
+51161.0,1307,0
+51163.0,216,0
+51165.0,6039,23
+51167.0,107,0
+51169.0,171,25
+51171.0,3217,62
+51173.0,422,0
+51175.0,2383,21
+51177.0,4306,73
+51179.0,7174,51
+51181.0,145,21
+51183.0,764,21
+51185.0,188,0
+51187.0,1452,3
+51191.0,1133,63
+51193.0,634,0
+51195.0,616,31
+51197.0,358,21
+51199.0,1661,39
+51510.0,21085,513
+51520.0,57,0
+51530.0,197,0
+51540.0,1863,56
+51550.0,7552,187
+51570.0,1273,95
+51580.0,3,0
+51590.0,1113,21
+51595.0,725,46
+51600.0,683,45
+51610.0,671,57
+51620.0,548,11
+51630.0,980,0
+51640.0,354,0
+51650.0,3662,49
+51660.0,11288,283
+51670.0,809,0
+51678.0,137,0
+51680.0,1714,21
+51683.0,5827,32
+51685.0,1763,29
+51700.0,4149,198
+51710.0,6186,97
+51720.0,42,0
+51730.0,1004,42
+51735.0,240,0
+51740.0,4163,172
+51750.0,84,0
+51760.0,10914,397
+51770.0,1682,5
+51775.0,479,0
+51790.0,299,0
+51800.0,4516,238
+51810.0,12993,328
+51820.0,380,0
+51830.0,852,62
+51840.0,1279,0
+53001.0,1670,0
+53003.0,475,36
+53005.0,15559,1425
+53007.0,3503,244
+53009.0,635,0
+53011.0,12223,751
+53013.0,61,0
+53015.0,1575,0
+53017.0,2178,35
+53019.0,48,0
+53021.0,9623,248
+53025.0,6275,71
+53027.0,444,0
+53029.0,7381,332
+53031.0,1249,0
+53033.0,238197,16552
+53035.0,6006,63
+53037.0,708,0
+53039.0,688,97
+53041.0,1001,91
+53043.0,89,0
+53045.0,890,16
+53047.0,719,26
+53049.0,115,0
+53051.0,65,0
+53053.0,50918,1502
+53055.0,554,0
+53057.0,11743,378
+53059.0,113,0
+53061.0,100599,3844
+53063.0,13637,747
+53065.0,339,29
+53067.0,4123,38
+53069.0,80,0
+53071.0,2046,6
+53073.0,12117,1056
+53075.0,628,0
+53077.0,38940,1460
+54001.0,186,19
+54003.0,4849,50
+54005.0,116,0
+54007.0,51,0
+54009.0,100,0
+54011.0,1274,0
+54013.0,16,0
+54015.0,10,0
+54019.0,392,0
+54021.0,58,0
+54023.0,46,0
+54025.0,177,0
+54027.0,220,23
+54029.0,346,0
+54031.0,206,0
+54033.0,1213,36
+54035.0,3375,288
+54037.0,2500,14
+54039.0,5093,150
+54041.0,102,0
+54043.0,53,0
+54045.0,404,30
+54047.0,197,0
+54049.0,1557,72
+54051.0,454,0
+54053.0,409,0
+54055.0,358,0
+54057.0,430,0
+54059.0,57,27
+54061.0,3751,144
+54063.0,135,0
+54065.0,347,0
+54067.0,172,1
+54069.0,1049,29
+54071.0,96,0
+54073.0,68,0
+54075.0,29,0
+54077.0,406,0
+54079.0,725,1
+54081.0,304,0
+54083.0,159,0
+54085.0,9,0
+54087.0,170,0
+54089.0,31,0
+54091.0,196,0
+54093.0,179,0
+54095.0,99,0
+54097.0,145,0
+54099.0,2403,151
+54103.0,129,0
+54105.0,94,0
+54107.0,1182,47
+54109.0,35,0
+55001.0,130,28
+55003.0,72,0
+55005.0,245,0
+55007.0,141,24
+55009.0,26498,157
+55011.0,151,37
+55015.0,460,2
+55017.0,878,0
+55019.0,620,66
+55021.0,1151,36
+55023.0,192,0
+55025.0,16644,695
+55027.0,1172,28
+55029.0,430,51
+55031.0,383,0
+55033.0,391,0
+55035.0,1209,0
+55037.0,73,0
+55039.0,2855,124
+55041.0,11,0
+55043.0,1071,130
+55045.0,548,0
+55047.0,80,0
+55049.0,273,0
+55051.0,77,46
+55053.0,410,29
+55055.0,1390,6
+55057.0,474,30
+55059.0,13081,281
+55061.0,416,28
+55063.0,1196,0
+55065.0,170,0
+55069.0,11,0
+55071.0,334,16
+55073.0,674,31
+55075.0,288,27
+55077.0,113,24
+55078.0,46,0
+55079.0,99988,5469
+55081.0,457,14
+55083.0,365,0
+55085.0,235,0
+55087.0,1993,73
+55089.0,3535,381
+55093.0,401,0
+55095.0,123,0
+55097.0,192,0
+55099.0,31,0
+55101.0,10866,347
+55103.0,349,40
+55105.0,5823,210
+55107.0,137,0
+55109.0,588,0
+55111.0,1709,117
+55113.0,85,0
+55115.0,356,0
+55117.0,1819,76
+55121.0,84,0
+55123.0,30,0
+55125.0,173,0
+55127.0,4479,199
+55129.0,28,0
+55131.0,3725,140
+55133.0,11760,514
+55135.0,252,45
+55137.0,83,0
+55139.0,2011,36
+55141.0,106,0
+56001.0,260,0
+56003.0,74,0
+56005.0,748,0
+56007.0,203,0
+56009.0,616,0
+56011.0,154,0
+56013.0,3652,84
+56015.0,157,0
+56017.0,124,0
+56019.0,564,29
+56021.0,4553,27
+56023.0,320,0
+56025.0,1764,0
+56027.0,64,0
+56029.0,56,0
+56033.0,695,0
+56035.0,110,0
+56037.0,566,0
+56039.0,3380,19
+56041.0,232,0
+56043.0,259,0
