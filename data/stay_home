@@ -1,0 +1,3143 @@
+,FIPS,STATE,ST_ABBR,COUNTY,Date Announced,Effective Date
+0,1001,ALABAMA,AL,Autauga,April 3,April 4
+1,1003,ALABAMA,AL,Baldwin,April 3,April 4
+2,1005,ALABAMA,AL,Barbour,April 3,April 4
+3,1007,ALABAMA,AL,Bibb,April 3,April 4
+4,1009,ALABAMA,AL,Blount,April 3,April 4
+5,1011,ALABAMA,AL,Bullock,April 3,April 4
+6,1013,ALABAMA,AL,Butler,April 3,April 4
+7,1015,ALABAMA,AL,Calhoun,April 3,April 4
+8,1017,ALABAMA,AL,Chambers,April 3,April 4
+9,1019,ALABAMA,AL,Cherokee,April 3,April 4
+10,1021,ALABAMA,AL,Chilton,April 3,April 4
+11,1023,ALABAMA,AL,Choctaw,April 3,April 4
+12,1025,ALABAMA,AL,Clarke,April 3,April 4
+13,1027,ALABAMA,AL,Clay,April 3,April 4
+14,1029,ALABAMA,AL,Cleburne,April 3,April 4
+15,1031,ALABAMA,AL,Coffee,April 3,April 4
+16,1033,ALABAMA,AL,Colbert,April 3,April 4
+17,1035,ALABAMA,AL,Conecuh,April 3,April 4
+18,1037,ALABAMA,AL,Coosa,April 3,April 4
+19,1039,ALABAMA,AL,Covington,April 3,April 4
+20,1041,ALABAMA,AL,Crenshaw,April 3,April 4
+21,1043,ALABAMA,AL,Cullman,April 3,April 4
+22,1045,ALABAMA,AL,Dale,April 3,April 4
+23,1047,ALABAMA,AL,Dallas,April 3,April 4
+24,1049,ALABAMA,AL,DeKalb,April 3,April 4
+25,1051,ALABAMA,AL,Elmore,April 3,April 4
+26,1053,ALABAMA,AL,Escambia,April 3,April 4
+27,1055,ALABAMA,AL,Etowah,April 3,April 4
+28,1057,ALABAMA,AL,Fayette,April 3,April 4
+29,1059,ALABAMA,AL,Franklin,April 3,April 4
+30,1061,ALABAMA,AL,Geneva,April 3,April 4
+31,1063,ALABAMA,AL,Greene,April 3,April 4
+32,1065,ALABAMA,AL,Hale,April 3,April 4
+33,1067,ALABAMA,AL,Henry,April 3,April 4
+34,1069,ALABAMA,AL,Houston,April 3,April 4
+35,1071,ALABAMA,AL,Jackson,April 3,April 4
+36,1073,ALABAMA,AL,Jefferson,April 3,April 4
+37,1075,ALABAMA,AL,Lamar,April 3,April 4
+38,1077,ALABAMA,AL,Lauderdale,April 3,April 4
+39,1079,ALABAMA,AL,Lawrence,April 3,April 4
+40,1081,ALABAMA,AL,Lee,April 3,April 4
+41,1083,ALABAMA,AL,Limestone,April 3,April 4
+42,1085,ALABAMA,AL,Lowndes,April 3,April 4
+43,1087,ALABAMA,AL,Macon,April 3,April 4
+44,1089,ALABAMA,AL,Madison,April 3,April 4
+45,1091,ALABAMA,AL,Marengo,April 3,April 4
+46,1093,ALABAMA,AL,Marion,April 3,April 4
+47,1095,ALABAMA,AL,Marshall,April 3,April 4
+48,1097,ALABAMA,AL,Mobile,April 3,April 4
+49,1099,ALABAMA,AL,Monroe,April 3,April 4
+50,1101,ALABAMA,AL,Montgomery,April 3,April 4
+51,1103,ALABAMA,AL,Morgan,April 3,April 4
+52,1105,ALABAMA,AL,Perry,April 3,April 4
+53,1107,ALABAMA,AL,Pickens,April 3,April 4
+54,1109,ALABAMA,AL,Pike,April 3,April 4
+55,1111,ALABAMA,AL,Randolph,April 3,April 4
+56,1113,ALABAMA,AL,Russell,April 3,April 4
+57,1115,ALABAMA,AL,St. Clair,April 3,April 4
+58,1117,ALABAMA,AL,Shelby,April 3,April 4
+59,1119,ALABAMA,AL,Sumter,April 3,April 4
+60,1121,ALABAMA,AL,Talladega,April 3,April 4
+61,1123,ALABAMA,AL,Tallapoosa,April 3,April 4
+62,1125,ALABAMA,AL,Tuscaloosa,April 3,April 4
+63,1127,ALABAMA,AL,Walker,April 3,April 4
+64,1129,ALABAMA,AL,Washington,April 3,April 4
+65,1131,ALABAMA,AL,Wilcox,April 3,April 4
+66,1133,ALABAMA,AL,Winston,April 3,April 4
+67,2013,ALASKA,AK,Aleutians East,March 27,March 28
+68,2016,ALASKA,AK,Aleutians West,March 27,March 28
+69,2020,ALASKA,AK,Anchorage,March 27,March 28
+70,2050,ALASKA,AK,Bethel,March 27,March 28
+71,2060,ALASKA,AK,Bristol Bay,March 27,March 28
+72,2068,ALASKA,AK,Denali,March 27,March 28
+73,2070,ALASKA,AK,Dillingham,March 27,March 28
+74,2090,ALASKA,AK,Fairbanks North Star,March 27,March 28
+75,2100,ALASKA,AK,Haines,March 27,March 28
+76,2105,ALASKA,AK,Hoonah-Angoon,March 27,March 28
+77,2110,ALASKA,AK,Juneau City and Borough,March 27,March 28
+78,2122,ALASKA,AK,Kenai Peninsula,March 27,March 28
+79,2130,ALASKA,AK,Ketchikan Gateway,March 27,March 28
+80,2150,ALASKA,AK,Kodiak Island,March 27,March 28
+81,2158,ALASKA,AK,Kusilvak,March 27,March 28
+82,2164,ALASKA,AK,Lake and Peninsula,March 27,March 28
+83,2170,ALASKA,AK,Matanuska-Susitna,March 27,March 28
+84,2180,ALASKA,AK,Nome,March 27,March 28
+85,2185,ALASKA,AK,North Slope,March 27,March 28
+86,2188,ALASKA,AK,Northwest Arctic,March 27,March 28
+87,2195,ALASKA,AK,Petersburg,March 27,March 28
+88,2198,ALASKA,AK,Prince of Wales-Hyder,March 27,March 28
+89,2220,ALASKA,AK,Sitka City and Borough,March 27,March 28
+90,2230,ALASKA,AK,Skagway,March 27,March 28
+91,2240,ALASKA,AK,Southeast Fairbanks,March 27,March 28
+92,2261,ALASKA,AK,Valdez-Cordova,March 27,March 28
+93,2275,ALASKA,AK,Wrangell City and Borough,March 27,March 28
+94,2282,ALASKA,AK,Yakutat City and Borough,March 27,March 28
+95,2290,ALASKA,AK,Yukon-Koyukuk,March 27,March 28
+96,4001,ARIZONA,AZ,Apache,March 30,March 31
+97,4003,ARIZONA,AZ,Cochise,March 30,March 31
+98,4005,ARIZONA,AZ,Coconino,March 30,March 31
+99,4007,ARIZONA,AZ,Gila,March 30,March 31
+100,4009,ARIZONA,AZ,Graham,March 30,March 31
+101,4011,ARIZONA,AZ,Greenlee,March 30,March 31
+102,4012,ARIZONA,AZ,La Paz,March 30,March 31
+103,4013,ARIZONA,AZ,Maricopa,March 30,March 31
+104,4015,ARIZONA,AZ,Mohave,March 30,March 31
+105,4017,ARIZONA,AZ,Navajo,March 30,March 31
+106,4019,ARIZONA,AZ,Pima,March 30,March 31
+107,4021,ARIZONA,AZ,Pinal,March 30,March 31
+108,4023,ARIZONA,AZ,Santa Cruz,March 30,March 31
+109,4025,ARIZONA,AZ,Yavapai,March 30,March 31
+110,4027,ARIZONA,AZ,Yuma,March 30,March 31
+111,5001,ARKANSAS,AR,Arkansas,-,-
+112,5003,ARKANSAS,AR,Ashley,-,-
+113,5005,ARKANSAS,AR,Baxter,-,-
+114,5007,ARKANSAS,AR,Benton,-,-
+115,5009,ARKANSAS,AR,Boone,-,-
+116,5011,ARKANSAS,AR,Bradley,-,-
+117,5013,ARKANSAS,AR,Calhoun,-,-
+118,5015,ARKANSAS,AR,Carroll,-,-
+119,5017,ARKANSAS,AR,Chicot,-,-
+120,5019,ARKANSAS,AR,Clark,-,-
+121,5021,ARKANSAS,AR,Clay,-,-
+122,5023,ARKANSAS,AR,Cleburne,-,-
+123,5025,ARKANSAS,AR,Cleveland,-,-
+124,5027,ARKANSAS,AR,Columbia,-,-
+125,5029,ARKANSAS,AR,Conway,-,-
+126,5031,ARKANSAS,AR,Craighead,-,-
+127,5033,ARKANSAS,AR,Crawford,-,-
+128,5035,ARKANSAS,AR,Crittenden,-,-
+129,5037,ARKANSAS,AR,Cross,-,-
+130,5039,ARKANSAS,AR,Dallas,-,-
+131,5041,ARKANSAS,AR,Desha,-,-
+132,5043,ARKANSAS,AR,Drew,-,-
+133,5045,ARKANSAS,AR,Faulkner,-,-
+134,5047,ARKANSAS,AR,Franklin,-,-
+135,5049,ARKANSAS,AR,Fulton,-,-
+136,5051,ARKANSAS,AR,Garland,-,-
+137,5053,ARKANSAS,AR,Grant,-,-
+138,5055,ARKANSAS,AR,Greene,-,-
+139,5057,ARKANSAS,AR,Hempstead,-,-
+140,5059,ARKANSAS,AR,Hot Spring,-,-
+141,5061,ARKANSAS,AR,Howard,-,-
+142,5063,ARKANSAS,AR,Independence,-,-
+143,5065,ARKANSAS,AR,Izard,-,-
+144,5067,ARKANSAS,AR,Jackson,-,-
+145,5069,ARKANSAS,AR,Jefferson,-,-
+146,5071,ARKANSAS,AR,Johnson,-,-
+147,5073,ARKANSAS,AR,Lafayette,-,-
+148,5075,ARKANSAS,AR,Lawrence,-,-
+149,5077,ARKANSAS,AR,Lee,-,-
+150,5079,ARKANSAS,AR,Lincoln,-,-
+151,5081,ARKANSAS,AR,Little River,-,-
+152,5083,ARKANSAS,AR,Logan,-,-
+153,5085,ARKANSAS,AR,Lonoke,-,-
+154,5087,ARKANSAS,AR,Madison,-,-
+155,5089,ARKANSAS,AR,Marion,-,-
+156,5091,ARKANSAS,AR,Miller,-,-
+157,5093,ARKANSAS,AR,Mississippi,-,-
+158,5095,ARKANSAS,AR,Monroe,-,-
+159,5097,ARKANSAS,AR,Montgomery,-,-
+160,5099,ARKANSAS,AR,Nevada,-,-
+161,5101,ARKANSAS,AR,Newton,-,-
+162,5103,ARKANSAS,AR,Ouachita,-,-
+163,5105,ARKANSAS,AR,Perry,-,-
+164,5107,ARKANSAS,AR,Phillips,-,-
+165,5109,ARKANSAS,AR,Pike,-,-
+166,5111,ARKANSAS,AR,Poinsett,-,-
+167,5113,ARKANSAS,AR,Polk,-,-
+168,5115,ARKANSAS,AR,Pope,-,-
+169,5117,ARKANSAS,AR,Prairie,-,-
+170,5119,ARKANSAS,AR,Pulaski,-,-
+171,5121,ARKANSAS,AR,Randolph,-,-
+172,5123,ARKANSAS,AR,St. Francis,-,-
+173,5125,ARKANSAS,AR,Saline,-,-
+174,5127,ARKANSAS,AR,Scott,-,-
+175,5129,ARKANSAS,AR,Searcy,-,-
+176,5131,ARKANSAS,AR,Sebastian,-,-
+177,5133,ARKANSAS,AR,Sevier,-,-
+178,5135,ARKANSAS,AR,Sharp,-,-
+179,5137,ARKANSAS,AR,Stone,-,-
+180,5139,ARKANSAS,AR,Union,-,-
+181,5141,ARKANSAS,AR,Van Buren,-,-
+182,5143,ARKANSAS,AR,Washington,-,-
+183,5145,ARKANSAS,AR,White,-,-
+184,5147,ARKANSAS,AR,Woodruff,-,-
+185,5149,ARKANSAS,AR,Yell,-,-
+186,6001,CALIFORNIA,CA,Alameda,March 19,March 19
+187,6003,CALIFORNIA,CA,Alpine,March 19,March 19
+188,6005,CALIFORNIA,CA,Amador,March 19,March 19
+189,6007,CALIFORNIA,CA,Butte,March 19,March 19
+190,6009,CALIFORNIA,CA,Calaveras,March 19,March 19
+191,6011,CALIFORNIA,CA,Colusa,March 19,March 19
+192,6013,CALIFORNIA,CA,Contra Costa,March 19,March 19
+193,6015,CALIFORNIA,CA,Del Norte,March 19,March 19
+194,6017,CALIFORNIA,CA,El Dorado,March 19,March 19
+195,6019,CALIFORNIA,CA,Fresno,March 19,March 19
+196,6021,CALIFORNIA,CA,Glenn,March 19,March 19
+197,6023,CALIFORNIA,CA,Humboldt,March 19,March 19
+198,6025,CALIFORNIA,CA,Imperial,March 19,March 19
+199,6027,CALIFORNIA,CA,Inyo,March 19,March 19
+200,6029,CALIFORNIA,CA,Kern,March 19,March 19
+201,6031,CALIFORNIA,CA,Kings,March 19,March 19
+202,6033,CALIFORNIA,CA,Lake,March 19,March 19
+203,6035,CALIFORNIA,CA,Lassen,March 19,March 19
+204,6037,CALIFORNIA,CA,Los Angeles,March 19,March 19
+205,6039,CALIFORNIA,CA,Madera,March 19,March 19
+206,6041,CALIFORNIA,CA,Marin,March 19,March 19
+207,6043,CALIFORNIA,CA,Mariposa,March 19,March 19
+208,6045,CALIFORNIA,CA,Mendocino,March 19,March 19
+209,6047,CALIFORNIA,CA,Merced,March 19,March 19
+210,6049,CALIFORNIA,CA,Modoc,March 19,March 19
+211,6051,CALIFORNIA,CA,Mono,March 19,March 19
+212,6053,CALIFORNIA,CA,Monterey,March 19,March 19
+213,6055,CALIFORNIA,CA,Napa,March 19,March 19
+214,6057,CALIFORNIA,CA,Nevada,March 19,March 19
+215,6059,CALIFORNIA,CA,Orange,March 19,March 19
+216,6061,CALIFORNIA,CA,Placer,March 19,March 19
+217,6063,CALIFORNIA,CA,Plumas,March 19,March 19
+218,6065,CALIFORNIA,CA,Riverside,March 19,March 19
+219,6067,CALIFORNIA,CA,Sacramento,March 19,March 19
+220,6069,CALIFORNIA,CA,San Benito,March 19,March 19
+221,6071,CALIFORNIA,CA,San Bernardino,March 19,March 19
+222,6073,CALIFORNIA,CA,San Diego,March 19,March 19
+223,6075,CALIFORNIA,CA,San Francisco,March 19,March 19
+224,6077,CALIFORNIA,CA,San Joaquin,March 19,March 19
+225,6079,CALIFORNIA,CA,San Luis Obispo,March 19,March 19
+226,6081,CALIFORNIA,CA,San Mateo,March 19,March 19
+227,6083,CALIFORNIA,CA,Santa Barbara,March 19,March 19
+228,6085,CALIFORNIA,CA,Santa Clara,March 19,March 19
+229,6087,CALIFORNIA,CA,Santa Cruz,March 19,March 19
+230,6089,CALIFORNIA,CA,Shasta,March 19,March 19
+231,6091,CALIFORNIA,CA,Sierra,March 19,March 19
+232,6093,CALIFORNIA,CA,Siskiyou,March 19,March 19
+233,6095,CALIFORNIA,CA,Solano,March 19,March 19
+234,6097,CALIFORNIA,CA,Sonoma,March 19,March 19
+235,6099,CALIFORNIA,CA,Stanislaus,March 19,March 19
+236,6101,CALIFORNIA,CA,Sutter,March 19,March 19
+237,6103,CALIFORNIA,CA,Tehama,March 19,March 19
+238,6105,CALIFORNIA,CA,Trinity,March 19,March 19
+239,6107,CALIFORNIA,CA,Tulare,March 19,March 19
+240,6109,CALIFORNIA,CA,Tuolumne,March 19,March 19
+241,6111,CALIFORNIA,CA,Ventura,March 19,March 19
+242,6113,CALIFORNIA,CA,Yolo,March 19,March 19
+243,6115,CALIFORNIA,CA,Yuba,March 19,March 19
+244,8001,COLORADO,CO,Adams,March 26,March 26
+245,8003,COLORADO,CO,Alamosa,March 26,March 26
+246,8005,COLORADO,CO,Arapahoe,March 26,March 26
+247,8007,COLORADO,CO,Archuleta,March 26,March 26
+248,8009,COLORADO,CO,Baca,March 26,March 26
+249,8011,COLORADO,CO,Bent,March 26,March 26
+250,8013,COLORADO,CO,Boulder,March 26,March 26
+251,8014,COLORADO,CO,Broomfield,March 26,March 26
+252,8015,COLORADO,CO,Chaffee,March 26,March 26
+253,8017,COLORADO,CO,Cheyenne,March 26,March 26
+254,8019,COLORADO,CO,Clear Creek,March 26,March 26
+255,8021,COLORADO,CO,Conejos,March 26,March 26
+256,8023,COLORADO,CO,Costilla,March 26,March 26
+257,8025,COLORADO,CO,Crowley,March 26,March 26
+258,8027,COLORADO,CO,Custer,March 26,March 26
+259,8029,COLORADO,CO,Delta,March 26,March 26
+260,8031,COLORADO,CO,Denver,March 26,March 26
+261,8033,COLORADO,CO,Dolores,March 26,March 26
+262,8035,COLORADO,CO,Douglas,March 26,March 26
+263,8037,COLORADO,CO,Eagle,March 26,March 26
+264,8039,COLORADO,CO,Elbert,March 26,March 26
+265,8041,COLORADO,CO,El Paso,March 26,March 26
+266,8043,COLORADO,CO,Fremont,March 26,March 26
+267,8045,COLORADO,CO,Garfield,March 26,March 26
+268,8047,COLORADO,CO,Gilpin,March 26,March 26
+269,8049,COLORADO,CO,Grand,March 26,March 26
+270,8051,COLORADO,CO,Gunnison,March 26,March 26
+271,8053,COLORADO,CO,Hinsdale,March 26,March 26
+272,8055,COLORADO,CO,Huerfano,March 26,March 26
+273,8057,COLORADO,CO,Jackson,March 26,March 26
+274,8059,COLORADO,CO,Jefferson,March 26,March 26
+275,8061,COLORADO,CO,Kiowa,March 26,March 26
+276,8063,COLORADO,CO,Kit Carson,March 26,March 26
+277,8065,COLORADO,CO,Lake,March 26,March 26
+278,8067,COLORADO,CO,La Plata,March 26,March 26
+279,8069,COLORADO,CO,Larimer,March 26,March 26
+280,8071,COLORADO,CO,Las Animas,March 26,March 26
+281,8073,COLORADO,CO,Lincoln,March 26,March 26
+282,8075,COLORADO,CO,Logan,March 26,March 26
+283,8077,COLORADO,CO,Mesa,March 26,March 26
+284,8079,COLORADO,CO,Mineral,March 26,March 26
+285,8081,COLORADO,CO,Moffat,March 26,March 26
+286,8083,COLORADO,CO,Montezuma,March 26,March 26
+287,8085,COLORADO,CO,Montrose,March 26,March 26
+288,8087,COLORADO,CO,Morgan,March 26,March 26
+289,8089,COLORADO,CO,Otero,March 26,March 26
+290,8091,COLORADO,CO,Ouray,March 26,March 26
+291,8093,COLORADO,CO,Park,March 26,March 26
+292,8095,COLORADO,CO,Phillips,March 26,March 26
+293,8097,COLORADO,CO,Pitkin,March 26,March 26
+294,8099,COLORADO,CO,Prowers,March 26,March 26
+295,8101,COLORADO,CO,Pueblo,March 26,March 26
+296,8103,COLORADO,CO,Rio Blanco,March 26,March 26
+297,8105,COLORADO,CO,Rio Grande,March 26,March 26
+298,8107,COLORADO,CO,Routt,March 26,March 26
+299,8109,COLORADO,CO,Saguache,March 26,March 26
+300,8111,COLORADO,CO,San Juan,March 26,March 26
+301,8113,COLORADO,CO,San Miguel,March 26,March 26
+302,8115,COLORADO,CO,Sedgwick,March 26,March 26
+303,8117,COLORADO,CO,Summit,March 26,March 26
+304,8119,COLORADO,CO,Teller,March 26,March 26
+305,8121,COLORADO,CO,Washington,March 26,March 26
+306,8123,COLORADO,CO,Weld,March 26,March 26
+307,8125,COLORADO,CO,Yuma,March 26,March 26
+308,9001,CONNECTICUT,CT,Fairfield,March 20,March 23
+309,9003,CONNECTICUT,CT,Hartford,March 20,March 23
+310,9005,CONNECTICUT,CT,Litchfield,March 20,March 23
+311,9007,CONNECTICUT,CT,Middlesex,March 20,March 23
+312,9009,CONNECTICUT,CT,New Haven,March 20,March 23
+313,9011,CONNECTICUT,CT,New London,March 20,March 23
+314,9013,CONNECTICUT,CT,Tolland,March 20,March 23
+315,9015,CONNECTICUT,CT,Windham,March 20,March 23
+316,10001,DELAWARE,DE,Kent,March 22,March 24
+317,10003,DELAWARE,DE,New Castle,March 22,March 24
+318,10005,DELAWARE,DE,Sussex,March 22,March 24
+319,11001,DISTRICT OF COLUMBIA,DC,District of Columbia,March 30,April 1
+320,12001,FLORIDA,FL,Alachua,April 1,April 3
+321,12003,FLORIDA,FL,Baker,April 1,April 3
+322,12005,FLORIDA,FL,Bay,April 1,April 3
+323,12007,FLORIDA,FL,Bradford,April 1,April 3
+324,12009,FLORIDA,FL,Brevard,April 1,April 3
+325,12011,FLORIDA,FL,Broward,April 1,April 3
+326,12013,FLORIDA,FL,Calhoun,April 1,April 3
+327,12015,FLORIDA,FL,Charlotte,April 1,April 3
+328,12017,FLORIDA,FL,Citrus,April 1,April 3
+329,12019,FLORIDA,FL,Clay,April 1,April 3
+330,12021,FLORIDA,FL,Collier,April 1,April 3
+331,12023,FLORIDA,FL,Columbia,April 1,April 3
+332,12027,FLORIDA,FL,DeSoto,April 1,April 3
+333,12029,FLORIDA,FL,Dixie,April 1,April 3
+334,12031,FLORIDA,FL,Duval,April 1,April 3
+335,12033,FLORIDA,FL,Escambia,April 1,April 3
+336,12035,FLORIDA,FL,Flagler,April 1,April 3
+337,12037,FLORIDA,FL,Franklin,April 1,April 3
+338,12039,FLORIDA,FL,Gadsden,April 1,April 3
+339,12041,FLORIDA,FL,Gilchrist,April 1,April 3
+340,12043,FLORIDA,FL,Glades,April 1,April 3
+341,12045,FLORIDA,FL,Gulf,April 1,April 3
+342,12047,FLORIDA,FL,Hamilton,April 1,April 3
+343,12049,FLORIDA,FL,Hardee,April 1,April 3
+344,12051,FLORIDA,FL,Hendry,April 1,April 3
+345,12053,FLORIDA,FL,Hernando,April 1,April 3
+346,12055,FLORIDA,FL,Highlands,April 1,April 3
+347,12057,FLORIDA,FL,Hillsborough,April 1,April 3
+348,12059,FLORIDA,FL,Holmes,April 1,April 3
+349,12061,FLORIDA,FL,Indian River,April 1,April 3
+350,12063,FLORIDA,FL,Jackson,April 1,April 3
+351,12065,FLORIDA,FL,Jefferson,April 1,April 3
+352,12067,FLORIDA,FL,Lafayette,April 1,April 3
+353,12069,FLORIDA,FL,Lake,April 1,April 3
+354,12071,FLORIDA,FL,Lee,April 1,April 3
+355,12073,FLORIDA,FL,Leon,April 1,April 3
+356,12075,FLORIDA,FL,Levy,April 1,April 3
+357,12077,FLORIDA,FL,Liberty,April 1,April 3
+358,12079,FLORIDA,FL,Madison,April 1,April 3
+359,12081,FLORIDA,FL,Manatee,April 1,April 3
+360,12083,FLORIDA,FL,Marion,April 1,April 3
+361,12085,FLORIDA,FL,Martin,April 1,April 3
+362,12086,FLORIDA,FL,Miami-Dade,April 1,April 3
+363,12087,FLORIDA,FL,Monroe,April 1,April 3
+364,12089,FLORIDA,FL,Nassau,April 1,April 3
+365,12091,FLORIDA,FL,Okaloosa,April 1,April 3
+366,12093,FLORIDA,FL,Okeechobee,April 1,April 3
+367,12095,FLORIDA,FL,Orange,April 1,April 3
+368,12097,FLORIDA,FL,Osceola,April 1,April 3
+369,12099,FLORIDA,FL,Palm Beach,April 1,April 3
+370,12101,FLORIDA,FL,Pasco,April 1,April 3
+371,12103,FLORIDA,FL,Pinellas,April 1,April 3
+372,12105,FLORIDA,FL,Polk,April 1,April 3
+373,12107,FLORIDA,FL,Putnam,April 1,April 3
+374,12109,FLORIDA,FL,St. Johns,April 1,April 3
+375,12111,FLORIDA,FL,St. Lucie,April 1,April 3
+376,12113,FLORIDA,FL,Santa Rosa,April 1,April 3
+377,12115,FLORIDA,FL,Sarasota,April 1,April 3
+378,12117,FLORIDA,FL,Seminole,April 1,April 3
+379,12119,FLORIDA,FL,Sumter,April 1,April 3
+380,12121,FLORIDA,FL,Suwannee,April 1,April 3
+381,12123,FLORIDA,FL,Taylor,April 1,April 3
+382,12125,FLORIDA,FL,Union,April 1,April 3
+383,12127,FLORIDA,FL,Volusia,April 1,April 3
+384,12129,FLORIDA,FL,Wakulla,April 1,April 3
+385,12131,FLORIDA,FL,Walton,April 1,April 3
+386,12133,FLORIDA,FL,Washington,April 1,April 3
+387,13001,GEORGIA,GA,Appling,April 2,April 3
+388,13003,GEORGIA,GA,Atkinson,April 2,April 3
+389,13005,GEORGIA,GA,Bacon,April 2,April 3
+390,13007,GEORGIA,GA,Baker,April 2,April 3
+391,13009,GEORGIA,GA,Baldwin,April 2,April 3
+392,13011,GEORGIA,GA,Banks,April 2,April 3
+393,13013,GEORGIA,GA,Barrow,April 2,April 3
+394,13015,GEORGIA,GA,Bartow,April 2,April 3
+395,13017,GEORGIA,GA,Ben Hill,April 2,April 3
+396,13019,GEORGIA,GA,Berrien,April 2,April 3
+397,13021,GEORGIA,GA,Bibb,April 2,April 3
+398,13023,GEORGIA,GA,Bleckley,April 2,April 3
+399,13025,GEORGIA,GA,Brantley,April 2,April 3
+400,13027,GEORGIA,GA,Brooks,April 2,April 3
+401,13029,GEORGIA,GA,Bryan,April 2,April 3
+402,13031,GEORGIA,GA,Bulloch,April 2,April 3
+403,13033,GEORGIA,GA,Burke,April 2,April 3
+404,13035,GEORGIA,GA,Butts,April 2,April 3
+405,13037,GEORGIA,GA,Calhoun,April 2,April 3
+406,13039,GEORGIA,GA,Camden,April 2,April 3
+407,13043,GEORGIA,GA,Candler,April 2,April 3
+408,13045,GEORGIA,GA,Carroll,April 2,April 3
+409,13047,GEORGIA,GA,Catoosa,April 2,April 3
+410,13049,GEORGIA,GA,Charlton,April 2,April 3
+411,13051,GEORGIA,GA,Chatham,April 2,April 3
+412,13053,GEORGIA,GA,Chattahoochee,April 2,April 3
+413,13055,GEORGIA,GA,Chattooga,April 2,April 3
+414,13057,GEORGIA,GA,Cherokee,April 2,April 3
+415,13059,GEORGIA,GA,Clarke,April 2,April 3
+416,13061,GEORGIA,GA,Clay,April 2,April 3
+417,13063,GEORGIA,GA,Clayton,April 2,April 3
+418,13065,GEORGIA,GA,Clinch,April 2,April 3
+419,13067,GEORGIA,GA,Cobb,April 2,April 3
+420,13069,GEORGIA,GA,Coffee,April 2,April 3
+421,13071,GEORGIA,GA,Colquitt,April 2,April 3
+422,13073,GEORGIA,GA,Columbia,April 2,April 3
+423,13075,GEORGIA,GA,Cook,April 2,April 3
+424,13077,GEORGIA,GA,Coweta,April 2,April 3
+425,13079,GEORGIA,GA,Crawford,April 2,April 3
+426,13081,GEORGIA,GA,Crisp,April 2,April 3
+427,13083,GEORGIA,GA,Dade,April 2,April 3
+428,13085,GEORGIA,GA,Dawson,April 2,April 3
+429,13087,GEORGIA,GA,Decatur,April 2,April 3
+430,13089,GEORGIA,GA,DeKalb,April 2,April 3
+431,13091,GEORGIA,GA,Dodge,April 2,April 3
+432,13093,GEORGIA,GA,Dooly,April 2,April 3
+433,13095,GEORGIA,GA,Dougherty,April 2,April 3
+434,13097,GEORGIA,GA,Douglas,April 2,April 3
+435,13099,GEORGIA,GA,Early,April 2,April 3
+436,13101,GEORGIA,GA,Echols,April 2,April 3
+437,13103,GEORGIA,GA,Effingham,April 2,April 3
+438,13105,GEORGIA,GA,Elbert,April 2,April 3
+439,13107,GEORGIA,GA,Emanuel,April 2,April 3
+440,13109,GEORGIA,GA,Evans,April 2,April 3
+441,13111,GEORGIA,GA,Fannin,April 2,April 3
+442,13113,GEORGIA,GA,Fayette,April 2,April 3
+443,13115,GEORGIA,GA,Floyd,April 2,April 3
+444,13117,GEORGIA,GA,Forsyth,April 2,April 3
+445,13119,GEORGIA,GA,Franklin,April 2,April 3
+446,13121,GEORGIA,GA,Fulton,April 2,April 3
+447,13123,GEORGIA,GA,Gilmer,April 2,April 3
+448,13125,GEORGIA,GA,Glascock,April 2,April 3
+449,13127,GEORGIA,GA,Glynn,April 2,April 3
+450,13129,GEORGIA,GA,Gordon,April 2,April 3
+451,13131,GEORGIA,GA,Grady,April 2,April 3
+452,13133,GEORGIA,GA,Greene,April 2,April 3
+453,13135,GEORGIA,GA,Gwinnett,April 2,April 3
+454,13137,GEORGIA,GA,Habersham,April 2,April 3
+455,13139,GEORGIA,GA,Hall,April 2,April 3
+456,13141,GEORGIA,GA,Hancock,April 2,April 3
+457,13143,GEORGIA,GA,Haralson,April 2,April 3
+458,13145,GEORGIA,GA,Harris,April 2,April 3
+459,13147,GEORGIA,GA,Hart,April 2,April 3
+460,13149,GEORGIA,GA,Heard,April 2,April 3
+461,13151,GEORGIA,GA,Henry,April 2,April 3
+462,13153,GEORGIA,GA,Houston,April 2,April 3
+463,13155,GEORGIA,GA,Irwin,April 2,April 3
+464,13157,GEORGIA,GA,Jackson,April 2,April 3
+465,13159,GEORGIA,GA,Jasper,April 2,April 3
+466,13161,GEORGIA,GA,Jeff Davis,April 2,April 3
+467,13163,GEORGIA,GA,Jefferson,April 2,April 3
+468,13165,GEORGIA,GA,Jenkins,April 2,April 3
+469,13167,GEORGIA,GA,Johnson,April 2,April 3
+470,13169,GEORGIA,GA,Jones,April 2,April 3
+471,13171,GEORGIA,GA,Lamar,April 2,April 3
+472,13173,GEORGIA,GA,Lanier,April 2,April 3
+473,13175,GEORGIA,GA,Laurens,April 2,April 3
+474,13177,GEORGIA,GA,Lee,April 2,April 3
+475,13179,GEORGIA,GA,Liberty,April 2,April 3
+476,13181,GEORGIA,GA,Lincoln,April 2,April 3
+477,13183,GEORGIA,GA,Long,April 2,April 3
+478,13185,GEORGIA,GA,Lowndes,April 2,April 3
+479,13187,GEORGIA,GA,Lumpkin,April 2,April 3
+480,13189,GEORGIA,GA,McDuffie,April 2,April 3
+481,13191,GEORGIA,GA,McIntosh,April 2,April 3
+482,13193,GEORGIA,GA,Macon,April 2,April 3
+483,13195,GEORGIA,GA,Madison,April 2,April 3
+484,13197,GEORGIA,GA,Marion,April 2,April 3
+485,13199,GEORGIA,GA,Meriwether,April 2,April 3
+486,13201,GEORGIA,GA,Miller,April 2,April 3
+487,13205,GEORGIA,GA,Mitchell,April 2,April 3
+488,13207,GEORGIA,GA,Monroe,April 2,April 3
+489,13209,GEORGIA,GA,Montgomery,April 2,April 3
+490,13211,GEORGIA,GA,Morgan,April 2,April 3
+491,13213,GEORGIA,GA,Murray,April 2,April 3
+492,13215,GEORGIA,GA,Muscogee,April 2,April 3
+493,13217,GEORGIA,GA,Newton,April 2,April 3
+494,13219,GEORGIA,GA,Oconee,April 2,April 3
+495,13221,GEORGIA,GA,Oglethorpe,April 2,April 3
+496,13223,GEORGIA,GA,Paulding,April 2,April 3
+497,13225,GEORGIA,GA,Peach,April 2,April 3
+498,13227,GEORGIA,GA,Pickens,April 2,April 3
+499,13229,GEORGIA,GA,Pierce,April 2,April 3
+500,13231,GEORGIA,GA,Pike,April 2,April 3
+501,13233,GEORGIA,GA,Polk,April 2,April 3
+502,13235,GEORGIA,GA,Pulaski,April 2,April 3
+503,13237,GEORGIA,GA,Putnam,April 2,April 3
+504,13239,GEORGIA,GA,Quitman,April 2,April 3
+505,13241,GEORGIA,GA,Rabun,April 2,April 3
+506,13243,GEORGIA,GA,Randolph,April 2,April 3
+507,13245,GEORGIA,GA,Richmond,April 2,April 3
+508,13247,GEORGIA,GA,Rockdale,April 2,April 3
+509,13249,GEORGIA,GA,Schley,April 2,April 3
+510,13251,GEORGIA,GA,Screven,April 2,April 3
+511,13253,GEORGIA,GA,Seminole,April 2,April 3
+512,13255,GEORGIA,GA,Spalding,April 2,April 3
+513,13257,GEORGIA,GA,Stephens,April 2,April 3
+514,13259,GEORGIA,GA,Stewart,April 2,April 3
+515,13261,GEORGIA,GA,Sumter,April 2,April 3
+516,13263,GEORGIA,GA,Talbot,April 2,April 3
+517,13265,GEORGIA,GA,Taliaferro,April 2,April 3
+518,13267,GEORGIA,GA,Tattnall,April 2,April 3
+519,13269,GEORGIA,GA,Taylor,April 2,April 3
+520,13271,GEORGIA,GA,Telfair,April 2,April 3
+521,13273,GEORGIA,GA,Terrell,April 2,April 3
+522,13275,GEORGIA,GA,Thomas,April 2,April 3
+523,13277,GEORGIA,GA,Tift,April 2,April 3
+524,13279,GEORGIA,GA,Toombs,April 2,April 3
+525,13281,GEORGIA,GA,Towns,April 2,April 3
+526,13283,GEORGIA,GA,Treutlen,April 2,April 3
+527,13285,GEORGIA,GA,Troup,April 2,April 3
+528,13287,GEORGIA,GA,Turner,April 2,April 3
+529,13289,GEORGIA,GA,Twiggs,April 2,April 3
+530,13291,GEORGIA,GA,Union,April 2,April 3
+531,13293,GEORGIA,GA,Upson,April 2,April 3
+532,13295,GEORGIA,GA,Walker,April 2,April 3
+533,13297,GEORGIA,GA,Walton,April 2,April 3
+534,13299,GEORGIA,GA,Ware,April 2,April 3
+535,13301,GEORGIA,GA,Warren,April 2,April 3
+536,13303,GEORGIA,GA,Washington,April 2,April 3
+537,13305,GEORGIA,GA,Wayne,April 2,April 3
+538,13307,GEORGIA,GA,Webster,April 2,April 3
+539,13309,GEORGIA,GA,Wheeler,April 2,April 3
+540,13311,GEORGIA,GA,White,April 2,April 3
+541,13313,GEORGIA,GA,Whitfield,April 2,April 3
+542,13315,GEORGIA,GA,Wilcox,April 2,April 3
+543,13317,GEORGIA,GA,Wilkes,April 2,April 3
+544,13319,GEORGIA,GA,Wilkinson,April 2,April 3
+545,13321,GEORGIA,GA,Worth,April 2,April 3
+546,15001,HAWAII,HI,Hawaii,,
+547,15003,HAWAII,HI,Honolulu,,
+548,15005,HAWAII,HI,Kalawao,,
+549,15007,HAWAII,HI,Kauai,,
+550,15009,HAWAII,HI,Maui,,
+551,16001,IDAHO,ID,Ada,March 25,March 25
+552,16003,IDAHO,ID,Adams,March 25,March 25
+553,16005,IDAHO,ID,Bannock,March 25,March 25
+554,16007,IDAHO,ID,Bear Lake,March 25,March 25
+555,16009,IDAHO,ID,Benewah,March 25,March 25
+556,16011,IDAHO,ID,Bingham,March 25,March 25
+557,16013,IDAHO,ID,Blaine,March 25,March 25
+558,16015,IDAHO,ID,Boise,March 25,March 25
+559,16017,IDAHO,ID,Bonner,March 25,March 25
+560,16019,IDAHO,ID,Bonneville,March 25,March 25
+561,16021,IDAHO,ID,Boundary,March 25,March 25
+562,16023,IDAHO,ID,Butte,March 25,March 25
+563,16025,IDAHO,ID,Camas,March 25,March 25
+564,16027,IDAHO,ID,Canyon,March 25,March 25
+565,16029,IDAHO,ID,Caribou,March 25,March 25
+566,16031,IDAHO,ID,Cassia,March 25,March 25
+567,16033,IDAHO,ID,Clark,March 25,March 25
+568,16035,IDAHO,ID,Clearwater,March 25,March 25
+569,16037,IDAHO,ID,Custer,March 25,March 25
+570,16039,IDAHO,ID,Elmore,March 25,March 25
+571,16041,IDAHO,ID,Franklin,March 25,March 25
+572,16043,IDAHO,ID,Fremont,March 25,March 25
+573,16045,IDAHO,ID,Gem,March 25,March 25
+574,16047,IDAHO,ID,Gooding,March 25,March 25
+575,16049,IDAHO,ID,Idaho,March 25,March 25
+576,16051,IDAHO,ID,Jefferson,March 25,March 25
+577,16053,IDAHO,ID,Jerome,March 25,March 25
+578,16055,IDAHO,ID,Kootenai,March 25,March 25
+579,16057,IDAHO,ID,Latah,March 25,March 25
+580,16059,IDAHO,ID,Lemhi,March 25,March 25
+581,16061,IDAHO,ID,Lewis,March 25,March 25
+582,16063,IDAHO,ID,Lincoln,March 25,March 25
+583,16065,IDAHO,ID,Madison,March 25,March 25
+584,16067,IDAHO,ID,Minidoka,March 25,March 25
+585,16069,IDAHO,ID,Nez Perce,March 25,March 25
+586,16071,IDAHO,ID,Oneida,March 25,March 25
+587,16073,IDAHO,ID,Owyhee,March 25,March 25
+588,16075,IDAHO,ID,Payette,March 25,March 25
+589,16077,IDAHO,ID,Power,March 25,March 25
+590,16079,IDAHO,ID,Shoshone,March 25,March 25
+591,16081,IDAHO,ID,Teton,March 25,March 25
+592,16083,IDAHO,ID,Twin Falls,March 25,March 25
+593,16085,IDAHO,ID,Valley,March 25,March 25
+594,16087,IDAHO,ID,Washington,March 25,March 25
+595,17001,ILLINOIS,IL,Adams,March 20,March 21
+596,17003,ILLINOIS,IL,Alexander,March 20,March 21
+597,17005,ILLINOIS,IL,Bond,March 20,March 21
+598,17007,ILLINOIS,IL,Boone,March 20,March 21
+599,17009,ILLINOIS,IL,Brown,March 20,March 21
+600,17011,ILLINOIS,IL,Bureau,March 20,March 21
+601,17013,ILLINOIS,IL,Calhoun,March 20,March 21
+602,17015,ILLINOIS,IL,Carroll,March 20,March 21
+603,17017,ILLINOIS,IL,Cass,March 20,March 21
+604,17019,ILLINOIS,IL,Champaign,March 20,March 21
+605,17021,ILLINOIS,IL,Christian,March 20,March 21
+606,17023,ILLINOIS,IL,Clark,March 20,March 21
+607,17025,ILLINOIS,IL,Clay,March 20,March 21
+608,17027,ILLINOIS,IL,Clinton,March 20,March 21
+609,17029,ILLINOIS,IL,Coles,March 20,March 21
+610,17031,ILLINOIS,IL,Cook,March 20,March 21
+611,17033,ILLINOIS,IL,Crawford,March 20,March 21
+612,17035,ILLINOIS,IL,Cumberland,March 20,March 21
+613,17037,ILLINOIS,IL,DeKalb,March 20,March 21
+614,17039,ILLINOIS,IL,De Witt,March 20,March 21
+615,17041,ILLINOIS,IL,Douglas,March 20,March 21
+616,17043,ILLINOIS,IL,DuPage,March 20,March 21
+617,17045,ILLINOIS,IL,Edgar,March 20,March 21
+618,17047,ILLINOIS,IL,Edwards,March 20,March 21
+619,17049,ILLINOIS,IL,Effingham,March 20,March 21
+620,17051,ILLINOIS,IL,Fayette,March 20,March 21
+621,17053,ILLINOIS,IL,Ford,March 20,March 21
+622,17055,ILLINOIS,IL,Franklin,March 20,March 21
+623,17057,ILLINOIS,IL,Fulton,March 20,March 21
+624,17059,ILLINOIS,IL,Gallatin,March 20,March 21
+625,17061,ILLINOIS,IL,Greene,March 20,March 21
+626,17063,ILLINOIS,IL,Grundy,March 20,March 21
+627,17065,ILLINOIS,IL,Hamilton,March 20,March 21
+628,17067,ILLINOIS,IL,Hancock,March 20,March 21
+629,17069,ILLINOIS,IL,Hardin,March 20,March 21
+630,17071,ILLINOIS,IL,Henderson,March 20,March 21
+631,17073,ILLINOIS,IL,Henry,March 20,March 21
+632,17075,ILLINOIS,IL,Iroquois,March 20,March 21
+633,17077,ILLINOIS,IL,Jackson,March 20,March 21
+634,17079,ILLINOIS,IL,Jasper,March 20,March 21
+635,17081,ILLINOIS,IL,Jefferson,March 20,March 21
+636,17083,ILLINOIS,IL,Jersey,March 20,March 21
+637,17085,ILLINOIS,IL,Jo Daviess,March 20,March 21
+638,17087,ILLINOIS,IL,Johnson,March 20,March 21
+639,17089,ILLINOIS,IL,Kane,March 20,March 21
+640,17091,ILLINOIS,IL,Kankakee,March 20,March 21
+641,17093,ILLINOIS,IL,Kendall,March 20,March 21
+642,17095,ILLINOIS,IL,Knox,March 20,March 21
+643,17097,ILLINOIS,IL,Lake,March 20,March 21
+644,17099,ILLINOIS,IL,LaSalle,March 20,March 21
+645,17101,ILLINOIS,IL,Lawrence,March 20,March 21
+646,17103,ILLINOIS,IL,Lee,March 20,March 21
+647,17105,ILLINOIS,IL,Livingston,March 20,March 21
+648,17107,ILLINOIS,IL,Logan,March 20,March 21
+649,17109,ILLINOIS,IL,McDonough,March 20,March 21
+650,17111,ILLINOIS,IL,McHenry,March 20,March 21
+651,17113,ILLINOIS,IL,McLean,March 20,March 21
+652,17115,ILLINOIS,IL,Macon,March 20,March 21
+653,17117,ILLINOIS,IL,Macoupin,March 20,March 21
+654,17119,ILLINOIS,IL,Madison,March 20,March 21
+655,17121,ILLINOIS,IL,Marion,March 20,March 21
+656,17123,ILLINOIS,IL,Marshall,March 20,March 21
+657,17125,ILLINOIS,IL,Mason,March 20,March 21
+658,17127,ILLINOIS,IL,Massac,March 20,March 21
+659,17129,ILLINOIS,IL,Menard,March 20,March 21
+660,17131,ILLINOIS,IL,Mercer,March 20,March 21
+661,17133,ILLINOIS,IL,Monroe,March 20,March 21
+662,17135,ILLINOIS,IL,Montgomery,March 20,March 21
+663,17137,ILLINOIS,IL,Morgan,March 20,March 21
+664,17139,ILLINOIS,IL,Moultrie,March 20,March 21
+665,17141,ILLINOIS,IL,Ogle,March 20,March 21
+666,17143,ILLINOIS,IL,Peoria,March 20,March 21
+667,17145,ILLINOIS,IL,Perry,March 20,March 21
+668,17147,ILLINOIS,IL,Piatt,March 20,March 21
+669,17149,ILLINOIS,IL,Pike,March 20,March 21
+670,17151,ILLINOIS,IL,Pope,March 20,March 21
+671,17153,ILLINOIS,IL,Pulaski,March 20,March 21
+672,17155,ILLINOIS,IL,Putnam,March 20,March 21
+673,17157,ILLINOIS,IL,Randolph,March 20,March 21
+674,17159,ILLINOIS,IL,Richland,March 20,March 21
+675,17161,ILLINOIS,IL,Rock Island,March 20,March 21
+676,17163,ILLINOIS,IL,St. Clair,March 20,March 21
+677,17165,ILLINOIS,IL,Saline,March 20,March 21
+678,17167,ILLINOIS,IL,Sangamon,March 20,March 21
+679,17169,ILLINOIS,IL,Schuyler,March 20,March 21
+680,17171,ILLINOIS,IL,Scott,March 20,March 21
+681,17173,ILLINOIS,IL,Shelby,March 20,March 21
+682,17175,ILLINOIS,IL,Stark,March 20,March 21
+683,17177,ILLINOIS,IL,Stephenson,March 20,March 21
+684,17179,ILLINOIS,IL,Tazewell,March 20,March 21
+685,17181,ILLINOIS,IL,Union,March 20,March 21
+686,17183,ILLINOIS,IL,Vermilion,March 20,March 21
+687,17185,ILLINOIS,IL,Wabash,March 20,March 21
+688,17187,ILLINOIS,IL,Warren,March 20,March 21
+689,17189,ILLINOIS,IL,Washington,March 20,March 21
+690,17191,ILLINOIS,IL,Wayne,March 20,March 21
+691,17193,ILLINOIS,IL,White,March 20,March 21
+692,17195,ILLINOIS,IL,Whiteside,March 20,March 21
+693,17197,ILLINOIS,IL,Will,March 20,March 21
+694,17199,ILLINOIS,IL,Williamson,March 20,March 21
+695,17201,ILLINOIS,IL,Winnebago,March 20,March 21
+696,17203,ILLINOIS,IL,Woodford,March 20,March 21
+697,18001,INDIANA,IN,Adams,March 23,March 24
+698,18003,INDIANA,IN,Allen,March 23,March 24
+699,18005,INDIANA,IN,Bartholomew,March 23,March 24
+700,18007,INDIANA,IN,Benton,March 23,March 24
+701,18009,INDIANA,IN,Blackford,March 23,March 24
+702,18011,INDIANA,IN,Boone,March 23,March 24
+703,18013,INDIANA,IN,Brown,March 23,March 24
+704,18015,INDIANA,IN,Carroll,March 23,March 24
+705,18017,INDIANA,IN,Cass,March 23,March 24
+706,18019,INDIANA,IN,Clark,March 23,March 24
+707,18021,INDIANA,IN,Clay,March 23,March 24
+708,18023,INDIANA,IN,Clinton,March 23,March 24
+709,18025,INDIANA,IN,Crawford,March 23,March 24
+710,18027,INDIANA,IN,Daviess,March 23,March 24
+711,18029,INDIANA,IN,Dearborn,March 23,March 24
+712,18031,INDIANA,IN,Decatur,March 23,March 24
+713,18033,INDIANA,IN,DeKalb,March 23,March 24
+714,18035,INDIANA,IN,Delaware,March 23,March 24
+715,18037,INDIANA,IN,Dubois,March 23,March 24
+716,18039,INDIANA,IN,Elkhart,March 23,March 24
+717,18041,INDIANA,IN,Fayette,March 23,March 24
+718,18043,INDIANA,IN,Floyd,March 23,March 24
+719,18045,INDIANA,IN,Fountain,March 23,March 24
+720,18047,INDIANA,IN,Franklin,March 23,March 24
+721,18049,INDIANA,IN,Fulton,March 23,March 24
+722,18051,INDIANA,IN,Gibson,March 23,March 24
+723,18053,INDIANA,IN,Grant,March 23,March 24
+724,18055,INDIANA,IN,Greene,March 23,March 24
+725,18057,INDIANA,IN,Hamilton,March 23,March 24
+726,18059,INDIANA,IN,Hancock,March 23,March 24
+727,18061,INDIANA,IN,Harrison,March 23,March 24
+728,18063,INDIANA,IN,Hendricks,March 23,March 24
+729,18065,INDIANA,IN,Henry,March 23,March 24
+730,18067,INDIANA,IN,Howard,March 23,March 24
+731,18069,INDIANA,IN,Huntington,March 23,March 24
+732,18071,INDIANA,IN,Jackson,March 23,March 24
+733,18073,INDIANA,IN,Jasper,March 23,March 24
+734,18075,INDIANA,IN,Jay,March 23,March 24
+735,18077,INDIANA,IN,Jefferson,March 23,March 24
+736,18079,INDIANA,IN,Jennings,March 23,March 24
+737,18081,INDIANA,IN,Johnson,March 23,March 24
+738,18083,INDIANA,IN,Knox,March 23,March 24
+739,18085,INDIANA,IN,Kosciusko,March 23,March 24
+740,18087,INDIANA,IN,LaGrange,March 23,March 24
+741,18089,INDIANA,IN,Lake,March 23,March 24
+742,18091,INDIANA,IN,LaPorte,March 23,March 24
+743,18093,INDIANA,IN,Lawrence,March 23,March 24
+744,18095,INDIANA,IN,Madison,March 23,March 24
+745,18097,INDIANA,IN,Marion,March 23,March 24
+746,18099,INDIANA,IN,Marshall,March 23,March 24
+747,18101,INDIANA,IN,Martin,March 23,March 24
+748,18103,INDIANA,IN,Miami,March 23,March 24
+749,18105,INDIANA,IN,Monroe,March 23,March 24
+750,18107,INDIANA,IN,Montgomery,March 23,March 24
+751,18109,INDIANA,IN,Morgan,March 23,March 24
+752,18111,INDIANA,IN,Newton,March 23,March 24
+753,18113,INDIANA,IN,Noble,March 23,March 24
+754,18115,INDIANA,IN,Ohio,March 23,March 24
+755,18117,INDIANA,IN,Orange,March 23,March 24
+756,18119,INDIANA,IN,Owen,March 23,March 24
+757,18121,INDIANA,IN,Parke,March 23,March 24
+758,18123,INDIANA,IN,Perry,March 23,March 24
+759,18125,INDIANA,IN,Pike,March 23,March 24
+760,18127,INDIANA,IN,Porter,March 23,March 24
+761,18129,INDIANA,IN,Posey,March 23,March 24
+762,18131,INDIANA,IN,Pulaski,March 23,March 24
+763,18133,INDIANA,IN,Putnam,March 23,March 24
+764,18135,INDIANA,IN,Randolph,March 23,March 24
+765,18137,INDIANA,IN,Ripley,March 23,March 24
+766,18139,INDIANA,IN,Rush,March 23,March 24
+767,18141,INDIANA,IN,St. Joseph,March 23,March 24
+768,18143,INDIANA,IN,Scott,March 23,March 24
+769,18145,INDIANA,IN,Shelby,March 23,March 24
+770,18147,INDIANA,IN,Spencer,March 23,March 24
+771,18149,INDIANA,IN,Starke,March 23,March 24
+772,18151,INDIANA,IN,Steuben,March 23,March 24
+773,18153,INDIANA,IN,Sullivan,March 23,March 24
+774,18155,INDIANA,IN,Switzerland,March 23,March 24
+775,18157,INDIANA,IN,Tippecanoe,March 23,March 24
+776,18159,INDIANA,IN,Tipton,March 23,March 24
+777,18161,INDIANA,IN,Union,March 23,March 24
+778,18163,INDIANA,IN,Vanderburgh,March 23,March 24
+779,18165,INDIANA,IN,Vermillion,March 23,March 24
+780,18167,INDIANA,IN,Vigo,March 23,March 24
+781,18169,INDIANA,IN,Wabash,March 23,March 24
+782,18171,INDIANA,IN,Warren,March 23,March 24
+783,18173,INDIANA,IN,Warrick,March 23,March 24
+784,18175,INDIANA,IN,Washington,March 23,March 24
+785,18177,INDIANA,IN,Wayne,March 23,March 24
+786,18179,INDIANA,IN,Wells,March 23,March 24
+787,18181,INDIANA,IN,White,March 23,March 24
+788,18183,INDIANA,IN,Whitley,March 23,March 24
+789,19001,IOWA,IA,Adair,-,-
+790,19003,IOWA,IA,Adams,-,-
+791,19005,IOWA,IA,Allamakee,-,-
+792,19007,IOWA,IA,Appanoose,-,-
+793,19009,IOWA,IA,Audubon,-,-
+794,19011,IOWA,IA,Benton,-,-
+795,19013,IOWA,IA,Black Hawk,-,-
+796,19015,IOWA,IA,Boone,-,-
+797,19017,IOWA,IA,Bremer,-,-
+798,19019,IOWA,IA,Buchanan,-,-
+799,19021,IOWA,IA,Buena Vista,-,-
+800,19023,IOWA,IA,Butler,-,-
+801,19025,IOWA,IA,Calhoun,-,-
+802,19027,IOWA,IA,Carroll,-,-
+803,19029,IOWA,IA,Cass,-,-
+804,19031,IOWA,IA,Cedar,-,-
+805,19033,IOWA,IA,Cerro Gordo,-,-
+806,19035,IOWA,IA,Cherokee,-,-
+807,19037,IOWA,IA,Chickasaw,-,-
+808,19039,IOWA,IA,Clarke,-,-
+809,19041,IOWA,IA,Clay,-,-
+810,19043,IOWA,IA,Clayton,-,-
+811,19045,IOWA,IA,Clinton,-,-
+812,19047,IOWA,IA,Crawford,-,-
+813,19049,IOWA,IA,Dallas,-,-
+814,19051,IOWA,IA,Davis,-,-
+815,19053,IOWA,IA,Decatur,-,-
+816,19055,IOWA,IA,Delaware,-,-
+817,19057,IOWA,IA,Des Moines,-,-
+818,19059,IOWA,IA,Dickinson,-,-
+819,19061,IOWA,IA,Dubuque,-,-
+820,19063,IOWA,IA,Emmet,-,-
+821,19065,IOWA,IA,Fayette,-,-
+822,19067,IOWA,IA,Floyd,-,-
+823,19069,IOWA,IA,Franklin,-,-
+824,19071,IOWA,IA,Fremont,-,-
+825,19073,IOWA,IA,Greene,-,-
+826,19075,IOWA,IA,Grundy,-,-
+827,19077,IOWA,IA,Guthrie,-,-
+828,19079,IOWA,IA,Hamilton,-,-
+829,19081,IOWA,IA,Hancock,-,-
+830,19083,IOWA,IA,Hardin,-,-
+831,19085,IOWA,IA,Harrison,-,-
+832,19087,IOWA,IA,Henry,-,-
+833,19089,IOWA,IA,Howard,-,-
+834,19091,IOWA,IA,Humboldt,-,-
+835,19093,IOWA,IA,Ida,-,-
+836,19095,IOWA,IA,Iowa,-,-
+837,19097,IOWA,IA,Jackson,-,-
+838,19099,IOWA,IA,Jasper,-,-
+839,19101,IOWA,IA,Jefferson,-,-
+840,19103,IOWA,IA,Johnson,-,-
+841,19105,IOWA,IA,Jones,-,-
+842,19107,IOWA,IA,Keokuk,-,-
+843,19109,IOWA,IA,Kossuth,-,-
+844,19111,IOWA,IA,Lee,-,-
+845,19113,IOWA,IA,Linn,-,-
+846,19115,IOWA,IA,Louisa,-,-
+847,19117,IOWA,IA,Lucas,-,-
+848,19119,IOWA,IA,Lyon,-,-
+849,19121,IOWA,IA,Madison,-,-
+850,19123,IOWA,IA,Mahaska,-,-
+851,19125,IOWA,IA,Marion,-,-
+852,19127,IOWA,IA,Marshall,-,-
+853,19129,IOWA,IA,Mills,-,-
+854,19131,IOWA,IA,Mitchell,-,-
+855,19133,IOWA,IA,Monona,-,-
+856,19135,IOWA,IA,Monroe,-,-
+857,19137,IOWA,IA,Montgomery,-,-
+858,19139,IOWA,IA,Muscatine,-,-
+859,19141,IOWA,IA,O'Brien,-,-
+860,19143,IOWA,IA,Osceola,-,-
+861,19145,IOWA,IA,Page,-,-
+862,19147,IOWA,IA,Palo Alto,-,-
+863,19149,IOWA,IA,Plymouth,-,-
+864,19151,IOWA,IA,Pocahontas,-,-
+865,19153,IOWA,IA,Polk,-,-
+866,19155,IOWA,IA,Pottawattamie,-,-
+867,19157,IOWA,IA,Poweshiek,-,-
+868,19159,IOWA,IA,Ringgold,-,-
+869,19161,IOWA,IA,Sac,-,-
+870,19163,IOWA,IA,Scott,-,-
+871,19165,IOWA,IA,Shelby,-,-
+872,19167,IOWA,IA,Sioux,-,-
+873,19169,IOWA,IA,Story,-,-
+874,19171,IOWA,IA,Tama,-,-
+875,19173,IOWA,IA,Taylor,-,-
+876,19175,IOWA,IA,Union,-,-
+877,19177,IOWA,IA,Van Buren,-,-
+878,19179,IOWA,IA,Wapello,-,-
+879,19181,IOWA,IA,Warren,-,-
+880,19183,IOWA,IA,Washington,-,-
+881,19185,IOWA,IA,Wayne,-,-
+882,19187,IOWA,IA,Webster,-,-
+883,19189,IOWA,IA,Winnebago,-,-
+884,19191,IOWA,IA,Winneshiek,-,-
+885,19193,IOWA,IA,Woodbury,-,-
+886,19195,IOWA,IA,Worth,-,-
+887,19197,IOWA,IA,Wright,-,-
+888,20001,KANSAS,KS,Allen,March 28,March 30
+889,20003,KANSAS,KS,Anderson,March 28,March 30
+890,20005,KANSAS,KS,Atchison,March 28,March 30
+891,20007,KANSAS,KS,Barber,March 28,March 30
+892,20009,KANSAS,KS,Barton,March 28,March 30
+893,20011,KANSAS,KS,Bourbon,March 28,March 30
+894,20013,KANSAS,KS,Brown,March 28,March 30
+895,20015,KANSAS,KS,Butler,March 28,March 30
+896,20017,KANSAS,KS,Chase,March 28,March 30
+897,20019,KANSAS,KS,Chautauqua,March 28,March 30
+898,20021,KANSAS,KS,Cherokee,March 28,March 30
+899,20023,KANSAS,KS,Cheyenne,March 28,March 30
+900,20025,KANSAS,KS,Clark,March 28,March 30
+901,20027,KANSAS,KS,Clay,March 28,March 30
+902,20029,KANSAS,KS,Cloud,March 28,March 30
+903,20031,KANSAS,KS,Coffey,March 28,March 30
+904,20033,KANSAS,KS,Comanche,March 28,March 30
+905,20035,KANSAS,KS,Cowley,March 28,March 30
+906,20037,KANSAS,KS,Crawford,March 28,March 30
+907,20039,KANSAS,KS,Decatur,March 28,March 30
+908,20041,KANSAS,KS,Dickinson,March 28,March 30
+909,20043,KANSAS,KS,Doniphan,March 28,March 30
+910,20045,KANSAS,KS,Douglas,March 28,March 30
+911,20047,KANSAS,KS,Edwards,March 28,March 30
+912,20049,KANSAS,KS,Elk,March 28,March 30
+913,20051,KANSAS,KS,Ellis,March 28,March 30
+914,20053,KANSAS,KS,Ellsworth,March 28,March 30
+915,20055,KANSAS,KS,Finney,March 28,March 30
+916,20057,KANSAS,KS,Ford,March 28,March 30
+917,20059,KANSAS,KS,Franklin,March 28,March 30
+918,20061,KANSAS,KS,Geary,March 28,March 30
+919,20063,KANSAS,KS,Gove,March 28,March 30
+920,20065,KANSAS,KS,Graham,March 28,March 30
+921,20067,KANSAS,KS,Grant,March 28,March 30
+922,20069,KANSAS,KS,Gray,March 28,March 30
+923,20071,KANSAS,KS,Greeley,March 28,March 30
+924,20073,KANSAS,KS,Greenwood,March 28,March 30
+925,20075,KANSAS,KS,Hamilton,March 28,March 30
+926,20077,KANSAS,KS,Harper,March 28,March 30
+927,20079,KANSAS,KS,Harvey,March 28,March 30
+928,20081,KANSAS,KS,Haskell,March 28,March 30
+929,20083,KANSAS,KS,Hodgeman,March 28,March 30
+930,20085,KANSAS,KS,Jackson,March 28,March 30
+931,20087,KANSAS,KS,Jefferson,March 28,March 30
+932,20089,KANSAS,KS,Jewell,March 28,March 30
+933,20091,KANSAS,KS,Johnson,March 28,March 30
+934,20093,KANSAS,KS,Kearny,March 28,March 30
+935,20095,KANSAS,KS,Kingman,March 28,March 30
+936,20097,KANSAS,KS,Kiowa,March 28,March 30
+937,20099,KANSAS,KS,Labette,March 28,March 30
+938,20101,KANSAS,KS,Lane,March 28,March 30
+939,20103,KANSAS,KS,Leavenworth,March 28,March 30
+940,20105,KANSAS,KS,Lincoln,March 28,March 30
+941,20107,KANSAS,KS,Linn,March 28,March 30
+942,20109,KANSAS,KS,Logan,March 28,March 30
+943,20111,KANSAS,KS,Lyon,March 28,March 30
+944,20113,KANSAS,KS,McPherson,March 28,March 30
+945,20115,KANSAS,KS,Marion,March 28,March 30
+946,20117,KANSAS,KS,Marshall,March 28,March 30
+947,20119,KANSAS,KS,Meade,March 28,March 30
+948,20121,KANSAS,KS,Miami,March 28,March 30
+949,20123,KANSAS,KS,Mitchell,March 28,March 30
+950,20125,KANSAS,KS,Montgomery,March 28,March 30
+951,20127,KANSAS,KS,Morris,March 28,March 30
+952,20129,KANSAS,KS,Morton,March 28,March 30
+953,20131,KANSAS,KS,Nemaha,March 28,March 30
+954,20133,KANSAS,KS,Neosho,March 28,March 30
+955,20135,KANSAS,KS,Ness,March 28,March 30
+956,20137,KANSAS,KS,Norton,March 28,March 30
+957,20139,KANSAS,KS,Osage,March 28,March 30
+958,20141,KANSAS,KS,Osborne,March 28,March 30
+959,20143,KANSAS,KS,Ottawa,March 28,March 30
+960,20145,KANSAS,KS,Pawnee,March 28,March 30
+961,20147,KANSAS,KS,Phillips,March 28,March 30
+962,20149,KANSAS,KS,Pottawatomie,March 28,March 30
+963,20151,KANSAS,KS,Pratt,March 28,March 30
+964,20153,KANSAS,KS,Rawlins,March 28,March 30
+965,20155,KANSAS,KS,Reno,March 28,March 30
+966,20157,KANSAS,KS,Republic,March 28,March 30
+967,20159,KANSAS,KS,Rice,March 28,March 30
+968,20161,KANSAS,KS,Riley,March 28,March 30
+969,20163,KANSAS,KS,Rooks,March 28,March 30
+970,20165,KANSAS,KS,Rush,March 28,March 30
+971,20167,KANSAS,KS,Russell,March 28,March 30
+972,20169,KANSAS,KS,Saline,March 28,March 30
+973,20171,KANSAS,KS,Scott,March 28,March 30
+974,20173,KANSAS,KS,Sedgwick,March 28,March 30
+975,20175,KANSAS,KS,Seward,March 28,March 30
+976,20177,KANSAS,KS,Shawnee,March 28,March 30
+977,20179,KANSAS,KS,Sheridan,March 28,March 30
+978,20181,KANSAS,KS,Sherman,March 28,March 30
+979,20183,KANSAS,KS,Smith,March 28,March 30
+980,20185,KANSAS,KS,Stafford,March 28,March 30
+981,20187,KANSAS,KS,Stanton,March 28,March 30
+982,20189,KANSAS,KS,Stevens,March 28,March 30
+983,20191,KANSAS,KS,Sumner,March 28,March 30
+984,20193,KANSAS,KS,Thomas,March 28,March 30
+985,20195,KANSAS,KS,Trego,March 28,March 30
+986,20197,KANSAS,KS,Wabaunsee,March 28,March 30
+987,20199,KANSAS,KS,Wallace,March 28,March 30
+988,20201,KANSAS,KS,Washington,March 28,March 30
+989,20203,KANSAS,KS,Wichita,March 28,March 30
+990,20205,KANSAS,KS,Wilson,March 28,March 30
+991,20207,KANSAS,KS,Woodson,March 28,March 30
+992,20209,KANSAS,KS,Wyandotte,March 28,March 30
+993,21001,KENTUCKY,KY,Adair,March 22,March 26
+994,21003,KENTUCKY,KY,Allen,March 22,March 26
+995,21005,KENTUCKY,KY,Anderson,March 22,March 26
+996,21007,KENTUCKY,KY,Ballard,March 22,March 26
+997,21009,KENTUCKY,KY,Barren,March 22,March 26
+998,21011,KENTUCKY,KY,Bath,March 22,March 26
+999,21013,KENTUCKY,KY,Bell,March 22,March 26
+1000,21015,KENTUCKY,KY,Boone,March 22,March 26
+1001,21017,KENTUCKY,KY,Bourbon,March 22,March 26
+1002,21019,KENTUCKY,KY,Boyd,March 22,March 26
+1003,21021,KENTUCKY,KY,Boyle,March 22,March 26
+1004,21023,KENTUCKY,KY,Bracken,March 22,March 26
+1005,21025,KENTUCKY,KY,Breathitt,March 22,March 26
+1006,21027,KENTUCKY,KY,Breckinridge,March 22,March 26
+1007,21029,KENTUCKY,KY,Bullitt,March 22,March 26
+1008,21031,KENTUCKY,KY,Butler,March 22,March 26
+1009,21033,KENTUCKY,KY,Caldwell,March 22,March 26
+1010,21035,KENTUCKY,KY,Calloway,March 22,March 26
+1011,21037,KENTUCKY,KY,Campbell,March 22,March 26
+1012,21039,KENTUCKY,KY,Carlisle,March 22,March 26
+1013,21041,KENTUCKY,KY,Carroll,March 22,March 26
+1014,21043,KENTUCKY,KY,Carter,March 22,March 26
+1015,21045,KENTUCKY,KY,Casey,March 22,March 26
+1016,21047,KENTUCKY,KY,Christian,March 22,March 26
+1017,21049,KENTUCKY,KY,Clark,March 22,March 26
+1018,21051,KENTUCKY,KY,Clay,March 22,March 26
+1019,21053,KENTUCKY,KY,Clinton,March 22,March 26
+1020,21055,KENTUCKY,KY,Crittenden,March 22,March 26
+1021,21057,KENTUCKY,KY,Cumberland,March 22,March 26
+1022,21059,KENTUCKY,KY,Daviess,March 22,March 26
+1023,21061,KENTUCKY,KY,Edmonson,March 22,March 26
+1024,21063,KENTUCKY,KY,Elliott,March 22,March 26
+1025,21065,KENTUCKY,KY,Estill,March 22,March 26
+1026,21067,KENTUCKY,KY,Fayette,March 22,March 26
+1027,21069,KENTUCKY,KY,Fleming,March 22,March 26
+1028,21071,KENTUCKY,KY,Floyd,March 22,March 26
+1029,21073,KENTUCKY,KY,Franklin,March 22,March 26
+1030,21075,KENTUCKY,KY,Fulton,March 22,March 26
+1031,21077,KENTUCKY,KY,Gallatin,March 22,March 26
+1032,21079,KENTUCKY,KY,Garrard,March 22,March 26
+1033,21081,KENTUCKY,KY,Grant,March 22,March 26
+1034,21083,KENTUCKY,KY,Graves,March 22,March 26
+1035,21085,KENTUCKY,KY,Grayson,March 22,March 26
+1036,21087,KENTUCKY,KY,Green,March 22,March 26
+1037,21089,KENTUCKY,KY,Greenup,March 22,March 26
+1038,21091,KENTUCKY,KY,Hancock,March 22,March 26
+1039,21093,KENTUCKY,KY,Hardin,March 22,March 26
+1040,21095,KENTUCKY,KY,Harlan,March 22,March 26
+1041,21097,KENTUCKY,KY,Harrison,March 22,March 26
+1042,21099,KENTUCKY,KY,Hart,March 22,March 26
+1043,21101,KENTUCKY,KY,Henderson,March 22,March 26
+1044,21103,KENTUCKY,KY,Henry,March 22,March 26
+1045,21105,KENTUCKY,KY,Hickman,March 22,March 26
+1046,21107,KENTUCKY,KY,Hopkins,March 22,March 26
+1047,21109,KENTUCKY,KY,Jackson,March 22,March 26
+1048,21111,KENTUCKY,KY,Jefferson,March 22,March 26
+1049,21113,KENTUCKY,KY,Jessamine,March 22,March 26
+1050,21115,KENTUCKY,KY,Johnson,March 22,March 26
+1051,21117,KENTUCKY,KY,Kenton,March 22,March 26
+1052,21119,KENTUCKY,KY,Knott,March 22,March 26
+1053,21121,KENTUCKY,KY,Knox,March 22,March 26
+1054,21123,KENTUCKY,KY,Larue,March 22,March 26
+1055,21125,KENTUCKY,KY,Laurel,March 22,March 26
+1056,21127,KENTUCKY,KY,Lawrence,March 22,March 26
+1057,21129,KENTUCKY,KY,Lee,March 22,March 26
+1058,21131,KENTUCKY,KY,Leslie,March 22,March 26
+1059,21133,KENTUCKY,KY,Letcher,March 22,March 26
+1060,21135,KENTUCKY,KY,Lewis,March 22,March 26
+1061,21137,KENTUCKY,KY,Lincoln,March 22,March 26
+1062,21139,KENTUCKY,KY,Livingston,March 22,March 26
+1063,21141,KENTUCKY,KY,Logan,March 22,March 26
+1064,21143,KENTUCKY,KY,Lyon,March 22,March 26
+1065,21145,KENTUCKY,KY,McCracken,March 22,March 26
+1066,21147,KENTUCKY,KY,McCreary,March 22,March 26
+1067,21149,KENTUCKY,KY,McLean,March 22,March 26
+1068,21151,KENTUCKY,KY,Madison,March 22,March 26
+1069,21153,KENTUCKY,KY,Magoffin,March 22,March 26
+1070,21155,KENTUCKY,KY,Marion,March 22,March 26
+1071,21157,KENTUCKY,KY,Marshall,March 22,March 26
+1072,21159,KENTUCKY,KY,Martin,March 22,March 26
+1073,21161,KENTUCKY,KY,Mason,March 22,March 26
+1074,21163,KENTUCKY,KY,Meade,March 22,March 26
+1075,21165,KENTUCKY,KY,Menifee,March 22,March 26
+1076,21167,KENTUCKY,KY,Mercer,March 22,March 26
+1077,21169,KENTUCKY,KY,Metcalfe,March 22,March 26
+1078,21171,KENTUCKY,KY,Monroe,March 22,March 26
+1079,21173,KENTUCKY,KY,Montgomery,March 22,March 26
+1080,21175,KENTUCKY,KY,Morgan,March 22,March 26
+1081,21177,KENTUCKY,KY,Muhlenberg,March 22,March 26
+1082,21179,KENTUCKY,KY,Nelson,March 22,March 26
+1083,21181,KENTUCKY,KY,Nicholas,March 22,March 26
+1084,21183,KENTUCKY,KY,Ohio,March 22,March 26
+1085,21185,KENTUCKY,KY,Oldham,March 22,March 26
+1086,21187,KENTUCKY,KY,Owen,March 22,March 26
+1087,21189,KENTUCKY,KY,Owsley,March 22,March 26
+1088,21191,KENTUCKY,KY,Pendleton,March 22,March 26
+1089,21193,KENTUCKY,KY,Perry,March 22,March 26
+1090,21195,KENTUCKY,KY,Pike,March 22,March 26
+1091,21197,KENTUCKY,KY,Powell,March 22,March 26
+1092,21199,KENTUCKY,KY,Pulaski,March 22,March 26
+1093,21201,KENTUCKY,KY,Robertson,March 22,March 26
+1094,21203,KENTUCKY,KY,Rockcastle,March 22,March 26
+1095,21205,KENTUCKY,KY,Rowan,March 22,March 26
+1096,21207,KENTUCKY,KY,Russell,March 22,March 26
+1097,21209,KENTUCKY,KY,Scott,March 22,March 26
+1098,21211,KENTUCKY,KY,Shelby,March 22,March 26
+1099,21213,KENTUCKY,KY,Simpson,March 22,March 26
+1100,21215,KENTUCKY,KY,Spencer,March 22,March 26
+1101,21217,KENTUCKY,KY,Taylor,March 22,March 26
+1102,21219,KENTUCKY,KY,Todd,March 22,March 26
+1103,21221,KENTUCKY,KY,Trigg,March 22,March 26
+1104,21223,KENTUCKY,KY,Trimble,March 22,March 26
+1105,21225,KENTUCKY,KY,Union,March 22,March 26
+1106,21227,KENTUCKY,KY,Warren,March 22,March 26
+1107,21229,KENTUCKY,KY,Washington,March 22,March 26
+1108,21231,KENTUCKY,KY,Wayne,March 22,March 26
+1109,21233,KENTUCKY,KY,Webster,March 22,March 26
+1110,21235,KENTUCKY,KY,Whitley,March 22,March 26
+1111,21237,KENTUCKY,KY,Wolfe,March 22,March 26
+1112,21239,KENTUCKY,KY,Woodford,March 22,March 26
+1113,22001,LOUISIANA,LA,Acadia,March 22,March 23
+1114,22003,LOUISIANA,LA,Allen,March 22,March 23
+1115,22005,LOUISIANA,LA,Ascension,March 22,March 23
+1116,22007,LOUISIANA,LA,Assumption,March 22,March 23
+1117,22009,LOUISIANA,LA,Avoyelles,March 22,March 23
+1118,22011,LOUISIANA,LA,Beauregard,March 22,March 23
+1119,22013,LOUISIANA,LA,Bienville,March 22,March 23
+1120,22015,LOUISIANA,LA,Bossier,March 22,March 23
+1121,22017,LOUISIANA,LA,Caddo,March 22,March 23
+1122,22019,LOUISIANA,LA,Calcasieu,March 22,March 23
+1123,22021,LOUISIANA,LA,Caldwell,March 22,March 23
+1124,22023,LOUISIANA,LA,Cameron,March 22,March 23
+1125,22025,LOUISIANA,LA,Catahoula,March 22,March 23
+1126,22027,LOUISIANA,LA,Claiborne,March 22,March 23
+1127,22029,LOUISIANA,LA,Concordia,March 22,March 23
+1128,22031,LOUISIANA,LA,De Soto,March 22,March 23
+1129,22033,LOUISIANA,LA,East Baton Rouge,March 22,March 23
+1130,22035,LOUISIANA,LA,East Carroll,March 22,March 23
+1131,22037,LOUISIANA,LA,East Feliciana,March 22,March 23
+1132,22039,LOUISIANA,LA,Evangeline,March 22,March 23
+1133,22041,LOUISIANA,LA,Franklin,March 22,March 23
+1134,22043,LOUISIANA,LA,Grant,March 22,March 23
+1135,22045,LOUISIANA,LA,Iberia,March 22,March 23
+1136,22047,LOUISIANA,LA,Iberville,March 22,March 23
+1137,22049,LOUISIANA,LA,Jackson,March 22,March 23
+1138,22051,LOUISIANA,LA,Jefferson,March 22,March 23
+1139,22053,LOUISIANA,LA,Jefferson Davis,March 22,March 23
+1140,22055,LOUISIANA,LA,Lafayette,March 22,March 23
+1141,22057,LOUISIANA,LA,Lafourche,March 22,March 23
+1142,22059,LOUISIANA,LA,LaSalle,March 22,March 23
+1143,22061,LOUISIANA,LA,Lincoln,March 22,March 23
+1144,22063,LOUISIANA,LA,Livingston,March 22,March 23
+1145,22065,LOUISIANA,LA,Madison,March 22,March 23
+1146,22067,LOUISIANA,LA,Morehouse,March 22,March 23
+1147,22069,LOUISIANA,LA,Natchitoches,March 22,March 23
+1148,22071,LOUISIANA,LA,Orleans,March 22,March 23
+1149,22073,LOUISIANA,LA,Ouachita,March 22,March 23
+1150,22075,LOUISIANA,LA,Plaquemines,March 22,March 23
+1151,22077,LOUISIANA,LA,Pointe Coupee,March 22,March 23
+1152,22079,LOUISIANA,LA,Rapides,March 22,March 23
+1153,22081,LOUISIANA,LA,Red River,March 22,March 23
+1154,22083,LOUISIANA,LA,Richland,March 22,March 23
+1155,22085,LOUISIANA,LA,Sabine,March 22,March 23
+1156,22087,LOUISIANA,LA,St. Bernard,March 22,March 23
+1157,22089,LOUISIANA,LA,St. Charles,March 22,March 23
+1158,22091,LOUISIANA,LA,St. Helena,March 22,March 23
+1159,22093,LOUISIANA,LA,St. James,March 22,March 23
+1160,22095,LOUISIANA,LA,St. John the Baptist,March 22,March 23
+1161,22097,LOUISIANA,LA,St. Landry,March 22,March 23
+1162,22099,LOUISIANA,LA,St. Martin,March 22,March 23
+1163,22101,LOUISIANA,LA,St. Mary,March 22,March 23
+1164,22103,LOUISIANA,LA,St. Tammany,March 22,March 23
+1165,22105,LOUISIANA,LA,Tangipahoa,March 22,March 23
+1166,22107,LOUISIANA,LA,Tensas,March 22,March 23
+1167,22109,LOUISIANA,LA,Terrebonne,March 22,March 23
+1168,22111,LOUISIANA,LA,Union,March 22,March 23
+1169,22113,LOUISIANA,LA,Vermilion,March 22,March 23
+1170,22115,LOUISIANA,LA,Vernon,March 22,March 23
+1171,22117,LOUISIANA,LA,Washington,March 22,March 23
+1172,22119,LOUISIANA,LA,Webster,March 22,March 23
+1173,22121,LOUISIANA,LA,West Baton Rouge,March 22,March 23
+1174,22123,LOUISIANA,LA,West Carroll,March 22,March 23
+1175,22125,LOUISIANA,LA,West Feliciana,March 22,March 23
+1176,22127,LOUISIANA,LA,Winn,March 22,March 23
+1177,23001,MAINE,ME,Androscoggin,March 31,April 2
+1178,23003,MAINE,ME,Aroostook,March 31,April 2
+1179,23005,MAINE,ME,Cumberland,March 31,April 2
+1180,23007,MAINE,ME,Franklin,March 31,April 2
+1181,23009,MAINE,ME,Hancock,March 31,April 2
+1182,23011,MAINE,ME,Kennebec,March 31,April 2
+1183,23013,MAINE,ME,Knox,March 31,April 2
+1184,23015,MAINE,ME,Lincoln,March 31,April 2
+1185,23017,MAINE,ME,Oxford,March 31,April 2
+1186,23019,MAINE,ME,Penobscot,March 31,April 2
+1187,23021,MAINE,ME,Piscataquis,March 31,April 2
+1188,23023,MAINE,ME,Sagadahoc,March 31,April 2
+1189,23025,MAINE,ME,Somerset,March 31,April 2
+1190,23027,MAINE,ME,Waldo,March 31,April 2
+1191,23029,MAINE,ME,Washington,March 31,April 2
+1192,23031,MAINE,ME,York,March 31,April 2
+1193,24001,MARYLAND,MD,Allegany,March 30,March 30
+1194,24003,MARYLAND,MD,Anne Arundel,March 30,March 30
+1195,24005,MARYLAND,MD,Baltimore,March 30,March 30
+1196,24009,MARYLAND,MD,Calvert,March 30,March 30
+1197,24011,MARYLAND,MD,Caroline,March 30,March 30
+1198,24013,MARYLAND,MD,Carroll,March 30,March 30
+1199,24015,MARYLAND,MD,Cecil,March 30,March 30
+1200,24017,MARYLAND,MD,Charles,March 30,March 30
+1201,24019,MARYLAND,MD,Dorchester,March 30,March 30
+1202,24021,MARYLAND,MD,Frederick,March 30,March 30
+1203,24023,MARYLAND,MD,Garrett,March 30,March 30
+1204,24025,MARYLAND,MD,Harford,March 30,March 30
+1205,24027,MARYLAND,MD,Howard,March 30,March 30
+1206,24029,MARYLAND,MD,Kent,March 30,March 30
+1207,24031,MARYLAND,MD,Montgomery,March 30,March 30
+1208,24033,MARYLAND,MD,Prince George's,March 30,March 30
+1209,24035,MARYLAND,MD,Queen Anne's,March 30,March 30
+1210,24037,MARYLAND,MD,St. Mary's,March 30,March 30
+1211,24039,MARYLAND,MD,Somerset,March 30,March 30
+1212,24041,MARYLAND,MD,Talbot,March 30,March 30
+1213,24043,MARYLAND,MD,Washington,March 30,March 30
+1214,24045,MARYLAND,MD,Wicomico,March 30,March 30
+1215,24047,MARYLAND,MD,Worcester,March 30,March 30
+1216,24510,MARYLAND,MD,Baltimore City,March 30,March 30
+1217,25001,MASSACHUSETTS,MA,Barnstable,March 23,March 24
+1218,25003,MASSACHUSETTS,MA,Berkshire,March 23,March 24
+1219,25005,MASSACHUSETTS,MA,Bristol,March 23,March 24
+1220,25007,MASSACHUSETTS,MA,Dukes,March 23,March 24
+1221,25009,MASSACHUSETTS,MA,Essex,March 23,March 24
+1222,25011,MASSACHUSETTS,MA,Franklin,March 23,March 24
+1223,25013,MASSACHUSETTS,MA,Hampden,March 23,March 24
+1224,25015,MASSACHUSETTS,MA,Hampshire,March 23,March 24
+1225,25017,MASSACHUSETTS,MA,Middlesex,March 23,March 24
+1226,25019,MASSACHUSETTS,MA,Nantucket,March 23,March 24
+1227,25021,MASSACHUSETTS,MA,Norfolk,March 23,March 24
+1228,25023,MASSACHUSETTS,MA,Plymouth,March 23,March 24
+1229,25025,MASSACHUSETTS,MA,Suffolk,March 23,March 24
+1230,25027,MASSACHUSETTS,MA,Worcester,March 23,March 24
+1231,26001,MICHIGAN,MI,Alcona,March 23,March 24
+1232,26003,MICHIGAN,MI,Alger,March 23,March 24
+1233,26005,MICHIGAN,MI,Allegan,March 23,March 24
+1234,26007,MICHIGAN,MI,Alpena,March 23,March 24
+1235,26009,MICHIGAN,MI,Antrim,March 23,March 24
+1236,26011,MICHIGAN,MI,Arenac,March 23,March 24
+1237,26013,MICHIGAN,MI,Baraga,March 23,March 24
+1238,26015,MICHIGAN,MI,Barry,March 23,March 24
+1239,26017,MICHIGAN,MI,Bay,March 23,March 24
+1240,26019,MICHIGAN,MI,Benzie,March 23,March 24
+1241,26021,MICHIGAN,MI,Berrien,March 23,March 24
+1242,26023,MICHIGAN,MI,Branch,March 23,March 24
+1243,26025,MICHIGAN,MI,Calhoun,March 23,March 24
+1244,26027,MICHIGAN,MI,Cass,March 23,March 24
+1245,26029,MICHIGAN,MI,Charlevoix,March 23,March 24
+1246,26031,MICHIGAN,MI,Cheboygan,March 23,March 24
+1247,26033,MICHIGAN,MI,Chippewa,March 23,March 24
+1248,26035,MICHIGAN,MI,Clare,March 23,March 24
+1249,26037,MICHIGAN,MI,Clinton,March 23,March 24
+1250,26039,MICHIGAN,MI,Crawford,March 23,March 24
+1251,26041,MICHIGAN,MI,Delta,March 23,March 24
+1252,26043,MICHIGAN,MI,Dickinson,March 23,March 24
+1253,26045,MICHIGAN,MI,Eaton,March 23,March 24
+1254,26047,MICHIGAN,MI,Emmet,March 23,March 24
+1255,26049,MICHIGAN,MI,Genesee,March 23,March 24
+1256,26051,MICHIGAN,MI,Gladwin,March 23,March 24
+1257,26053,MICHIGAN,MI,Gogebic,March 23,March 24
+1258,26055,MICHIGAN,MI,Grand Traverse,March 23,March 24
+1259,26057,MICHIGAN,MI,Gratiot,March 23,March 24
+1260,26059,MICHIGAN,MI,Hillsdale,March 23,March 24
+1261,26061,MICHIGAN,MI,Houghton,March 23,March 24
+1262,26063,MICHIGAN,MI,Huron,March 23,March 24
+1263,26065,MICHIGAN,MI,Ingham,March 23,March 24
+1264,26067,MICHIGAN,MI,Ionia,March 23,March 24
+1265,26069,MICHIGAN,MI,Iosco,March 23,March 24
+1266,26071,MICHIGAN,MI,Iron,March 23,March 24
+1267,26073,MICHIGAN,MI,Isabella,March 23,March 24
+1268,26075,MICHIGAN,MI,Jackson,March 23,March 24
+1269,26077,MICHIGAN,MI,Kalamazoo,March 23,March 24
+1270,26079,MICHIGAN,MI,Kalkaska,March 23,March 24
+1271,26081,MICHIGAN,MI,Kent,March 23,March 24
+1272,26083,MICHIGAN,MI,Keweenaw,March 23,March 24
+1273,26085,MICHIGAN,MI,Lake,March 23,March 24
+1274,26087,MICHIGAN,MI,Lapeer,March 23,March 24
+1275,26089,MICHIGAN,MI,Leelanau,March 23,March 24
+1276,26091,MICHIGAN,MI,Lenawee,March 23,March 24
+1277,26093,MICHIGAN,MI,Livingston,March 23,March 24
+1278,26095,MICHIGAN,MI,Luce,March 23,March 24
+1279,26097,MICHIGAN,MI,Mackinac,March 23,March 24
+1280,26099,MICHIGAN,MI,Macomb,March 23,March 24
+1281,26101,MICHIGAN,MI,Manistee,March 23,March 24
+1282,26103,MICHIGAN,MI,Marquette,March 23,March 24
+1283,26105,MICHIGAN,MI,Mason,March 23,March 24
+1284,26107,MICHIGAN,MI,Mecosta,March 23,March 24
+1285,26109,MICHIGAN,MI,Menominee,March 23,March 24
+1286,26111,MICHIGAN,MI,Midland,March 23,March 24
+1287,26113,MICHIGAN,MI,Missaukee,March 23,March 24
+1288,26115,MICHIGAN,MI,Monroe,March 23,March 24
+1289,26117,MICHIGAN,MI,Montcalm,March 23,March 24
+1290,26119,MICHIGAN,MI,Montmorency,March 23,March 24
+1291,26121,MICHIGAN,MI,Muskegon,March 23,March 24
+1292,26123,MICHIGAN,MI,Newaygo,March 23,March 24
+1293,26125,MICHIGAN,MI,Oakland,March 23,March 24
+1294,26127,MICHIGAN,MI,Oceana,March 23,March 24
+1295,26129,MICHIGAN,MI,Ogemaw,March 23,March 24
+1296,26131,MICHIGAN,MI,Ontonagon,March 23,March 24
+1297,26133,MICHIGAN,MI,Osceola,March 23,March 24
+1298,26135,MICHIGAN,MI,Oscoda,March 23,March 24
+1299,26137,MICHIGAN,MI,Otsego,March 23,March 24
+1300,26139,MICHIGAN,MI,Ottawa,March 23,March 24
+1301,26141,MICHIGAN,MI,Presque Isle,March 23,March 24
+1302,26143,MICHIGAN,MI,Roscommon,March 23,March 24
+1303,26145,MICHIGAN,MI,Saginaw,March 23,March 24
+1304,26147,MICHIGAN,MI,St. Clair,March 23,March 24
+1305,26149,MICHIGAN,MI,St. Joseph,March 23,March 24
+1306,26151,MICHIGAN,MI,Sanilac,March 23,March 24
+1307,26153,MICHIGAN,MI,Schoolcraft,March 23,March 24
+1308,26155,MICHIGAN,MI,Shiawassee,March 23,March 24
+1309,26157,MICHIGAN,MI,Tuscola,March 23,March 24
+1310,26159,MICHIGAN,MI,Van Buren,March 23,March 24
+1311,26161,MICHIGAN,MI,Washtenaw,March 23,March 24
+1312,26163,MICHIGAN,MI,Wayne,March 23,March 24
+1313,26165,MICHIGAN,MI,Wexford,March 23,March 24
+1314,27001,MINNESOTA,MN,Aitkin,March 25,March 27
+1315,27003,MINNESOTA,MN,Anoka,March 25,March 27
+1316,27005,MINNESOTA,MN,Becker,March 25,March 27
+1317,27007,MINNESOTA,MN,Beltrami,March 25,March 27
+1318,27009,MINNESOTA,MN,Benton,March 25,March 27
+1319,27011,MINNESOTA,MN,Big Stone,March 25,March 27
+1320,27013,MINNESOTA,MN,Blue Earth,March 25,March 27
+1321,27015,MINNESOTA,MN,Brown,March 25,March 27
+1322,27017,MINNESOTA,MN,Carlton,March 25,March 27
+1323,27019,MINNESOTA,MN,Carver,March 25,March 27
+1324,27021,MINNESOTA,MN,Cass,March 25,March 27
+1325,27023,MINNESOTA,MN,Chippewa,March 25,March 27
+1326,27025,MINNESOTA,MN,Chisago,March 25,March 27
+1327,27027,MINNESOTA,MN,Clay,March 25,March 27
+1328,27029,MINNESOTA,MN,Clearwater,March 25,March 27
+1329,27031,MINNESOTA,MN,Cook,March 25,March 27
+1330,27033,MINNESOTA,MN,Cottonwood,March 25,March 27
+1331,27035,MINNESOTA,MN,Crow Wing,March 25,March 27
+1332,27037,MINNESOTA,MN,Dakota,March 25,March 27
+1333,27039,MINNESOTA,MN,Dodge,March 25,March 27
+1334,27041,MINNESOTA,MN,Douglas,March 25,March 27
+1335,27043,MINNESOTA,MN,Faribault,March 25,March 27
+1336,27045,MINNESOTA,MN,Fillmore,March 25,March 27
+1337,27047,MINNESOTA,MN,Freeborn,March 25,March 27
+1338,27049,MINNESOTA,MN,Goodhue,March 25,March 27
+1339,27051,MINNESOTA,MN,Grant,March 25,March 27
+1340,27053,MINNESOTA,MN,Hennepin,March 25,March 27
+1341,27055,MINNESOTA,MN,Houston,March 25,March 27
+1342,27057,MINNESOTA,MN,Hubbard,March 25,March 27
+1343,27059,MINNESOTA,MN,Isanti,March 25,March 27
+1344,27061,MINNESOTA,MN,Itasca,March 25,March 27
+1345,27063,MINNESOTA,MN,Jackson,March 25,March 27
+1346,27065,MINNESOTA,MN,Kanabec,March 25,March 27
+1347,27067,MINNESOTA,MN,Kandiyohi,March 25,March 27
+1348,27069,MINNESOTA,MN,Kittson,March 25,March 27
+1349,27071,MINNESOTA,MN,Koochiching,March 25,March 27
+1350,27073,MINNESOTA,MN,Lac qui Parle,March 25,March 27
+1351,27075,MINNESOTA,MN,Lake,March 25,March 27
+1352,27077,MINNESOTA,MN,Lake of the Woods,March 25,March 27
+1353,27079,MINNESOTA,MN,Le Sueur,March 25,March 27
+1354,27081,MINNESOTA,MN,Lincoln,March 25,March 27
+1355,27083,MINNESOTA,MN,Lyon,March 25,March 27
+1356,27085,MINNESOTA,MN,McLeod,March 25,March 27
+1357,27087,MINNESOTA,MN,Mahnomen,March 25,March 27
+1358,27089,MINNESOTA,MN,Marshall,March 25,March 27
+1359,27091,MINNESOTA,MN,Martin,March 25,March 27
+1360,27093,MINNESOTA,MN,Meeker,March 25,March 27
+1361,27095,MINNESOTA,MN,Mille Lacs,March 25,March 27
+1362,27097,MINNESOTA,MN,Morrison,March 25,March 27
+1363,27099,MINNESOTA,MN,Mower,March 25,March 27
+1364,27101,MINNESOTA,MN,Murray,March 25,March 27
+1365,27103,MINNESOTA,MN,Nicollet,March 25,March 27
+1366,27105,MINNESOTA,MN,Nobles,March 25,March 27
+1367,27107,MINNESOTA,MN,Norman,March 25,March 27
+1368,27109,MINNESOTA,MN,Olmsted,March 25,March 27
+1369,27111,MINNESOTA,MN,Otter Tail,March 25,March 27
+1370,27113,MINNESOTA,MN,Pennington,March 25,March 27
+1371,27115,MINNESOTA,MN,Pine,March 25,March 27
+1372,27117,MINNESOTA,MN,Pipestone,March 25,March 27
+1373,27119,MINNESOTA,MN,Polk,March 25,March 27
+1374,27121,MINNESOTA,MN,Pope,March 25,March 27
+1375,27123,MINNESOTA,MN,Ramsey,March 25,March 27
+1376,27125,MINNESOTA,MN,Red Lake,March 25,March 27
+1377,27127,MINNESOTA,MN,Redwood,March 25,March 27
+1378,27129,MINNESOTA,MN,Renville,March 25,March 27
+1379,27131,MINNESOTA,MN,Rice,March 25,March 27
+1380,27133,MINNESOTA,MN,Rock,March 25,March 27
+1381,27135,MINNESOTA,MN,Roseau,March 25,March 27
+1382,27137,MINNESOTA,MN,St. Louis,March 25,March 27
+1383,27139,MINNESOTA,MN,Scott,March 25,March 27
+1384,27141,MINNESOTA,MN,Sherburne,March 25,March 27
+1385,27143,MINNESOTA,MN,Sibley,March 25,March 27
+1386,27145,MINNESOTA,MN,Stearns,March 25,March 27
+1387,27147,MINNESOTA,MN,Steele,March 25,March 27
+1388,27149,MINNESOTA,MN,Stevens,March 25,March 27
+1389,27151,MINNESOTA,MN,Swift,March 25,March 27
+1390,27153,MINNESOTA,MN,Todd,March 25,March 27
+1391,27155,MINNESOTA,MN,Traverse,March 25,March 27
+1392,27157,MINNESOTA,MN,Wabasha,March 25,March 27
+1393,27159,MINNESOTA,MN,Wadena,March 25,March 27
+1394,27161,MINNESOTA,MN,Waseca,March 25,March 27
+1395,27163,MINNESOTA,MN,Washington,March 25,March 27
+1396,27165,MINNESOTA,MN,Watonwan,March 25,March 27
+1397,27167,MINNESOTA,MN,Wilkin,March 25,March 27
+1398,27169,MINNESOTA,MN,Winona,March 25,March 27
+1399,27171,MINNESOTA,MN,Wright,March 25,March 27
+1400,27173,MINNESOTA,MN,Yellow Medicine,March 25,March 27
+1401,28001,MISSISSIPPI,MS,Adams,March 31,April 3
+1402,28003,MISSISSIPPI,MS,Alcorn,March 31,April 3
+1403,28005,MISSISSIPPI,MS,Amite,March 31,April 3
+1404,28007,MISSISSIPPI,MS,Attala,March 31,April 3
+1405,28009,MISSISSIPPI,MS,Benton,March 31,April 3
+1406,28011,MISSISSIPPI,MS,Bolivar,March 31,April 3
+1407,28013,MISSISSIPPI,MS,Calhoun,March 31,April 3
+1408,28015,MISSISSIPPI,MS,Carroll,March 31,April 3
+1409,28017,MISSISSIPPI,MS,Chickasaw,March 31,April 3
+1410,28019,MISSISSIPPI,MS,Choctaw,March 31,April 3
+1411,28021,MISSISSIPPI,MS,Claiborne,March 31,April 3
+1412,28023,MISSISSIPPI,MS,Clarke,March 31,April 3
+1413,28025,MISSISSIPPI,MS,Clay,March 31,April 3
+1414,28027,MISSISSIPPI,MS,Coahoma,March 31,April 3
+1415,28029,MISSISSIPPI,MS,Copiah,March 31,April 3
+1416,28031,MISSISSIPPI,MS,Covington,March 31,April 3
+1417,28033,MISSISSIPPI,MS,DeSoto,March 31,April 3
+1418,28035,MISSISSIPPI,MS,Forrest,March 31,April 3
+1419,28037,MISSISSIPPI,MS,Franklin,March 31,April 3
+1420,28039,MISSISSIPPI,MS,George,March 31,April 3
+1421,28041,MISSISSIPPI,MS,Greene,March 31,April 3
+1422,28043,MISSISSIPPI,MS,Grenada,March 31,April 3
+1423,28045,MISSISSIPPI,MS,Hancock,March 31,April 3
+1424,28047,MISSISSIPPI,MS,Harrison,March 31,April 3
+1425,28049,MISSISSIPPI,MS,Hinds,March 31,April 3
+1426,28051,MISSISSIPPI,MS,Holmes,March 31,April 3
+1427,28053,MISSISSIPPI,MS,Humphreys,March 31,April 3
+1428,28055,MISSISSIPPI,MS,Issaquena,March 31,April 3
+1429,28057,MISSISSIPPI,MS,Itawamba,March 31,April 3
+1430,28059,MISSISSIPPI,MS,Jackson,March 31,April 3
+1431,28061,MISSISSIPPI,MS,Jasper,March 31,April 3
+1432,28063,MISSISSIPPI,MS,Jefferson,March 31,April 3
+1433,28065,MISSISSIPPI,MS,Jefferson Davis,March 31,April 3
+1434,28067,MISSISSIPPI,MS,Jones,March 31,April 3
+1435,28069,MISSISSIPPI,MS,Kemper,March 31,April 3
+1436,28071,MISSISSIPPI,MS,Lafayette,March 31,April 3
+1437,28073,MISSISSIPPI,MS,Lamar,March 31,April 3
+1438,28075,MISSISSIPPI,MS,Lauderdale,March 31,April 3
+1439,28077,MISSISSIPPI,MS,Lawrence,March 31,April 3
+1440,28079,MISSISSIPPI,MS,Leake,March 31,April 3
+1441,28081,MISSISSIPPI,MS,Lee,March 31,April 3
+1442,28083,MISSISSIPPI,MS,Leflore,March 31,April 3
+1443,28085,MISSISSIPPI,MS,Lincoln,March 31,April 3
+1444,28087,MISSISSIPPI,MS,Lowndes,March 31,April 3
+1445,28089,MISSISSIPPI,MS,Madison,March 31,April 3
+1446,28091,MISSISSIPPI,MS,Marion,March 31,April 3
+1447,28093,MISSISSIPPI,MS,Marshall,March 31,April 3
+1448,28095,MISSISSIPPI,MS,Monroe,March 31,April 3
+1449,28097,MISSISSIPPI,MS,Montgomery,March 31,April 3
+1450,28099,MISSISSIPPI,MS,Neshoba,March 31,April 3
+1451,28101,MISSISSIPPI,MS,Newton,March 31,April 3
+1452,28103,MISSISSIPPI,MS,Noxubee,March 31,April 3
+1453,28105,MISSISSIPPI,MS,Oktibbeha,March 31,April 3
+1454,28107,MISSISSIPPI,MS,Panola,March 31,April 3
+1455,28109,MISSISSIPPI,MS,Pearl River,March 31,April 3
+1456,28111,MISSISSIPPI,MS,Perry,March 31,April 3
+1457,28113,MISSISSIPPI,MS,Pike,March 31,April 3
+1458,28115,MISSISSIPPI,MS,Pontotoc,March 31,April 3
+1459,28117,MISSISSIPPI,MS,Prentiss,March 31,April 3
+1460,28119,MISSISSIPPI,MS,Quitman,March 31,April 3
+1461,28121,MISSISSIPPI,MS,Rankin,March 31,April 3
+1462,28123,MISSISSIPPI,MS,Scott,March 31,April 3
+1463,28125,MISSISSIPPI,MS,Sharkey,March 31,April 3
+1464,28127,MISSISSIPPI,MS,Simpson,March 31,April 3
+1465,28129,MISSISSIPPI,MS,Smith,March 31,April 3
+1466,28131,MISSISSIPPI,MS,Stone,March 31,April 3
+1467,28133,MISSISSIPPI,MS,Sunflower,March 31,April 3
+1468,28135,MISSISSIPPI,MS,Tallahatchie,March 31,April 3
+1469,28137,MISSISSIPPI,MS,Tate,March 31,April 3
+1470,28139,MISSISSIPPI,MS,Tippah,March 31,April 3
+1471,28141,MISSISSIPPI,MS,Tishomingo,March 31,April 3
+1472,28143,MISSISSIPPI,MS,Tunica,March 31,April 3
+1473,28145,MISSISSIPPI,MS,Union,March 31,April 3
+1474,28147,MISSISSIPPI,MS,Walthall,March 31,April 3
+1475,28149,MISSISSIPPI,MS,Warren,March 31,April 3
+1476,28151,MISSISSIPPI,MS,Washington,March 31,April 3
+1477,28153,MISSISSIPPI,MS,Wayne,March 31,April 3
+1478,28155,MISSISSIPPI,MS,Webster,March 31,April 3
+1479,28157,MISSISSIPPI,MS,Wilkinson,March 31,April 3
+1480,28159,MISSISSIPPI,MS,Winston,March 31,April 3
+1481,28161,MISSISSIPPI,MS,Yalobusha,March 31,April 3
+1482,28163,MISSISSIPPI,MS,Yazoo,March 31,April 3
+1483,29001,MISSOURI,MO,Adair,April 3,April 6
+1484,29003,MISSOURI,MO,Andrew,April 3,April 6
+1485,29005,MISSOURI,MO,Atchison,April 3,April 6
+1486,29007,MISSOURI,MO,Audrain,April 3,April 6
+1487,29009,MISSOURI,MO,Barry,April 3,April 6
+1488,29011,MISSOURI,MO,Barton,April 3,April 6
+1489,29013,MISSOURI,MO,Bates,April 3,April 6
+1490,29015,MISSOURI,MO,Benton,April 3,April 6
+1491,29017,MISSOURI,MO,Bollinger,April 3,April 6
+1492,29019,MISSOURI,MO,Boone,April 3,April 6
+1493,29021,MISSOURI,MO,Buchanan,April 3,April 6
+1494,29023,MISSOURI,MO,Butler,April 3,April 6
+1495,29025,MISSOURI,MO,Caldwell,April 3,April 6
+1496,29027,MISSOURI,MO,Callaway,April 3,April 6
+1497,29029,MISSOURI,MO,Camden,April 3,April 6
+1498,29031,MISSOURI,MO,Cape Girardeau,April 3,April 6
+1499,29033,MISSOURI,MO,Carroll,April 3,April 6
+1500,29035,MISSOURI,MO,Carter,April 3,April 6
+1501,29037,MISSOURI,MO,Cass,April 3,April 6
+1502,29039,MISSOURI,MO,Cedar,April 3,April 6
+1503,29041,MISSOURI,MO,Chariton,April 3,April 6
+1504,29043,MISSOURI,MO,Christian,April 3,April 6
+1505,29045,MISSOURI,MO,Clark,April 3,April 6
+1506,29047,MISSOURI,MO,Clay,April 3,April 6
+1507,29049,MISSOURI,MO,Clinton,April 3,April 6
+1508,29051,MISSOURI,MO,Cole,April 3,April 6
+1509,29053,MISSOURI,MO,Cooper,April 3,April 6
+1510,29055,MISSOURI,MO,Crawford,April 3,April 6
+1511,29057,MISSOURI,MO,Dade,April 3,April 6
+1512,29059,MISSOURI,MO,Dallas,April 3,April 6
+1513,29061,MISSOURI,MO,Daviess,April 3,April 6
+1514,29063,MISSOURI,MO,DeKalb,April 3,April 6
+1515,29065,MISSOURI,MO,Dent,April 3,April 6
+1516,29067,MISSOURI,MO,Douglas,April 3,April 6
+1517,29069,MISSOURI,MO,Dunklin,April 3,April 6
+1518,29071,MISSOURI,MO,Franklin,April 3,April 6
+1519,29073,MISSOURI,MO,Gasconade,April 3,April 6
+1520,29075,MISSOURI,MO,Gentry,April 3,April 6
+1521,29077,MISSOURI,MO,Greene,April 3,April 6
+1522,29079,MISSOURI,MO,Grundy,April 3,April 6
+1523,29081,MISSOURI,MO,Harrison,April 3,April 6
+1524,29083,MISSOURI,MO,Henry,April 3,April 6
+1525,29085,MISSOURI,MO,Hickory,April 3,April 6
+1526,29087,MISSOURI,MO,Holt,April 3,April 6
+1527,29089,MISSOURI,MO,Howard,April 3,April 6
+1528,29091,MISSOURI,MO,Howell,April 3,April 6
+1529,29093,MISSOURI,MO,Iron,April 3,April 6
+1530,29095,MISSOURI,MO,Jackson,April 3,April 6
+1531,29097,MISSOURI,MO,Jasper,April 3,April 6
+1532,29099,MISSOURI,MO,Jefferson,April 3,April 6
+1533,29101,MISSOURI,MO,Johnson,April 3,April 6
+1534,29103,MISSOURI,MO,Knox,April 3,April 6
+1535,29105,MISSOURI,MO,Laclede,April 3,April 6
+1536,29107,MISSOURI,MO,Lafayette,April 3,April 6
+1537,29109,MISSOURI,MO,Lawrence,April 3,April 6
+1538,29111,MISSOURI,MO,Lewis,April 3,April 6
+1539,29113,MISSOURI,MO,Lincoln,April 3,April 6
+1540,29115,MISSOURI,MO,Linn,April 3,April 6
+1541,29117,MISSOURI,MO,Livingston,April 3,April 6
+1542,29119,MISSOURI,MO,McDonald,April 3,April 6
+1543,29121,MISSOURI,MO,Macon,April 3,April 6
+1544,29123,MISSOURI,MO,Madison,April 3,April 6
+1545,29125,MISSOURI,MO,Maries,April 3,April 6
+1546,29127,MISSOURI,MO,Marion,April 3,April 6
+1547,29129,MISSOURI,MO,Mercer,April 3,April 6
+1548,29131,MISSOURI,MO,Miller,April 3,April 6
+1549,29133,MISSOURI,MO,Mississippi,April 3,April 6
+1550,29135,MISSOURI,MO,Moniteau,April 3,April 6
+1551,29137,MISSOURI,MO,Monroe,April 3,April 6
+1552,29139,MISSOURI,MO,Montgomery,April 3,April 6
+1553,29141,MISSOURI,MO,Morgan,April 3,April 6
+1554,29143,MISSOURI,MO,New Madrid,April 3,April 6
+1555,29145,MISSOURI,MO,Newton,April 3,April 6
+1556,29147,MISSOURI,MO,Nodaway,April 3,April 6
+1557,29149,MISSOURI,MO,Oregon,April 3,April 6
+1558,29151,MISSOURI,MO,Osage,April 3,April 6
+1559,29153,MISSOURI,MO,Ozark,April 3,April 6
+1560,29155,MISSOURI,MO,Pemiscot,April 3,April 6
+1561,29157,MISSOURI,MO,Perry,April 3,April 6
+1562,29159,MISSOURI,MO,Pettis,April 3,April 6
+1563,29161,MISSOURI,MO,Phelps,April 3,April 6
+1564,29163,MISSOURI,MO,Pike,April 3,April 6
+1565,29165,MISSOURI,MO,Platte,April 3,April 6
+1566,29167,MISSOURI,MO,Polk,April 3,April 6
+1567,29169,MISSOURI,MO,Pulaski,April 3,April 6
+1568,29171,MISSOURI,MO,Putnam,April 3,April 6
+1569,29173,MISSOURI,MO,Ralls,April 3,April 6
+1570,29175,MISSOURI,MO,Randolph,April 3,April 6
+1571,29177,MISSOURI,MO,Ray,April 3,April 6
+1572,29179,MISSOURI,MO,Reynolds,April 3,April 6
+1573,29181,MISSOURI,MO,Ripley,April 3,April 6
+1574,29183,MISSOURI,MO,St. Charles,April 3,April 6
+1575,29185,MISSOURI,MO,St. Clair,April 3,April 6
+1576,29186,MISSOURI,MO,Ste. Genevieve,April 3,April 6
+1577,29187,MISSOURI,MO,St. Francois,April 3,April 6
+1578,29189,MISSOURI,MO,St. Louis,April 3,April 6
+1579,29195,MISSOURI,MO,Saline,April 3,April 6
+1580,29197,MISSOURI,MO,Schuyler,April 3,April 6
+1581,29199,MISSOURI,MO,Scotland,April 3,April 6
+1582,29201,MISSOURI,MO,Scott,April 3,April 6
+1583,29203,MISSOURI,MO,Shannon,April 3,April 6
+1584,29205,MISSOURI,MO,Shelby,April 3,April 6
+1585,29207,MISSOURI,MO,Stoddard,April 3,April 6
+1586,29209,MISSOURI,MO,Stone,April 3,April 6
+1587,29211,MISSOURI,MO,Sullivan,April 3,April 6
+1588,29213,MISSOURI,MO,Taney,April 3,April 6
+1589,29215,MISSOURI,MO,Texas,April 3,April 6
+1590,29217,MISSOURI,MO,Vernon,April 3,April 6
+1591,29219,MISSOURI,MO,Warren,April 3,April 6
+1592,29221,MISSOURI,MO,Washington,April 3,April 6
+1593,29223,MISSOURI,MO,Wayne,April 3,April 6
+1594,29225,MISSOURI,MO,Webster,April 3,April 6
+1595,29227,MISSOURI,MO,Worth,April 3,April 6
+1596,29229,MISSOURI,MO,Wright,April 3,April 6
+1597,29510,MISSOURI,MO,St. Louis City,April 3,April 6
+1598,30001,MONTANA,MT,Beaverhead,March 26,March 28
+1599,30003,MONTANA,MT,Big Horn,March 26,March 28
+1600,30005,MONTANA,MT,Blaine,March 26,March 28
+1601,30007,MONTANA,MT,Broadwater,March 26,March 28
+1602,30009,MONTANA,MT,Carbon,March 26,March 28
+1603,30011,MONTANA,MT,Carter,March 26,March 28
+1604,30013,MONTANA,MT,Cascade,March 26,March 28
+1605,30015,MONTANA,MT,Chouteau,March 26,March 28
+1606,30017,MONTANA,MT,Custer,March 26,March 28
+1607,30019,MONTANA,MT,Daniels,March 26,March 28
+1608,30021,MONTANA,MT,Dawson,March 26,March 28
+1609,30023,MONTANA,MT,Deer Lodge,March 26,March 28
+1610,30025,MONTANA,MT,Fallon,March 26,March 28
+1611,30027,MONTANA,MT,Fergus,March 26,March 28
+1612,30029,MONTANA,MT,Flathead,March 26,March 28
+1613,30031,MONTANA,MT,Gallatin,March 26,March 28
+1614,30033,MONTANA,MT,Garfield,March 26,March 28
+1615,30035,MONTANA,MT,Glacier,March 26,March 28
+1616,30037,MONTANA,MT,Golden Valley,March 26,March 28
+1617,30039,MONTANA,MT,Granite,March 26,March 28
+1618,30041,MONTANA,MT,Hill,March 26,March 28
+1619,30043,MONTANA,MT,Jefferson,March 26,March 28
+1620,30045,MONTANA,MT,Judith Basin,March 26,March 28
+1621,30047,MONTANA,MT,Lake,March 26,March 28
+1622,30049,MONTANA,MT,Lewis and Clark,March 26,March 28
+1623,30051,MONTANA,MT,Liberty,March 26,March 28
+1624,30053,MONTANA,MT,Lincoln,March 26,March 28
+1625,30055,MONTANA,MT,McCone,March 26,March 28
+1626,30057,MONTANA,MT,Madison,March 26,March 28
+1627,30059,MONTANA,MT,Meagher,March 26,March 28
+1628,30061,MONTANA,MT,Mineral,March 26,March 28
+1629,30063,MONTANA,MT,Missoula,March 26,March 28
+1630,30065,MONTANA,MT,Musselshell,March 26,March 28
+1631,30067,MONTANA,MT,Park,March 26,March 28
+1632,30069,MONTANA,MT,Petroleum,March 26,March 28
+1633,30071,MONTANA,MT,Phillips,March 26,March 28
+1634,30073,MONTANA,MT,Pondera,March 26,March 28
+1635,30075,MONTANA,MT,Powder River,March 26,March 28
+1636,30077,MONTANA,MT,Powell,March 26,March 28
+1637,30079,MONTANA,MT,Prairie,March 26,March 28
+1638,30081,MONTANA,MT,Ravalli,March 26,March 28
+1639,30083,MONTANA,MT,Richland,March 26,March 28
+1640,30085,MONTANA,MT,Roosevelt,March 26,March 28
+1641,30087,MONTANA,MT,Rosebud,March 26,March 28
+1642,30089,MONTANA,MT,Sanders,March 26,March 28
+1643,30091,MONTANA,MT,Sheridan,March 26,March 28
+1644,30093,MONTANA,MT,Silver Bow,March 26,March 28
+1645,30095,MONTANA,MT,Stillwater,March 26,March 28
+1646,30097,MONTANA,MT,Sweet Grass,March 26,March 28
+1647,30099,MONTANA,MT,Teton,March 26,March 28
+1648,30101,MONTANA,MT,Toole,March 26,March 28
+1649,30103,MONTANA,MT,Treasure,March 26,March 28
+1650,30105,MONTANA,MT,Valley,March 26,March 28
+1651,30107,MONTANA,MT,Wheatland,March 26,March 28
+1652,30109,MONTANA,MT,Wibaux,March 26,March 28
+1653,30111,MONTANA,MT,Yellowstone,March 26,March 28
+1654,31001,NEBRASKA,NE,Adams,-,-
+1655,31003,NEBRASKA,NE,Antelope,-,-
+1656,31005,NEBRASKA,NE,Arthur,-,-
+1657,31007,NEBRASKA,NE,Banner,-,-
+1658,31009,NEBRASKA,NE,Blaine,-,-
+1659,31011,NEBRASKA,NE,Boone,-,-
+1660,31013,NEBRASKA,NE,Box Butte,-,-
+1661,31015,NEBRASKA,NE,Boyd,-,-
+1662,31017,NEBRASKA,NE,Brown,-,-
+1663,31019,NEBRASKA,NE,Buffalo,-,-
+1664,31021,NEBRASKA,NE,Burt,-,-
+1665,31023,NEBRASKA,NE,Butler,-,-
+1666,31025,NEBRASKA,NE,Cass,-,-
+1667,31027,NEBRASKA,NE,Cedar,-,-
+1668,31029,NEBRASKA,NE,Chase,-,-
+1669,31031,NEBRASKA,NE,Cherry,-,-
+1670,31033,NEBRASKA,NE,Cheyenne,-,-
+1671,31035,NEBRASKA,NE,Clay,-,-
+1672,31037,NEBRASKA,NE,Colfax,-,-
+1673,31039,NEBRASKA,NE,Cuming,-,-
+1674,31041,NEBRASKA,NE,Custer,-,-
+1675,31043,NEBRASKA,NE,Dakota,-,-
+1676,31045,NEBRASKA,NE,Dawes,-,-
+1677,31047,NEBRASKA,NE,Dawson,-,-
+1678,31049,NEBRASKA,NE,Deuel,-,-
+1679,31051,NEBRASKA,NE,Dixon,-,-
+1680,31053,NEBRASKA,NE,Dodge,-,-
+1681,31055,NEBRASKA,NE,Douglas,-,-
+1682,31057,NEBRASKA,NE,Dundy,-,-
+1683,31059,NEBRASKA,NE,Fillmore,-,-
+1684,31061,NEBRASKA,NE,Franklin,-,-
+1685,31063,NEBRASKA,NE,Frontier,-,-
+1686,31065,NEBRASKA,NE,Furnas,-,-
+1687,31067,NEBRASKA,NE,Gage,-,-
+1688,31069,NEBRASKA,NE,Garden,-,-
+1689,31071,NEBRASKA,NE,Garfield,-,-
+1690,31073,NEBRASKA,NE,Gosper,-,-
+1691,31075,NEBRASKA,NE,Grant,-,-
+1692,31077,NEBRASKA,NE,Greeley,-,-
+1693,31079,NEBRASKA,NE,Hall,-,-
+1694,31081,NEBRASKA,NE,Hamilton,-,-
+1695,31083,NEBRASKA,NE,Harlan,-,-
+1696,31085,NEBRASKA,NE,Hayes,-,-
+1697,31087,NEBRASKA,NE,Hitchcock,-,-
+1698,31089,NEBRASKA,NE,Holt,-,-
+1699,31091,NEBRASKA,NE,Hooker,-,-
+1700,31093,NEBRASKA,NE,Howard,-,-
+1701,31095,NEBRASKA,NE,Jefferson,-,-
+1702,31097,NEBRASKA,NE,Johnson,-,-
+1703,31099,NEBRASKA,NE,Kearney,-,-
+1704,31101,NEBRASKA,NE,Keith,-,-
+1705,31103,NEBRASKA,NE,Keya Paha,-,-
+1706,31105,NEBRASKA,NE,Kimball,-,-
+1707,31107,NEBRASKA,NE,Knox,-,-
+1708,31109,NEBRASKA,NE,Lancaster,-,-
+1709,31111,NEBRASKA,NE,Lincoln,-,-
+1710,31113,NEBRASKA,NE,Logan,-,-
+1711,31115,NEBRASKA,NE,Loup,-,-
+1712,31117,NEBRASKA,NE,McPherson,-,-
+1713,31119,NEBRASKA,NE,Madison,-,-
+1714,31121,NEBRASKA,NE,Merrick,-,-
+1715,31123,NEBRASKA,NE,Morrill,-,-
+1716,31125,NEBRASKA,NE,Nance,-,-
+1717,31127,NEBRASKA,NE,Nemaha,-,-
+1718,31129,NEBRASKA,NE,Nuckolls,-,-
+1719,31131,NEBRASKA,NE,Otoe,-,-
+1720,31133,NEBRASKA,NE,Pawnee,-,-
+1721,31135,NEBRASKA,NE,Perkins,-,-
+1722,31137,NEBRASKA,NE,Phelps,-,-
+1723,31139,NEBRASKA,NE,Pierce,-,-
+1724,31141,NEBRASKA,NE,Platte,-,-
+1725,31143,NEBRASKA,NE,Polk,-,-
+1726,31145,NEBRASKA,NE,Red Willow,-,-
+1727,31147,NEBRASKA,NE,Richardson,-,-
+1728,31149,NEBRASKA,NE,Rock,-,-
+1729,31151,NEBRASKA,NE,Saline,-,-
+1730,31153,NEBRASKA,NE,Sarpy,-,-
+1731,31155,NEBRASKA,NE,Saunders,-,-
+1732,31157,NEBRASKA,NE,Scotts Bluff,-,-
+1733,31159,NEBRASKA,NE,Seward,-,-
+1734,31161,NEBRASKA,NE,Sheridan,-,-
+1735,31163,NEBRASKA,NE,Sherman,-,-
+1736,31165,NEBRASKA,NE,Sioux,-,-
+1737,31167,NEBRASKA,NE,Stanton,-,-
+1738,31169,NEBRASKA,NE,Thayer,-,-
+1739,31171,NEBRASKA,NE,Thomas,-,-
+1740,31173,NEBRASKA,NE,Thurston,-,-
+1741,31175,NEBRASKA,NE,Valley,-,-
+1742,31177,NEBRASKA,NE,Washington,-,-
+1743,31179,NEBRASKA,NE,Wayne,-,-
+1744,31181,NEBRASKA,NE,Webster,-,-
+1745,31183,NEBRASKA,NE,Wheeler,-,-
+1746,31185,NEBRASKA,NE,York,-,-
+1747,32001,NEVADA,NV,Churchill,April 1,April 1
+1748,32003,NEVADA,NV,Clark,April 1,April 1
+1749,32005,NEVADA,NV,Douglas,April 1,April 1
+1750,32007,NEVADA,NV,Elko,April 1,April 1
+1751,32009,NEVADA,NV,Esmeralda,April 1,April 1
+1752,32011,NEVADA,NV,Eureka,April 1,April 1
+1753,32013,NEVADA,NV,Humboldt,April 1,April 1
+1754,32015,NEVADA,NV,Lander,April 1,April 1
+1755,32017,NEVADA,NV,Lincoln,April 1,April 1
+1756,32019,NEVADA,NV,Lyon,April 1,April 1
+1757,32021,NEVADA,NV,Mineral,April 1,April 1
+1758,32023,NEVADA,NV,Nye,April 1,April 1
+1759,32027,NEVADA,NV,Pershing,April 1,April 1
+1760,32029,NEVADA,NV,Storey,April 1,April 1
+1761,32031,NEVADA,NV,Washoe,April 1,April 1
+1762,32033,NEVADA,NV,White Pine,April 1,April 1
+1763,32510,NEVADA,NV,Carson City,April 1,April 1
+1764,33001,NEW HAMPSHIRE,NH,Belknap,March 26,March 27
+1765,33003,NEW HAMPSHIRE,NH,Carroll,March 26,March 27
+1766,33005,NEW HAMPSHIRE,NH,Cheshire,March 26,March 27
+1767,33007,NEW HAMPSHIRE,NH,Coos,March 26,March 27
+1768,33009,NEW HAMPSHIRE,NH,Grafton,March 26,March 27
+1769,33011,NEW HAMPSHIRE,NH,Hillsborough,March 26,March 27
+1770,33013,NEW HAMPSHIRE,NH,Merrimack,March 26,March 27
+1771,33015,NEW HAMPSHIRE,NH,Rockingham,March 26,March 27
+1772,33017,NEW HAMPSHIRE,NH,Strafford,March 26,March 27
+1773,33019,NEW HAMPSHIRE,NH,Sullivan,March 26,March 27
+1774,34001,NEW JERSEY,NJ,Atlantic,March 20,March 21
+1775,34003,NEW JERSEY,NJ,Bergen,March 20,March 21
+1776,34005,NEW JERSEY,NJ,Burlington,March 20,March 21
+1777,34007,NEW JERSEY,NJ,Camden,March 20,March 21
+1778,34009,NEW JERSEY,NJ,Cape May,March 20,March 21
+1779,34011,NEW JERSEY,NJ,Cumberland,March 20,March 21
+1780,34013,NEW JERSEY,NJ,Essex,March 20,March 21
+1781,34015,NEW JERSEY,NJ,Gloucester,March 20,March 21
+1782,34017,NEW JERSEY,NJ,Hudson,March 20,March 21
+1783,34019,NEW JERSEY,NJ,Hunterdon,March 20,March 21
+1784,34021,NEW JERSEY,NJ,Mercer,March 20,March 21
+1785,34023,NEW JERSEY,NJ,Middlesex,March 20,March 21
+1786,34025,NEW JERSEY,NJ,Monmouth,March 20,March 21
+1787,34027,NEW JERSEY,NJ,Morris,March 20,March 21
+1788,34029,NEW JERSEY,NJ,Ocean,March 20,March 21
+1789,34031,NEW JERSEY,NJ,Passaic,March 20,March 21
+1790,34033,NEW JERSEY,NJ,Salem,March 20,March 21
+1791,34035,NEW JERSEY,NJ,Somerset,March 20,March 21
+1792,34037,NEW JERSEY,NJ,Sussex,March 20,March 21
+1793,34039,NEW JERSEY,NJ,Union,March 20,March 21
+1794,34041,NEW JERSEY,NJ,Warren,March 20,March 21
+1795,35001,NEW MEXICO,NM,Bernalillo,March 23,March 24
+1796,35003,NEW MEXICO,NM,Catron,March 23,March 24
+1797,35005,NEW MEXICO,NM,Chaves,March 23,March 24
+1798,35006,NEW MEXICO,NM,Cibola,March 23,March 24
+1799,35007,NEW MEXICO,NM,Colfax,March 23,March 24
+1800,35009,NEW MEXICO,NM,Curry,March 23,March 24
+1801,35011,NEW MEXICO,NM,De Baca,March 23,March 24
+1802,35013,NEW MEXICO,NM,Doña Ana,March 23,March 24
+1803,35015,NEW MEXICO,NM,Eddy,March 23,March 24
+1804,35017,NEW MEXICO,NM,Grant,March 23,March 24
+1805,35019,NEW MEXICO,NM,Guadalupe,March 23,March 24
+1806,35021,NEW MEXICO,NM,Harding,March 23,March 24
+1807,35023,NEW MEXICO,NM,Hidalgo,March 23,March 24
+1808,35025,NEW MEXICO,NM,Lea,March 23,March 24
+1809,35027,NEW MEXICO,NM,Lincoln,March 23,March 24
+1810,35028,NEW MEXICO,NM,Los Alamos,March 23,March 24
+1811,35029,NEW MEXICO,NM,Luna,March 23,March 24
+1812,35031,NEW MEXICO,NM,McKinley,March 23,March 24
+1813,35033,NEW MEXICO,NM,Mora,March 23,March 24
+1814,35035,NEW MEXICO,NM,Otero,March 23,March 24
+1815,35037,NEW MEXICO,NM,Quay,March 23,March 24
+1816,35039,NEW MEXICO,NM,Rio Arriba,March 23,March 24
+1817,35041,NEW MEXICO,NM,Roosevelt,March 23,March 24
+1818,35043,NEW MEXICO,NM,Sandoval,March 23,March 24
+1819,35045,NEW MEXICO,NM,San Juan,March 23,March 24
+1820,35047,NEW MEXICO,NM,San Miguel,March 23,March 24
+1821,35049,NEW MEXICO,NM,Santa Fe,March 23,March 24
+1822,35051,NEW MEXICO,NM,Sierra,March 23,March 24
+1823,35053,NEW MEXICO,NM,Socorro,March 23,March 24
+1824,35055,NEW MEXICO,NM,Taos,March 23,March 24
+1825,35057,NEW MEXICO,NM,Torrance,March 23,March 24
+1826,35059,NEW MEXICO,NM,Union,March 23,March 24
+1827,35061,NEW MEXICO,NM,Valencia,March 23,March 24
+1828,36001,NEW YORK,NY,Albany,March 20,March 22
+1829,36003,NEW YORK,NY,Allegany,March 20,March 22
+1830,36005,NEW YORK,NY,Bronx,March 20,March 22
+1831,36007,NEW YORK,NY,Broome,March 20,March 22
+1832,36009,NEW YORK,NY,Cattaraugus,March 20,March 22
+1833,36011,NEW YORK,NY,Cayuga,March 20,March 22
+1834,36013,NEW YORK,NY,Chautauqua,March 20,March 22
+1835,36015,NEW YORK,NY,Chemung,March 20,March 22
+1836,36017,NEW YORK,NY,Chenango,March 20,March 22
+1837,36019,NEW YORK,NY,Clinton,March 20,March 22
+1838,36021,NEW YORK,NY,Columbia,March 20,March 22
+1839,36023,NEW YORK,NY,Cortland,March 20,March 22
+1840,36025,NEW YORK,NY,Delaware,March 20,March 22
+1841,36027,NEW YORK,NY,Dutchess,March 20,March 22
+1842,36029,NEW YORK,NY,Erie,March 20,March 22
+1843,36031,NEW YORK,NY,Essex,March 20,March 22
+1844,36033,NEW YORK,NY,Franklin,March 20,March 22
+1845,36035,NEW YORK,NY,Fulton,March 20,March 22
+1846,36037,NEW YORK,NY,Genesee,March 20,March 22
+1847,36039,NEW YORK,NY,Greene,March 20,March 22
+1848,36041,NEW YORK,NY,Hamilton,March 20,March 22
+1849,36043,NEW YORK,NY,Herkimer,March 20,March 22
+1850,36045,NEW YORK,NY,Jefferson,March 20,March 22
+1851,36047,NEW YORK,NY,Kings,March 20,March 22
+1852,36049,NEW YORK,NY,Lewis,March 20,March 22
+1853,36051,NEW YORK,NY,Livingston,March 20,March 22
+1854,36053,NEW YORK,NY,Madison,March 20,March 22
+1855,36055,NEW YORK,NY,Monroe,March 20,March 22
+1856,36057,NEW YORK,NY,Montgomery,March 20,March 22
+1857,36059,NEW YORK,NY,Nassau,March 20,March 22
+1858,36061,NEW YORK,NY,New York,March 20,March 22
+1859,36063,NEW YORK,NY,Niagara,March 20,March 22
+1860,36065,NEW YORK,NY,Oneida,March 20,March 22
+1861,36067,NEW YORK,NY,Onondaga,March 20,March 22
+1862,36069,NEW YORK,NY,Ontario,March 20,March 22
+1863,36071,NEW YORK,NY,Orange,March 20,March 22
+1864,36073,NEW YORK,NY,Orleans,March 20,March 22
+1865,36075,NEW YORK,NY,Oswego,March 20,March 22
+1866,36077,NEW YORK,NY,Otsego,March 20,March 22
+1867,36079,NEW YORK,NY,Putnam,March 20,March 22
+1868,36081,NEW YORK,NY,Queens,March 20,March 22
+1869,36083,NEW YORK,NY,Rensselaer,March 20,March 22
+1870,36085,NEW YORK,NY,Richmond,March 20,March 22
+1871,36087,NEW YORK,NY,Rockland,March 20,March 22
+1872,36089,NEW YORK,NY,St. Lawrence,March 20,March 22
+1873,36091,NEW YORK,NY,Saratoga,March 20,March 22
+1874,36093,NEW YORK,NY,Schenectady,March 20,March 22
+1875,36095,NEW YORK,NY,Schoharie,March 20,March 22
+1876,36097,NEW YORK,NY,Schuyler,March 20,March 22
+1877,36099,NEW YORK,NY,Seneca,March 20,March 22
+1878,36101,NEW YORK,NY,Steuben,March 20,March 22
+1879,36103,NEW YORK,NY,Suffolk,March 20,March 22
+1880,36105,NEW YORK,NY,Sullivan,March 20,March 22
+1881,36107,NEW YORK,NY,Tioga,March 20,March 22
+1882,36109,NEW YORK,NY,Tompkins,March 20,March 22
+1883,36111,NEW YORK,NY,Ulster,March 20,March 22
+1884,36113,NEW YORK,NY,Warren,March 20,March 22
+1885,36115,NEW YORK,NY,Washington,March 20,March 22
+1886,36117,NEW YORK,NY,Wayne,March 20,March 22
+1887,36119,NEW YORK,NY,Westchester,March 20,March 22
+1888,36121,NEW YORK,NY,Wyoming,March 20,March 22
+1889,36123,NEW YORK,NY,Yates,March 20,March 22
+1890,37001,NORTH CAROLINA,NC,Alamance,March 27,March 30
+1891,37003,NORTH CAROLINA,NC,Alexander,March 27,March 30
+1892,37005,NORTH CAROLINA,NC,Alleghany,March 27,March 30
+1893,37007,NORTH CAROLINA,NC,Anson,March 27,March 30
+1894,37009,NORTH CAROLINA,NC,Ashe,March 27,March 30
+1895,37011,NORTH CAROLINA,NC,Avery,March 27,March 30
+1896,37013,NORTH CAROLINA,NC,Beaufort,March 27,March 30
+1897,37015,NORTH CAROLINA,NC,Bertie,March 27,March 30
+1898,37017,NORTH CAROLINA,NC,Bladen,March 27,March 30
+1899,37019,NORTH CAROLINA,NC,Brunswick,March 27,March 30
+1900,37021,NORTH CAROLINA,NC,Buncombe,March 27,March 30
+1901,37023,NORTH CAROLINA,NC,Burke,March 27,March 30
+1902,37025,NORTH CAROLINA,NC,Cabarrus,March 27,March 30
+1903,37027,NORTH CAROLINA,NC,Caldwell,March 27,March 30
+1904,37029,NORTH CAROLINA,NC,Camden,March 27,March 30
+1905,37031,NORTH CAROLINA,NC,Carteret,March 27,March 30
+1906,37033,NORTH CAROLINA,NC,Caswell,March 27,March 30
+1907,37035,NORTH CAROLINA,NC,Catawba,March 27,March 30
+1908,37037,NORTH CAROLINA,NC,Chatham,March 27,March 30
+1909,37039,NORTH CAROLINA,NC,Cherokee,March 27,March 30
+1910,37041,NORTH CAROLINA,NC,Chowan,March 27,March 30
+1911,37043,NORTH CAROLINA,NC,Clay,March 27,March 30
+1912,37045,NORTH CAROLINA,NC,Cleveland,March 27,March 30
+1913,37047,NORTH CAROLINA,NC,Columbus,March 27,March 30
+1914,37049,NORTH CAROLINA,NC,Craven,March 27,March 30
+1915,37051,NORTH CAROLINA,NC,Cumberland,March 27,March 30
+1916,37053,NORTH CAROLINA,NC,Currituck,March 27,March 30
+1917,37055,NORTH CAROLINA,NC,Dare,March 27,March 30
+1918,37057,NORTH CAROLINA,NC,Davidson,March 27,March 30
+1919,37059,NORTH CAROLINA,NC,Davie,March 27,March 30
+1920,37061,NORTH CAROLINA,NC,Duplin,March 27,March 30
+1921,37063,NORTH CAROLINA,NC,Durham,March 27,March 30
+1922,37065,NORTH CAROLINA,NC,Edgecombe,March 27,March 30
+1923,37067,NORTH CAROLINA,NC,Forsyth,March 27,March 30
+1924,37069,NORTH CAROLINA,NC,Franklin,March 27,March 30
+1925,37071,NORTH CAROLINA,NC,Gaston,March 27,March 30
+1926,37073,NORTH CAROLINA,NC,Gates,March 27,March 30
+1927,37075,NORTH CAROLINA,NC,Graham,March 27,March 30
+1928,37077,NORTH CAROLINA,NC,Granville,March 27,March 30
+1929,37079,NORTH CAROLINA,NC,Greene,March 27,March 30
+1930,37081,NORTH CAROLINA,NC,Guilford,March 27,March 30
+1931,37083,NORTH CAROLINA,NC,Halifax,March 27,March 30
+1932,37085,NORTH CAROLINA,NC,Harnett,March 27,March 30
+1933,37087,NORTH CAROLINA,NC,Haywood,March 27,March 30
+1934,37089,NORTH CAROLINA,NC,Henderson,March 27,March 30
+1935,37091,NORTH CAROLINA,NC,Hertford,March 27,March 30
+1936,37093,NORTH CAROLINA,NC,Hoke,March 27,March 30
+1937,37095,NORTH CAROLINA,NC,Hyde,March 27,March 30
+1938,37097,NORTH CAROLINA,NC,Iredell,March 27,March 30
+1939,37099,NORTH CAROLINA,NC,Jackson,March 27,March 30
+1940,37101,NORTH CAROLINA,NC,Johnston,March 27,March 30
+1941,37103,NORTH CAROLINA,NC,Jones,March 27,March 30
+1942,37105,NORTH CAROLINA,NC,Lee,March 27,March 30
+1943,37107,NORTH CAROLINA,NC,Lenoir,March 27,March 30
+1944,37109,NORTH CAROLINA,NC,Lincoln,March 27,March 30
+1945,37111,NORTH CAROLINA,NC,McDowell,March 27,March 30
+1946,37113,NORTH CAROLINA,NC,Macon,March 27,March 30
+1947,37115,NORTH CAROLINA,NC,Madison,March 27,March 30
+1948,37117,NORTH CAROLINA,NC,Martin,March 27,March 30
+1949,37119,NORTH CAROLINA,NC,Mecklenburg,March 27,March 30
+1950,37121,NORTH CAROLINA,NC,Mitchell,March 27,March 30
+1951,37123,NORTH CAROLINA,NC,Montgomery,March 27,March 30
+1952,37125,NORTH CAROLINA,NC,Moore,March 27,March 30
+1953,37127,NORTH CAROLINA,NC,Nash,March 27,March 30
+1954,37129,NORTH CAROLINA,NC,New Hanover,March 27,March 30
+1955,37131,NORTH CAROLINA,NC,Northampton,March 27,March 30
+1956,37133,NORTH CAROLINA,NC,Onslow,March 27,March 30
+1957,37135,NORTH CAROLINA,NC,Orange,March 27,March 30
+1958,37137,NORTH CAROLINA,NC,Pamlico,March 27,March 30
+1959,37139,NORTH CAROLINA,NC,Pasquotank,March 27,March 30
+1960,37141,NORTH CAROLINA,NC,Pender,March 27,March 30
+1961,37143,NORTH CAROLINA,NC,Perquimans,March 27,March 30
+1962,37145,NORTH CAROLINA,NC,Person,March 27,March 30
+1963,37147,NORTH CAROLINA,NC,Pitt,March 27,March 30
+1964,37149,NORTH CAROLINA,NC,Polk,March 27,March 30
+1965,37151,NORTH CAROLINA,NC,Randolph,March 27,March 30
+1966,37153,NORTH CAROLINA,NC,Richmond,March 27,March 30
+1967,37155,NORTH CAROLINA,NC,Robeson,March 27,March 30
+1968,37157,NORTH CAROLINA,NC,Rockingham,March 27,March 30
+1969,37159,NORTH CAROLINA,NC,Rowan,March 27,March 30
+1970,37161,NORTH CAROLINA,NC,Rutherford,March 27,March 30
+1971,37163,NORTH CAROLINA,NC,Sampson,March 27,March 30
+1972,37165,NORTH CAROLINA,NC,Scotland,March 27,March 30
+1973,37167,NORTH CAROLINA,NC,Stanly,March 27,March 30
+1974,37169,NORTH CAROLINA,NC,Stokes,March 27,March 30
+1975,37171,NORTH CAROLINA,NC,Surry,March 27,March 30
+1976,37173,NORTH CAROLINA,NC,Swain,March 27,March 30
+1977,37175,NORTH CAROLINA,NC,Transylvania,March 27,March 30
+1978,37177,NORTH CAROLINA,NC,Tyrrell,March 27,March 30
+1979,37179,NORTH CAROLINA,NC,Union,March 27,March 30
+1980,37181,NORTH CAROLINA,NC,Vance,March 27,March 30
+1981,37183,NORTH CAROLINA,NC,Wake,March 27,March 30
+1982,37185,NORTH CAROLINA,NC,Warren,March 27,March 30
+1983,37187,NORTH CAROLINA,NC,Washington,March 27,March 30
+1984,37189,NORTH CAROLINA,NC,Watauga,March 27,March 30
+1985,37191,NORTH CAROLINA,NC,Wayne,March 27,March 30
+1986,37193,NORTH CAROLINA,NC,Wilkes,March 27,March 30
+1987,37195,NORTH CAROLINA,NC,Wilson,March 27,March 30
+1988,37197,NORTH CAROLINA,NC,Yadkin,March 27,March 30
+1989,37199,NORTH CAROLINA,NC,Yancey,March 27,March 30
+1990,38001,NORTH DAKOTA,ND,Adams,-,-
+1991,38003,NORTH DAKOTA,ND,Barnes,-,-
+1992,38005,NORTH DAKOTA,ND,Benson,-,-
+1993,38007,NORTH DAKOTA,ND,Billings,-,-
+1994,38009,NORTH DAKOTA,ND,Bottineau,-,-
+1995,38011,NORTH DAKOTA,ND,Bowman,-,-
+1996,38013,NORTH DAKOTA,ND,Burke,-,-
+1997,38015,NORTH DAKOTA,ND,Burleigh,-,-
+1998,38017,NORTH DAKOTA,ND,Cass,-,-
+1999,38019,NORTH DAKOTA,ND,Cavalier,-,-
+2000,38021,NORTH DAKOTA,ND,Dickey,-,-
+2001,38023,NORTH DAKOTA,ND,Divide,-,-
+2002,38025,NORTH DAKOTA,ND,Dunn,-,-
+2003,38027,NORTH DAKOTA,ND,Eddy,-,-
+2004,38029,NORTH DAKOTA,ND,Emmons,-,-
+2005,38031,NORTH DAKOTA,ND,Foster,-,-
+2006,38033,NORTH DAKOTA,ND,Golden Valley,-,-
+2007,38035,NORTH DAKOTA,ND,Grand Forks,-,-
+2008,38037,NORTH DAKOTA,ND,Grant,-,-
+2009,38039,NORTH DAKOTA,ND,Griggs,-,-
+2010,38041,NORTH DAKOTA,ND,Hettinger,-,-
+2011,38043,NORTH DAKOTA,ND,Kidder,-,-
+2012,38045,NORTH DAKOTA,ND,LaMoure,-,-
+2013,38047,NORTH DAKOTA,ND,Logan,-,-
+2014,38049,NORTH DAKOTA,ND,McHenry,-,-
+2015,38051,NORTH DAKOTA,ND,McIntosh,-,-
+2016,38053,NORTH DAKOTA,ND,McKenzie,-,-
+2017,38055,NORTH DAKOTA,ND,McLean,-,-
+2018,38057,NORTH DAKOTA,ND,Mercer,-,-
+2019,38059,NORTH DAKOTA,ND,Morton,-,-
+2020,38061,NORTH DAKOTA,ND,Mountrail,-,-
+2021,38063,NORTH DAKOTA,ND,Nelson,-,-
+2022,38065,NORTH DAKOTA,ND,Oliver,-,-
+2023,38067,NORTH DAKOTA,ND,Pembina,-,-
+2024,38069,NORTH DAKOTA,ND,Pierce,-,-
+2025,38071,NORTH DAKOTA,ND,Ramsey,-,-
+2026,38073,NORTH DAKOTA,ND,Ransom,-,-
+2027,38075,NORTH DAKOTA,ND,Renville,-,-
+2028,38077,NORTH DAKOTA,ND,Richland,-,-
+2029,38079,NORTH DAKOTA,ND,Rolette,-,-
+2030,38081,NORTH DAKOTA,ND,Sargent,-,-
+2031,38083,NORTH DAKOTA,ND,Sheridan,-,-
+2032,38085,NORTH DAKOTA,ND,Sioux,-,-
+2033,38087,NORTH DAKOTA,ND,Slope,-,-
+2034,38089,NORTH DAKOTA,ND,Stark,-,-
+2035,38091,NORTH DAKOTA,ND,Steele,-,-
+2036,38093,NORTH DAKOTA,ND,Stutsman,-,-
+2037,38095,NORTH DAKOTA,ND,Towner,-,-
+2038,38097,NORTH DAKOTA,ND,Traill,-,-
+2039,38099,NORTH DAKOTA,ND,Walsh,-,-
+2040,38101,NORTH DAKOTA,ND,Ward,-,-
+2041,38103,NORTH DAKOTA,ND,Wells,-,-
+2042,38105,NORTH DAKOTA,ND,Williams,-,-
+2043,39001,OHIO,OH,Adams,March 22,March 23
+2044,39003,OHIO,OH,Allen,March 22,March 23
+2045,39005,OHIO,OH,Ashland,March 22,March 23
+2046,39007,OHIO,OH,Ashtabula,March 22,March 23
+2047,39009,OHIO,OH,Athens,March 22,March 23
+2048,39011,OHIO,OH,Auglaize,March 22,March 23
+2049,39013,OHIO,OH,Belmont,March 22,March 23
+2050,39015,OHIO,OH,Brown,March 22,March 23
+2051,39017,OHIO,OH,Butler,March 22,March 23
+2052,39019,OHIO,OH,Carroll,March 22,March 23
+2053,39021,OHIO,OH,Champaign,March 22,March 23
+2054,39023,OHIO,OH,Clark,March 22,March 23
+2055,39025,OHIO,OH,Clermont,March 22,March 23
+2056,39027,OHIO,OH,Clinton,March 22,March 23
+2057,39029,OHIO,OH,Columbiana,March 22,March 23
+2058,39031,OHIO,OH,Coshocton,March 22,March 23
+2059,39033,OHIO,OH,Crawford,March 22,March 23
+2060,39035,OHIO,OH,Cuyahoga,March 22,March 23
+2061,39037,OHIO,OH,Darke,March 22,March 23
+2062,39039,OHIO,OH,Defiance,March 22,March 23
+2063,39041,OHIO,OH,Delaware,March 22,March 23
+2064,39043,OHIO,OH,Erie,March 22,March 23
+2065,39045,OHIO,OH,Fairfield,March 22,March 23
+2066,39047,OHIO,OH,Fayette,March 22,March 23
+2067,39049,OHIO,OH,Franklin,March 22,March 23
+2068,39051,OHIO,OH,Fulton,March 22,March 23
+2069,39053,OHIO,OH,Gallia,March 22,March 23
+2070,39055,OHIO,OH,Geauga,March 22,March 23
+2071,39057,OHIO,OH,Greene,March 22,March 23
+2072,39059,OHIO,OH,Guernsey,March 22,March 23
+2073,39061,OHIO,OH,Hamilton,March 22,March 23
+2074,39063,OHIO,OH,Hancock,March 22,March 23
+2075,39065,OHIO,OH,Hardin,March 22,March 23
+2076,39067,OHIO,OH,Harrison,March 22,March 23
+2077,39069,OHIO,OH,Henry,March 22,March 23
+2078,39071,OHIO,OH,Highland,March 22,March 23
+2079,39073,OHIO,OH,Hocking,March 22,March 23
+2080,39075,OHIO,OH,Holmes,March 22,March 23
+2081,39077,OHIO,OH,Huron,March 22,March 23
+2082,39079,OHIO,OH,Jackson,March 22,March 23
+2083,39081,OHIO,OH,Jefferson,March 22,March 23
+2084,39083,OHIO,OH,Knox,March 22,March 23
+2085,39085,OHIO,OH,Lake,March 22,March 23
+2086,39087,OHIO,OH,Lawrence,March 22,March 23
+2087,39089,OHIO,OH,Licking,March 22,March 23
+2088,39091,OHIO,OH,Logan,March 22,March 23
+2089,39093,OHIO,OH,Lorain,March 22,March 23
+2090,39095,OHIO,OH,Lucas,March 22,March 23
+2091,39097,OHIO,OH,Madison,March 22,March 23
+2092,39099,OHIO,OH,Mahoning,March 22,March 23
+2093,39101,OHIO,OH,Marion,March 22,March 23
+2094,39103,OHIO,OH,Medina,March 22,March 23
+2095,39105,OHIO,OH,Meigs,March 22,March 23
+2096,39107,OHIO,OH,Mercer,March 22,March 23
+2097,39109,OHIO,OH,Miami,March 22,March 23
+2098,39111,OHIO,OH,Monroe,March 22,March 23
+2099,39113,OHIO,OH,Montgomery,March 22,March 23
+2100,39115,OHIO,OH,Morgan,March 22,March 23
+2101,39117,OHIO,OH,Morrow,March 22,March 23
+2102,39119,OHIO,OH,Muskingum,March 22,March 23
+2103,39121,OHIO,OH,Noble,March 22,March 23
+2104,39123,OHIO,OH,Ottawa,March 22,March 23
+2105,39125,OHIO,OH,Paulding,March 22,March 23
+2106,39127,OHIO,OH,Perry,March 22,March 23
+2107,39129,OHIO,OH,Pickaway,March 22,March 23
+2108,39131,OHIO,OH,Pike,March 22,March 23
+2109,39133,OHIO,OH,Portage,March 22,March 23
+2110,39135,OHIO,OH,Preble,March 22,March 23
+2111,39137,OHIO,OH,Putnam,March 22,March 23
+2112,39139,OHIO,OH,Richland,March 22,March 23
+2113,39141,OHIO,OH,Ross,March 22,March 23
+2114,39143,OHIO,OH,Sandusky,March 22,March 23
+2115,39145,OHIO,OH,Scioto,March 22,March 23
+2116,39147,OHIO,OH,Seneca,March 22,March 23
+2117,39149,OHIO,OH,Shelby,March 22,March 23
+2118,39151,OHIO,OH,Stark,March 22,March 23
+2119,39153,OHIO,OH,Summit,March 22,March 23
+2120,39155,OHIO,OH,Trumbull,March 22,March 23
+2121,39157,OHIO,OH,Tuscarawas,March 22,March 23
+2122,39159,OHIO,OH,Union,March 22,March 23
+2123,39161,OHIO,OH,Van Wert,March 22,March 23
+2124,39163,OHIO,OH,Vinton,March 22,March 23
+2125,39165,OHIO,OH,Warren,March 22,March 23
+2126,39167,OHIO,OH,Washington,March 22,March 23
+2127,39169,OHIO,OH,Wayne,March 22,March 23
+2128,39171,OHIO,OH,Williams,March 22,March 23
+2129,39173,OHIO,OH,Wood,March 22,March 23
+2130,39175,OHIO,OH,Wyandot,March 22,March 23
+2131,40001,OKLAHOMA,OK,Adair,-,-
+2132,40003,OKLAHOMA,OK,Alfalfa,-,-
+2133,40005,OKLAHOMA,OK,Atoka,-,-
+2134,40007,OKLAHOMA,OK,Beaver,-,-
+2135,40009,OKLAHOMA,OK,Beckham,-,-
+2136,40011,OKLAHOMA,OK,Blaine,-,-
+2137,40013,OKLAHOMA,OK,Bryan,-,-
+2138,40015,OKLAHOMA,OK,Caddo,-,-
+2139,40017,OKLAHOMA,OK,Canadian,-,-
+2140,40019,OKLAHOMA,OK,Carter,-,-
+2141,40021,OKLAHOMA,OK,Cherokee,-,-
+2142,40023,OKLAHOMA,OK,Choctaw,-,-
+2143,40025,OKLAHOMA,OK,Cimarron,-,-
+2144,40027,OKLAHOMA,OK,Cleveland,-,-
+2145,40029,OKLAHOMA,OK,Coal,-,-
+2146,40031,OKLAHOMA,OK,Comanche,-,-
+2147,40033,OKLAHOMA,OK,Cotton,-,-
+2148,40035,OKLAHOMA,OK,Craig,-,-
+2149,40037,OKLAHOMA,OK,Creek,-,-
+2150,40039,OKLAHOMA,OK,Custer,-,-
+2151,40041,OKLAHOMA,OK,Delaware,-,-
+2152,40043,OKLAHOMA,OK,Dewey,-,-
+2153,40045,OKLAHOMA,OK,Ellis,-,-
+2154,40047,OKLAHOMA,OK,Garfield,-,-
+2155,40049,OKLAHOMA,OK,Garvin,-,-
+2156,40051,OKLAHOMA,OK,Grady,-,-
+2157,40053,OKLAHOMA,OK,Grant,-,-
+2158,40055,OKLAHOMA,OK,Greer,-,-
+2159,40057,OKLAHOMA,OK,Harmon,-,-
+2160,40059,OKLAHOMA,OK,Harper,-,-
+2161,40061,OKLAHOMA,OK,Haskell,-,-
+2162,40063,OKLAHOMA,OK,Hughes,-,-
+2163,40065,OKLAHOMA,OK,Jackson,-,-
+2164,40067,OKLAHOMA,OK,Jefferson,-,-
+2165,40069,OKLAHOMA,OK,Johnston,-,-
+2166,40071,OKLAHOMA,OK,Kay,-,-
+2167,40073,OKLAHOMA,OK,Kingfisher,-,-
+2168,40075,OKLAHOMA,OK,Kiowa,-,-
+2169,40077,OKLAHOMA,OK,Latimer,-,-
+2170,40079,OKLAHOMA,OK,Le Flore,-,-
+2171,40081,OKLAHOMA,OK,Lincoln,-,-
+2172,40083,OKLAHOMA,OK,Logan,-,-
+2173,40085,OKLAHOMA,OK,Love,-,-
+2174,40087,OKLAHOMA,OK,McClain,-,-
+2175,40089,OKLAHOMA,OK,McCurtain,-,-
+2176,40091,OKLAHOMA,OK,McIntosh,-,-
+2177,40093,OKLAHOMA,OK,Major,-,-
+2178,40095,OKLAHOMA,OK,Marshall,-,-
+2179,40097,OKLAHOMA,OK,Mayes,-,-
+2180,40099,OKLAHOMA,OK,Murray,-,-
+2181,40101,OKLAHOMA,OK,Muskogee,-,-
+2182,40103,OKLAHOMA,OK,Noble,-,-
+2183,40105,OKLAHOMA,OK,Nowata,-,-
+2184,40107,OKLAHOMA,OK,Okfuskee,-,-
+2185,40109,OKLAHOMA,OK,Oklahoma,-,-
+2186,40111,OKLAHOMA,OK,Okmulgee,-,-
+2187,40113,OKLAHOMA,OK,Osage,-,-
+2188,40115,OKLAHOMA,OK,Ottawa,-,-
+2189,40117,OKLAHOMA,OK,Pawnee,-,-
+2190,40119,OKLAHOMA,OK,Payne,-,-
+2191,40121,OKLAHOMA,OK,Pittsburg,-,-
+2192,40123,OKLAHOMA,OK,Pontotoc,-,-
+2193,40125,OKLAHOMA,OK,Pottawatomie,-,-
+2194,40127,OKLAHOMA,OK,Pushmataha,-,-
+2195,40129,OKLAHOMA,OK,Roger Mills,-,-
+2196,40131,OKLAHOMA,OK,Rogers,-,-
+2197,40133,OKLAHOMA,OK,Seminole,-,-
+2198,40135,OKLAHOMA,OK,Sequoyah,-,-
+2199,40137,OKLAHOMA,OK,Stephens,-,-
+2200,40139,OKLAHOMA,OK,Texas,-,-
+2201,40141,OKLAHOMA,OK,Tillman,-,-
+2202,40143,OKLAHOMA,OK,Tulsa,-,-
+2203,40145,OKLAHOMA,OK,Wagoner,-,-
+2204,40147,OKLAHOMA,OK,Washington,-,-
+2205,40149,OKLAHOMA,OK,Washita,-,-
+2206,40151,OKLAHOMA,OK,Woods,-,-
+2207,40153,OKLAHOMA,OK,Woodward,-,-
+2208,41001,OREGON,OR,Baker,March 23,March 23
+2209,41003,OREGON,OR,Benton,March 23,March 23
+2210,41005,OREGON,OR,Clackamas,March 23,March 23
+2211,41007,OREGON,OR,Clatsop,March 23,March 23
+2212,41009,OREGON,OR,Columbia,March 23,March 23
+2213,41011,OREGON,OR,Coos,March 23,March 23
+2214,41013,OREGON,OR,Crook,March 23,March 23
+2215,41015,OREGON,OR,Curry,March 23,March 23
+2216,41017,OREGON,OR,Deschutes,March 23,March 23
+2217,41019,OREGON,OR,Douglas,March 23,March 23
+2218,41021,OREGON,OR,Gilliam,March 23,March 23
+2219,41023,OREGON,OR,Grant,March 23,March 23
+2220,41025,OREGON,OR,Harney,March 23,March 23
+2221,41027,OREGON,OR,Hood River,March 23,March 23
+2222,41029,OREGON,OR,Jackson,March 23,March 23
+2223,41031,OREGON,OR,Jefferson,March 23,March 23
+2224,41033,OREGON,OR,Josephine,March 23,March 23
+2225,41035,OREGON,OR,Klamath,March 23,March 23
+2226,41037,OREGON,OR,Lake,March 23,March 23
+2227,41039,OREGON,OR,Lane,March 23,March 23
+2228,41041,OREGON,OR,Lincoln,March 23,March 23
+2229,41043,OREGON,OR,Linn,March 23,March 23
+2230,41045,OREGON,OR,Malheur,March 23,March 23
+2231,41047,OREGON,OR,Marion,March 23,March 23
+2232,41049,OREGON,OR,Morrow,March 23,March 23
+2233,41051,OREGON,OR,Multnomah,March 23,March 23
+2234,41053,OREGON,OR,Polk,March 23,March 23
+2235,41055,OREGON,OR,Sherman,March 23,March 23
+2236,41057,OREGON,OR,Tillamook,March 23,March 23
+2237,41059,OREGON,OR,Umatilla,March 23,March 23
+2238,41061,OREGON,OR,Union,March 23,March 23
+2239,41063,OREGON,OR,Wallowa,March 23,March 23
+2240,41065,OREGON,OR,Wasco,March 23,March 23
+2241,41067,OREGON,OR,Washington,March 23,March 23
+2242,41069,OREGON,OR,Wheeler,March 23,March 23
+2243,41071,OREGON,OR,Yamhill,March 23,March 23
+2244,42001,PENNSYLVANIA,PA,Adams,March 23,April 1
+2245,42003,PENNSYLVANIA,PA,Allegheny,March 23,April 1
+2246,42005,PENNSYLVANIA,PA,Armstrong,March 23,April 1
+2247,42007,PENNSYLVANIA,PA,Beaver,March 23,April 1
+2248,42009,PENNSYLVANIA,PA,Bedford,March 23,April 1
+2249,42011,PENNSYLVANIA,PA,Berks,March 23,April 1
+2250,42013,PENNSYLVANIA,PA,Blair,March 23,April 1
+2251,42015,PENNSYLVANIA,PA,Bradford,March 23,April 1
+2252,42017,PENNSYLVANIA,PA,Bucks,March 23,April 1
+2253,42019,PENNSYLVANIA,PA,Butler,March 23,April 1
+2254,42021,PENNSYLVANIA,PA,Cambria,March 23,April 1
+2255,42023,PENNSYLVANIA,PA,Cameron,March 23,April 1
+2256,42025,PENNSYLVANIA,PA,Carbon,March 23,April 1
+2257,42027,PENNSYLVANIA,PA,Centre,March 23,April 1
+2258,42029,PENNSYLVANIA,PA,Chester,March 23,April 1
+2259,42031,PENNSYLVANIA,PA,Clarion,March 23,April 1
+2260,42033,PENNSYLVANIA,PA,Clearfield,March 23,April 1
+2261,42035,PENNSYLVANIA,PA,Clinton,March 23,April 1
+2262,42037,PENNSYLVANIA,PA,Columbia,March 23,April 1
+2263,42039,PENNSYLVANIA,PA,Crawford,March 23,April 1
+2264,42041,PENNSYLVANIA,PA,Cumberland,March 23,April 1
+2265,42043,PENNSYLVANIA,PA,Dauphin,March 23,April 1
+2266,42045,PENNSYLVANIA,PA,Delaware,March 23,April 1
+2267,42047,PENNSYLVANIA,PA,Elk,March 23,April 1
+2268,42049,PENNSYLVANIA,PA,Erie,March 23,April 1
+2269,42051,PENNSYLVANIA,PA,Fayette,March 23,April 1
+2270,42053,PENNSYLVANIA,PA,Forest,March 23,April 1
+2271,42055,PENNSYLVANIA,PA,Franklin,March 23,April 1
+2272,42057,PENNSYLVANIA,PA,Fulton,March 23,April 1
+2273,42059,PENNSYLVANIA,PA,Greene,March 23,April 1
+2274,42061,PENNSYLVANIA,PA,Huntingdon,March 23,April 1
+2275,42063,PENNSYLVANIA,PA,Indiana,March 23,April 1
+2276,42065,PENNSYLVANIA,PA,Jefferson,March 23,April 1
+2277,42067,PENNSYLVANIA,PA,Juniata,March 23,April 1
+2278,42069,PENNSYLVANIA,PA,Lackawanna,March 23,April 1
+2279,42071,PENNSYLVANIA,PA,Lancaster,March 23,April 1
+2280,42073,PENNSYLVANIA,PA,Lawrence,March 23,April 1
+2281,42075,PENNSYLVANIA,PA,Lebanon,March 23,April 1
+2282,42077,PENNSYLVANIA,PA,Lehigh,March 23,April 1
+2283,42079,PENNSYLVANIA,PA,Luzerne,March 23,April 1
+2284,42081,PENNSYLVANIA,PA,Lycoming,March 23,April 1
+2285,42083,PENNSYLVANIA,PA,McKean,March 23,April 1
+2286,42085,PENNSYLVANIA,PA,Mercer,March 23,April 1
+2287,42087,PENNSYLVANIA,PA,Mifflin,March 23,April 1
+2288,42089,PENNSYLVANIA,PA,Monroe,March 23,April 1
+2289,42091,PENNSYLVANIA,PA,Montgomery,March 23,April 1
+2290,42093,PENNSYLVANIA,PA,Montour,March 23,April 1
+2291,42095,PENNSYLVANIA,PA,Northampton,March 23,April 1
+2292,42097,PENNSYLVANIA,PA,Northumberland,March 23,April 1
+2293,42099,PENNSYLVANIA,PA,Perry,March 23,April 1
+2294,42101,PENNSYLVANIA,PA,Philadelphia,March 23,April 1
+2295,42103,PENNSYLVANIA,PA,Pike,March 23,April 1
+2296,42105,PENNSYLVANIA,PA,Potter,March 23,April 1
+2297,42107,PENNSYLVANIA,PA,Schuylkill,March 23,April 1
+2298,42109,PENNSYLVANIA,PA,Snyder,March 23,April 1
+2299,42111,PENNSYLVANIA,PA,Somerset,March 23,April 1
+2300,42113,PENNSYLVANIA,PA,Sullivan,March 23,April 1
+2301,42115,PENNSYLVANIA,PA,Susquehanna,March 23,April 1
+2302,42117,PENNSYLVANIA,PA,Tioga,March 23,April 1
+2303,42119,PENNSYLVANIA,PA,Union,March 23,April 1
+2304,42121,PENNSYLVANIA,PA,Venango,March 23,April 1
+2305,42123,PENNSYLVANIA,PA,Warren,March 23,April 1
+2306,42125,PENNSYLVANIA,PA,Washington,March 23,April 1
+2307,42127,PENNSYLVANIA,PA,Wayne,March 23,April 1
+2308,42129,PENNSYLVANIA,PA,Westmoreland,March 23,April 1
+2309,42131,PENNSYLVANIA,PA,Wyoming,March 23,April 1
+2310,42133,PENNSYLVANIA,PA,York,March 23,April 1
+2311,44001,RHODE ISLAND,RI,Bristol,March 28,March 28
+2312,44003,RHODE ISLAND,RI,Kent,March 28,March 28
+2313,44005,RHODE ISLAND,RI,Newport,March 28,March 28
+2314,44007,RHODE ISLAND,RI,Providence,March 28,March 28
+2315,44009,RHODE ISLAND,RI,Washington,March 28,March 28
+2316,45001,SOUTH CAROLINA,SC,Abbeville,-,-
+2317,45003,SOUTH CAROLINA,SC,Aiken,-,-
+2318,45005,SOUTH CAROLINA,SC,Allendale,-,-
+2319,45007,SOUTH CAROLINA,SC,Anderson,-,-
+2320,45009,SOUTH CAROLINA,SC,Bamberg,-,-
+2321,45011,SOUTH CAROLINA,SC,Barnwell,-,-
+2322,45013,SOUTH CAROLINA,SC,Beaufort,-,-
+2323,45015,SOUTH CAROLINA,SC,Berkeley,-,-
+2324,45017,SOUTH CAROLINA,SC,Calhoun,-,-
+2325,45019,SOUTH CAROLINA,SC,Charleston,-,-
+2326,45021,SOUTH CAROLINA,SC,Cherokee,-,-
+2327,45023,SOUTH CAROLINA,SC,Chester,-,-
+2328,45025,SOUTH CAROLINA,SC,Chesterfield,-,-
+2329,45027,SOUTH CAROLINA,SC,Clarendon,-,-
+2330,45029,SOUTH CAROLINA,SC,Colleton,-,-
+2331,45031,SOUTH CAROLINA,SC,Darlington,-,-
+2332,45033,SOUTH CAROLINA,SC,Dillon,-,-
+2333,45035,SOUTH CAROLINA,SC,Dorchester,-,-
+2334,45037,SOUTH CAROLINA,SC,Edgefield,-,-
+2335,45039,SOUTH CAROLINA,SC,Fairfield,-,-
+2336,45041,SOUTH CAROLINA,SC,Florence,-,-
+2337,45043,SOUTH CAROLINA,SC,Georgetown,-,-
+2338,45045,SOUTH CAROLINA,SC,Greenville,-,-
+2339,45047,SOUTH CAROLINA,SC,Greenwood,-,-
+2340,45049,SOUTH CAROLINA,SC,Hampton,-,-
+2341,45051,SOUTH CAROLINA,SC,Horry,-,-
+2342,45053,SOUTH CAROLINA,SC,Jasper,-,-
+2343,45055,SOUTH CAROLINA,SC,Kershaw,-,-
+2344,45057,SOUTH CAROLINA,SC,Lancaster,-,-
+2345,45059,SOUTH CAROLINA,SC,Laurens,-,-
+2346,45061,SOUTH CAROLINA,SC,Lee,-,-
+2347,45063,SOUTH CAROLINA,SC,Lexington,-,-
+2348,45065,SOUTH CAROLINA,SC,McCormick,-,-
+2349,45067,SOUTH CAROLINA,SC,Marion,-,-
+2350,45069,SOUTH CAROLINA,SC,Marlboro,-,-
+2351,45071,SOUTH CAROLINA,SC,Newberry,-,-
+2352,45073,SOUTH CAROLINA,SC,Oconee,-,-
+2353,45075,SOUTH CAROLINA,SC,Orangeburg,-,-
+2354,45077,SOUTH CAROLINA,SC,Pickens,-,-
+2355,45079,SOUTH CAROLINA,SC,Richland,-,-
+2356,45081,SOUTH CAROLINA,SC,Saluda,-,-
+2357,45083,SOUTH CAROLINA,SC,Spartanburg,-,-
+2358,45085,SOUTH CAROLINA,SC,Sumter,-,-
+2359,45087,SOUTH CAROLINA,SC,Union,-,-
+2360,45089,SOUTH CAROLINA,SC,Williamsburg,-,-
+2361,45091,SOUTH CAROLINA,SC,York,-,-
+2362,46003,SOUTH DAKOTA,SD,Aurora,-,-
+2363,46005,SOUTH DAKOTA,SD,Beadle,-,-
+2364,46007,SOUTH DAKOTA,SD,Bennett,-,-
+2365,46009,SOUTH DAKOTA,SD,Bon Homme,-,-
+2366,46011,SOUTH DAKOTA,SD,Brookings,-,-
+2367,46013,SOUTH DAKOTA,SD,Brown,-,-
+2368,46015,SOUTH DAKOTA,SD,Brule,-,-
+2369,46017,SOUTH DAKOTA,SD,Buffalo,-,-
+2370,46019,SOUTH DAKOTA,SD,Butte,-,-
+2371,46021,SOUTH DAKOTA,SD,Campbell,-,-
+2372,46023,SOUTH DAKOTA,SD,Charles Mix,-,-
+2373,46025,SOUTH DAKOTA,SD,Clark,-,-
+2374,46027,SOUTH DAKOTA,SD,Clay,-,-
+2375,46029,SOUTH DAKOTA,SD,Codington,-,-
+2376,46031,SOUTH DAKOTA,SD,Corson,-,-
+2377,46033,SOUTH DAKOTA,SD,Custer,-,-
+2378,46035,SOUTH DAKOTA,SD,Davison,-,-
+2379,46037,SOUTH DAKOTA,SD,Day,-,-
+2380,46039,SOUTH DAKOTA,SD,Deuel,-,-
+2381,46041,SOUTH DAKOTA,SD,Dewey,-,-
+2382,46043,SOUTH DAKOTA,SD,Douglas,-,-
+2383,46045,SOUTH DAKOTA,SD,Edmunds,-,-
+2384,46047,SOUTH DAKOTA,SD,Fall River,-,-
+2385,46049,SOUTH DAKOTA,SD,Faulk,-,-
+2386,46051,SOUTH DAKOTA,SD,Grant,-,-
+2387,46053,SOUTH DAKOTA,SD,Gregory,-,-
+2388,46055,SOUTH DAKOTA,SD,Haakon,-,-
+2389,46057,SOUTH DAKOTA,SD,Hamlin,-,-
+2390,46059,SOUTH DAKOTA,SD,Hand,-,-
+2391,46061,SOUTH DAKOTA,SD,Hanson,-,-
+2392,46063,SOUTH DAKOTA,SD,Harding,-,-
+2393,46065,SOUTH DAKOTA,SD,Hughes,-,-
+2394,46067,SOUTH DAKOTA,SD,Hutchinson,-,-
+2395,46069,SOUTH DAKOTA,SD,Hyde,-,-
+2396,46071,SOUTH DAKOTA,SD,Jackson,-,-
+2397,46073,SOUTH DAKOTA,SD,Jerauld,-,-
+2398,46075,SOUTH DAKOTA,SD,Jones,-,-
+2399,46077,SOUTH DAKOTA,SD,Kingsbury,-,-
+2400,46079,SOUTH DAKOTA,SD,Lake,-,-
+2401,46081,SOUTH DAKOTA,SD,Lawrence,-,-
+2402,46083,SOUTH DAKOTA,SD,Lincoln,-,-
+2403,46085,SOUTH DAKOTA,SD,Lyman,-,-
+2404,46087,SOUTH DAKOTA,SD,McCook,-,-
+2405,46089,SOUTH DAKOTA,SD,McPherson,-,-
+2406,46091,SOUTH DAKOTA,SD,Marshall,-,-
+2407,46093,SOUTH DAKOTA,SD,Meade,-,-
+2408,46095,SOUTH DAKOTA,SD,Mellette,-,-
+2409,46097,SOUTH DAKOTA,SD,Miner,-,-
+2410,46099,SOUTH DAKOTA,SD,Minnehaha,-,-
+2411,46101,SOUTH DAKOTA,SD,Moody,-,-
+2412,46102,SOUTH DAKOTA,SD,Oglala Lakota,-,-
+2413,46103,SOUTH DAKOTA,SD,Pennington,-,-
+2414,46105,SOUTH DAKOTA,SD,Perkins,-,-
+2415,46107,SOUTH DAKOTA,SD,Potter,-,-
+2416,46109,SOUTH DAKOTA,SD,Roberts,-,-
+2417,46111,SOUTH DAKOTA,SD,Sanborn,-,-
+2418,46115,SOUTH DAKOTA,SD,Spink,-,-
+2419,46117,SOUTH DAKOTA,SD,Stanley,-,-
+2420,46119,SOUTH DAKOTA,SD,Sully,-,-
+2421,46121,SOUTH DAKOTA,SD,Todd,-,-
+2422,46123,SOUTH DAKOTA,SD,Tripp,-,-
+2423,46125,SOUTH DAKOTA,SD,Turner,-,-
+2424,46127,SOUTH DAKOTA,SD,Union,-,-
+2425,46129,SOUTH DAKOTA,SD,Walworth,-,-
+2426,46135,SOUTH DAKOTA,SD,Yankton,-,-
+2427,46137,SOUTH DAKOTA,SD,Ziebach,-,-
+2428,47001,TENNESSEE,TN,Anderson,March 30,March 31
+2429,47003,TENNESSEE,TN,Bedford,March 30,March 31
+2430,47005,TENNESSEE,TN,Benton,March 30,March 31
+2431,47007,TENNESSEE,TN,Bledsoe,March 30,March 31
+2432,47009,TENNESSEE,TN,Blount,March 30,March 31
+2433,47011,TENNESSEE,TN,Bradley,March 30,March 31
+2434,47013,TENNESSEE,TN,Campbell,March 30,March 31
+2435,47015,TENNESSEE,TN,Cannon,March 30,March 31
+2436,47017,TENNESSEE,TN,Carroll,March 30,March 31
+2437,47019,TENNESSEE,TN,Carter,March 30,March 31
+2438,47021,TENNESSEE,TN,Cheatham,March 30,March 31
+2439,47023,TENNESSEE,TN,Chester,March 30,March 31
+2440,47025,TENNESSEE,TN,Claiborne,March 30,March 31
+2441,47027,TENNESSEE,TN,Clay,March 30,March 31
+2442,47029,TENNESSEE,TN,Cocke,March 30,March 31
+2443,47031,TENNESSEE,TN,Coffee,March 30,March 31
+2444,47033,TENNESSEE,TN,Crockett,March 30,March 31
+2445,47035,TENNESSEE,TN,Cumberland,March 30,March 31
+2446,47037,TENNESSEE,TN,Davidson,March 30,March 31
+2447,47039,TENNESSEE,TN,Decatur,March 30,March 31
+2448,47041,TENNESSEE,TN,DeKalb,March 30,March 31
+2449,47043,TENNESSEE,TN,Dickson,March 30,March 31
+2450,47045,TENNESSEE,TN,Dyer,March 30,March 31
+2451,47047,TENNESSEE,TN,Fayette,March 30,March 31
+2452,47049,TENNESSEE,TN,Fentress,March 30,March 31
+2453,47051,TENNESSEE,TN,Franklin,March 30,March 31
+2454,47053,TENNESSEE,TN,Gibson,March 30,March 31
+2455,47055,TENNESSEE,TN,Giles,March 30,March 31
+2456,47057,TENNESSEE,TN,Grainger,March 30,March 31
+2457,47059,TENNESSEE,TN,Greene,March 30,March 31
+2458,47061,TENNESSEE,TN,Grundy,March 30,March 31
+2459,47063,TENNESSEE,TN,Hamblen,March 30,March 31
+2460,47065,TENNESSEE,TN,Hamilton,March 30,March 31
+2461,47067,TENNESSEE,TN,Hancock,March 30,March 31
+2462,47069,TENNESSEE,TN,Hardeman,March 30,March 31
+2463,47071,TENNESSEE,TN,Hardin,March 30,March 31
+2464,47073,TENNESSEE,TN,Hawkins,March 30,March 31
+2465,47075,TENNESSEE,TN,Haywood,March 30,March 31
+2466,47077,TENNESSEE,TN,Henderson,March 30,March 31
+2467,47079,TENNESSEE,TN,Henry,March 30,March 31
+2468,47081,TENNESSEE,TN,Hickman,March 30,March 31
+2469,47083,TENNESSEE,TN,Houston,March 30,March 31
+2470,47085,TENNESSEE,TN,Humphreys,March 30,March 31
+2471,47087,TENNESSEE,TN,Jackson,March 30,March 31
+2472,47089,TENNESSEE,TN,Jefferson,March 30,March 31
+2473,47091,TENNESSEE,TN,Johnson,March 30,March 31
+2474,47093,TENNESSEE,TN,Knox,March 30,March 31
+2475,47095,TENNESSEE,TN,Lake,March 30,March 31
+2476,47097,TENNESSEE,TN,Lauderdale,March 30,March 31
+2477,47099,TENNESSEE,TN,Lawrence,March 30,March 31
+2478,47101,TENNESSEE,TN,Lewis,March 30,March 31
+2479,47103,TENNESSEE,TN,Lincoln,March 30,March 31
+2480,47105,TENNESSEE,TN,Loudon,March 30,March 31
+2481,47107,TENNESSEE,TN,McMinn,March 30,March 31
+2482,47109,TENNESSEE,TN,McNairy,March 30,March 31
+2483,47111,TENNESSEE,TN,Macon,March 30,March 31
+2484,47113,TENNESSEE,TN,Madison,March 30,March 31
+2485,47115,TENNESSEE,TN,Marion,March 30,March 31
+2486,47117,TENNESSEE,TN,Marshall,March 30,March 31
+2487,47119,TENNESSEE,TN,Maury,March 30,March 31
+2488,47121,TENNESSEE,TN,Meigs,March 30,March 31
+2489,47123,TENNESSEE,TN,Monroe,March 30,March 31
+2490,47125,TENNESSEE,TN,Montgomery,March 30,March 31
+2491,47127,TENNESSEE,TN,Moore,March 30,March 31
+2492,47129,TENNESSEE,TN,Morgan,March 30,March 31
+2493,47131,TENNESSEE,TN,Obion,March 30,March 31
+2494,47133,TENNESSEE,TN,Overton,March 30,March 31
+2495,47135,TENNESSEE,TN,Perry,March 30,March 31
+2496,47137,TENNESSEE,TN,Pickett,March 30,March 31
+2497,47139,TENNESSEE,TN,Polk,March 30,March 31
+2498,47141,TENNESSEE,TN,Putnam,March 30,March 31
+2499,47143,TENNESSEE,TN,Rhea,March 30,March 31
+2500,47145,TENNESSEE,TN,Roane,March 30,March 31
+2501,47147,TENNESSEE,TN,Robertson,March 30,March 31
+2502,47149,TENNESSEE,TN,Rutherford,March 30,March 31
+2503,47151,TENNESSEE,TN,Scott,March 30,March 31
+2504,47153,TENNESSEE,TN,Sequatchie,March 30,March 31
+2505,47155,TENNESSEE,TN,Sevier,March 30,March 31
+2506,47157,TENNESSEE,TN,Shelby,March 30,March 31
+2507,47159,TENNESSEE,TN,Smith,March 30,March 31
+2508,47161,TENNESSEE,TN,Stewart,March 30,March 31
+2509,47163,TENNESSEE,TN,Sullivan,March 30,March 31
+2510,47165,TENNESSEE,TN,Sumner,March 30,March 31
+2511,47167,TENNESSEE,TN,Tipton,March 30,March 31
+2512,47169,TENNESSEE,TN,Trousdale,March 30,March 31
+2513,47171,TENNESSEE,TN,Unicoi,March 30,March 31
+2514,47173,TENNESSEE,TN,Union,March 30,March 31
+2515,47175,TENNESSEE,TN,Van Buren,March 30,March 31
+2516,47177,TENNESSEE,TN,Warren,March 30,March 31
+2517,47179,TENNESSEE,TN,Washington,March 30,March 31
+2518,47181,TENNESSEE,TN,Wayne,March 30,March 31
+2519,47183,TENNESSEE,TN,Weakley,March 30,March 31
+2520,47185,TENNESSEE,TN,White,March 30,March 31
+2521,47187,TENNESSEE,TN,Williamson,March 30,March 31
+2522,47189,TENNESSEE,TN,Wilson,March 30,March 31
+2523,48001,TEXAS,TX,Anderson,March 31,April 2
+2524,48003,TEXAS,TX,Andrews,March 31,April 2
+2525,48005,TEXAS,TX,Angelina,March 31,April 2
+2526,48007,TEXAS,TX,Aransas,March 31,April 2
+2527,48009,TEXAS,TX,Archer,March 31,April 2
+2528,48011,TEXAS,TX,Armstrong,March 31,April 2
+2529,48013,TEXAS,TX,Atascosa,March 31,April 2
+2530,48015,TEXAS,TX,Austin,March 31,April 2
+2531,48017,TEXAS,TX,Bailey,March 31,April 2
+2532,48019,TEXAS,TX,Bandera,March 31,April 2
+2533,48021,TEXAS,TX,Bastrop,March 31,April 2
+2534,48023,TEXAS,TX,Baylor,March 31,April 2
+2535,48025,TEXAS,TX,Bee,March 31,April 2
+2536,48027,TEXAS,TX,Bell,March 31,April 2
+2537,48029,TEXAS,TX,Bexar,March 31,April 2
+2538,48031,TEXAS,TX,Blanco,March 31,April 2
+2539,48033,TEXAS,TX,Borden,March 31,April 2
+2540,48035,TEXAS,TX,Bosque,March 31,April 2
+2541,48037,TEXAS,TX,Bowie,March 31,April 2
+2542,48039,TEXAS,TX,Brazoria,March 31,April 2
+2543,48041,TEXAS,TX,Brazos,March 31,April 2
+2544,48043,TEXAS,TX,Brewster,March 31,April 2
+2545,48045,TEXAS,TX,Briscoe,March 31,April 2
+2546,48047,TEXAS,TX,Brooks,March 31,April 2
+2547,48049,TEXAS,TX,Brown,March 31,April 2
+2548,48051,TEXAS,TX,Burleson,March 31,April 2
+2549,48053,TEXAS,TX,Burnet,March 31,April 2
+2550,48055,TEXAS,TX,Caldwell,March 31,April 2
+2551,48057,TEXAS,TX,Calhoun,March 31,April 2
+2552,48059,TEXAS,TX,Callahan,March 31,April 2
+2553,48061,TEXAS,TX,Cameron,March 31,April 2
+2554,48063,TEXAS,TX,Camp,March 31,April 2
+2555,48065,TEXAS,TX,Carson,March 31,April 2
+2556,48067,TEXAS,TX,Cass,March 31,April 2
+2557,48069,TEXAS,TX,Castro,March 31,April 2
+2558,48071,TEXAS,TX,Chambers,March 31,April 2
+2559,48073,TEXAS,TX,Cherokee,March 31,April 2
+2560,48075,TEXAS,TX,Childress,March 31,April 2
+2561,48077,TEXAS,TX,Clay,March 31,April 2
+2562,48079,TEXAS,TX,Cochran,March 31,April 2
+2563,48081,TEXAS,TX,Coke,March 31,April 2
+2564,48083,TEXAS,TX,Coleman,March 31,April 2
+2565,48085,TEXAS,TX,Collin,March 31,April 2
+2566,48087,TEXAS,TX,Collingsworth,March 31,April 2
+2567,48089,TEXAS,TX,Colorado,March 31,April 2
+2568,48091,TEXAS,TX,Comal,March 31,April 2
+2569,48093,TEXAS,TX,Comanche,March 31,April 2
+2570,48095,TEXAS,TX,Concho,March 31,April 2
+2571,48097,TEXAS,TX,Cooke,March 31,April 2
+2572,48099,TEXAS,TX,Coryell,March 31,April 2
+2573,48101,TEXAS,TX,Cottle,March 31,April 2
+2574,48103,TEXAS,TX,Crane,March 31,April 2
+2575,48105,TEXAS,TX,Crockett,March 31,April 2
+2576,48107,TEXAS,TX,Crosby,March 31,April 2
+2577,48109,TEXAS,TX,Culberson,March 31,April 2
+2578,48111,TEXAS,TX,Dallam,March 31,April 2
+2579,48113,TEXAS,TX,Dallas,March 31,April 2
+2580,48115,TEXAS,TX,Dawson,March 31,April 2
+2581,48117,TEXAS,TX,Deaf Smith,March 31,April 2
+2582,48119,TEXAS,TX,Delta,March 31,April 2
+2583,48121,TEXAS,TX,Denton,March 31,April 2
+2584,48123,TEXAS,TX,DeWitt,March 31,April 2
+2585,48125,TEXAS,TX,Dickens,March 31,April 2
+2586,48127,TEXAS,TX,Dimmit,March 31,April 2
+2587,48129,TEXAS,TX,Donley,March 31,April 2
+2588,48131,TEXAS,TX,Duval,March 31,April 2
+2589,48133,TEXAS,TX,Eastland,March 31,April 2
+2590,48135,TEXAS,TX,Ector,March 31,April 2
+2591,48137,TEXAS,TX,Edwards,March 31,April 2
+2592,48139,TEXAS,TX,Ellis,March 31,April 2
+2593,48141,TEXAS,TX,El Paso,March 31,April 2
+2594,48143,TEXAS,TX,Erath,March 31,April 2
+2595,48145,TEXAS,TX,Falls,March 31,April 2
+2596,48147,TEXAS,TX,Fannin,March 31,April 2
+2597,48149,TEXAS,TX,Fayette,March 31,April 2
+2598,48151,TEXAS,TX,Fisher,March 31,April 2
+2599,48153,TEXAS,TX,Floyd,March 31,April 2
+2600,48155,TEXAS,TX,Foard,March 31,April 2
+2601,48157,TEXAS,TX,Fort Bend,March 31,April 2
+2602,48159,TEXAS,TX,Franklin,March 31,April 2
+2603,48161,TEXAS,TX,Freestone,March 31,April 2
+2604,48163,TEXAS,TX,Frio,March 31,April 2
+2605,48165,TEXAS,TX,Gaines,March 31,April 2
+2606,48167,TEXAS,TX,Galveston,March 31,April 2
+2607,48169,TEXAS,TX,Garza,March 31,April 2
+2608,48171,TEXAS,TX,Gillespie,March 31,April 2
+2609,48173,TEXAS,TX,Glasscock,March 31,April 2
+2610,48175,TEXAS,TX,Goliad,March 31,April 2
+2611,48177,TEXAS,TX,Gonzales,March 31,April 2
+2612,48179,TEXAS,TX,Gray,March 31,April 2
+2613,48181,TEXAS,TX,Grayson,March 31,April 2
+2614,48183,TEXAS,TX,Gregg,March 31,April 2
+2615,48185,TEXAS,TX,Grimes,March 31,April 2
+2616,48187,TEXAS,TX,Guadalupe,March 31,April 2
+2617,48189,TEXAS,TX,Hale,March 31,April 2
+2618,48191,TEXAS,TX,Hall,March 31,April 2
+2619,48193,TEXAS,TX,Hamilton,March 31,April 2
+2620,48195,TEXAS,TX,Hansford,March 31,April 2
+2621,48197,TEXAS,TX,Hardeman,March 31,April 2
+2622,48199,TEXAS,TX,Hardin,March 31,April 2
+2623,48201,TEXAS,TX,Harris,March 31,April 2
+2624,48203,TEXAS,TX,Harrison,March 31,April 2
+2625,48205,TEXAS,TX,Hartley,March 31,April 2
+2626,48207,TEXAS,TX,Haskell,March 31,April 2
+2627,48209,TEXAS,TX,Hays,March 31,April 2
+2628,48211,TEXAS,TX,Hemphill,March 31,April 2
+2629,48213,TEXAS,TX,Henderson,March 31,April 2
+2630,48215,TEXAS,TX,Hidalgo,March 31,April 2
+2631,48217,TEXAS,TX,Hill,March 31,April 2
+2632,48219,TEXAS,TX,Hockley,March 31,April 2
+2633,48221,TEXAS,TX,Hood,March 31,April 2
+2634,48223,TEXAS,TX,Hopkins,March 31,April 2
+2635,48225,TEXAS,TX,Houston,March 31,April 2
+2636,48227,TEXAS,TX,Howard,March 31,April 2
+2637,48229,TEXAS,TX,Hudspeth,March 31,April 2
+2638,48231,TEXAS,TX,Hunt,March 31,April 2
+2639,48233,TEXAS,TX,Hutchinson,March 31,April 2
+2640,48235,TEXAS,TX,Irion,March 31,April 2
+2641,48237,TEXAS,TX,Jack,March 31,April 2
+2642,48239,TEXAS,TX,Jackson,March 31,April 2
+2643,48241,TEXAS,TX,Jasper,March 31,April 2
+2644,48243,TEXAS,TX,Jeff Davis,March 31,April 2
+2645,48245,TEXAS,TX,Jefferson,March 31,April 2
+2646,48247,TEXAS,TX,Jim Hogg,March 31,April 2
+2647,48249,TEXAS,TX,Jim Wells,March 31,April 2
+2648,48251,TEXAS,TX,Johnson,March 31,April 2
+2649,48253,TEXAS,TX,Jones,March 31,April 2
+2650,48255,TEXAS,TX,Karnes,March 31,April 2
+2651,48257,TEXAS,TX,Kaufman,March 31,April 2
+2652,48259,TEXAS,TX,Kendall,March 31,April 2
+2653,48261,TEXAS,TX,Kenedy,March 31,April 2
+2654,48263,TEXAS,TX,Kent,March 31,April 2
+2655,48265,TEXAS,TX,Kerr,March 31,April 2
+2656,48267,TEXAS,TX,Kimble,March 31,April 2
+2657,48269,TEXAS,TX,King,March 31,April 2
+2658,48271,TEXAS,TX,Kinney,March 31,April 2
+2659,48273,TEXAS,TX,Kleberg,March 31,April 2
+2660,48275,TEXAS,TX,Knox,March 31,April 2
+2661,48277,TEXAS,TX,Lamar,March 31,April 2
+2662,48279,TEXAS,TX,Lamb,March 31,April 2
+2663,48281,TEXAS,TX,Lampasas,March 31,April 2
+2664,48283,TEXAS,TX,La Salle,March 31,April 2
+2665,48285,TEXAS,TX,Lavaca,March 31,April 2
+2666,48287,TEXAS,TX,Lee,March 31,April 2
+2667,48289,TEXAS,TX,Leon,March 31,April 2
+2668,48291,TEXAS,TX,Liberty,March 31,April 2
+2669,48293,TEXAS,TX,Limestone,March 31,April 2
+2670,48295,TEXAS,TX,Lipscomb,March 31,April 2
+2671,48297,TEXAS,TX,Live Oak,March 31,April 2
+2672,48299,TEXAS,TX,Llano,March 31,April 2
+2673,48301,TEXAS,TX,Loving,March 31,April 2
+2674,48303,TEXAS,TX,Lubbock,March 31,April 2
+2675,48305,TEXAS,TX,Lynn,March 31,April 2
+2676,48307,TEXAS,TX,McCulloch,March 31,April 2
+2677,48309,TEXAS,TX,McLennan,March 31,April 2
+2678,48311,TEXAS,TX,McMullen,March 31,April 2
+2679,48313,TEXAS,TX,Madison,March 31,April 2
+2680,48315,TEXAS,TX,Marion,March 31,April 2
+2681,48317,TEXAS,TX,Martin,March 31,April 2
+2682,48319,TEXAS,TX,Mason,March 31,April 2
+2683,48321,TEXAS,TX,Matagorda,March 31,April 2
+2684,48323,TEXAS,TX,Maverick,March 31,April 2
+2685,48325,TEXAS,TX,Medina,March 31,April 2
+2686,48327,TEXAS,TX,Menard,March 31,April 2
+2687,48329,TEXAS,TX,Midland,March 31,April 2
+2688,48331,TEXAS,TX,Milam,March 31,April 2
+2689,48333,TEXAS,TX,Mills,March 31,April 2
+2690,48335,TEXAS,TX,Mitchell,March 31,April 2
+2691,48337,TEXAS,TX,Montague,March 31,April 2
+2692,48339,TEXAS,TX,Montgomery,March 31,April 2
+2693,48341,TEXAS,TX,Moore,March 31,April 2
+2694,48343,TEXAS,TX,Morris,March 31,April 2
+2695,48345,TEXAS,TX,Motley,March 31,April 2
+2696,48347,TEXAS,TX,Nacogdoches,March 31,April 2
+2697,48349,TEXAS,TX,Navarro,March 31,April 2
+2698,48351,TEXAS,TX,Newton,March 31,April 2
+2699,48353,TEXAS,TX,Nolan,March 31,April 2
+2700,48355,TEXAS,TX,Nueces,March 31,April 2
+2701,48357,TEXAS,TX,Ochiltree,March 31,April 2
+2702,48359,TEXAS,TX,Oldham,March 31,April 2
+2703,48361,TEXAS,TX,Orange,March 31,April 2
+2704,48363,TEXAS,TX,Palo Pinto,March 31,April 2
+2705,48365,TEXAS,TX,Panola,March 31,April 2
+2706,48367,TEXAS,TX,Parker,March 31,April 2
+2707,48369,TEXAS,TX,Parmer,March 31,April 2
+2708,48371,TEXAS,TX,Pecos,March 31,April 2
+2709,48373,TEXAS,TX,Polk,March 31,April 2
+2710,48375,TEXAS,TX,Potter,March 31,April 2
+2711,48377,TEXAS,TX,Presidio,March 31,April 2
+2712,48379,TEXAS,TX,Rains,March 31,April 2
+2713,48381,TEXAS,TX,Randall,March 31,April 2
+2714,48383,TEXAS,TX,Reagan,March 31,April 2
+2715,48385,TEXAS,TX,Real,March 31,April 2
+2716,48387,TEXAS,TX,Red River,March 31,April 2
+2717,48389,TEXAS,TX,Reeves,March 31,April 2
+2718,48391,TEXAS,TX,Refugio,March 31,April 2
+2719,48393,TEXAS,TX,Roberts,March 31,April 2
+2720,48395,TEXAS,TX,Robertson,March 31,April 2
+2721,48397,TEXAS,TX,Rockwall,March 31,April 2
+2722,48399,TEXAS,TX,Runnels,March 31,April 2
+2723,48401,TEXAS,TX,Rusk,March 31,April 2
+2724,48403,TEXAS,TX,Sabine,March 31,April 2
+2725,48405,TEXAS,TX,San Augustine,March 31,April 2
+2726,48407,TEXAS,TX,San Jacinto,March 31,April 2
+2727,48409,TEXAS,TX,San Patricio,March 31,April 2
+2728,48411,TEXAS,TX,San Saba,March 31,April 2
+2729,48413,TEXAS,TX,Schleicher,March 31,April 2
+2730,48415,TEXAS,TX,Scurry,March 31,April 2
+2731,48417,TEXAS,TX,Shackelford,March 31,April 2
+2732,48419,TEXAS,TX,Shelby,March 31,April 2
+2733,48421,TEXAS,TX,Sherman,March 31,April 2
+2734,48423,TEXAS,TX,Smith,March 31,April 2
+2735,48425,TEXAS,TX,Somervell,March 31,April 2
+2736,48427,TEXAS,TX,Starr,March 31,April 2
+2737,48429,TEXAS,TX,Stephens,March 31,April 2
+2738,48431,TEXAS,TX,Sterling,March 31,April 2
+2739,48433,TEXAS,TX,Stonewall,March 31,April 2
+2740,48435,TEXAS,TX,Sutton,March 31,April 2
+2741,48437,TEXAS,TX,Swisher,March 31,April 2
+2742,48439,TEXAS,TX,Tarrant,March 31,April 2
+2743,48441,TEXAS,TX,Taylor,March 31,April 2
+2744,48443,TEXAS,TX,Terrell,March 31,April 2
+2745,48445,TEXAS,TX,Terry,March 31,April 2
+2746,48447,TEXAS,TX,Throckmorton,March 31,April 2
+2747,48449,TEXAS,TX,Titus,March 31,April 2
+2748,48451,TEXAS,TX,Tom Green,March 31,April 2
+2749,48453,TEXAS,TX,Travis,March 31,April 2
+2750,48455,TEXAS,TX,Trinity,March 31,April 2
+2751,48457,TEXAS,TX,Tyler,March 31,April 2
+2752,48459,TEXAS,TX,Upshur,March 31,April 2
+2753,48461,TEXAS,TX,Upton,March 31,April 2
+2754,48463,TEXAS,TX,Uvalde,March 31,April 2
+2755,48465,TEXAS,TX,Val Verde,March 31,April 2
+2756,48467,TEXAS,TX,Van Zandt,March 31,April 2
+2757,48469,TEXAS,TX,Victoria,March 31,April 2
+2758,48471,TEXAS,TX,Walker,March 31,April 2
+2759,48473,TEXAS,TX,Waller,March 31,April 2
+2760,48475,TEXAS,TX,Ward,March 31,April 2
+2761,48477,TEXAS,TX,Washington,March 31,April 2
+2762,48479,TEXAS,TX,Webb,March 31,April 2
+2763,48481,TEXAS,TX,Wharton,March 31,April 2
+2764,48483,TEXAS,TX,Wheeler,March 31,April 2
+2765,48485,TEXAS,TX,Wichita,March 31,April 2
+2766,48487,TEXAS,TX,Wilbarger,March 31,April 2
+2767,48489,TEXAS,TX,Willacy,March 31,April 2
+2768,48491,TEXAS,TX,Williamson,March 31,April 2
+2769,48493,TEXAS,TX,Wilson,March 31,April 2
+2770,48495,TEXAS,TX,Winkler,March 31,April 2
+2771,48497,TEXAS,TX,Wise,March 31,April 2
+2772,48499,TEXAS,TX,Wood,March 31,April 2
+2773,48501,TEXAS,TX,Yoakum,March 31,April 2
+2774,48503,TEXAS,TX,Young,March 31,April 2
+2775,48505,TEXAS,TX,Zapata,March 31,April 2
+2776,48507,TEXAS,TX,Zavala,March 31,April 2
+2777,49001,UTAH,UT,Beaver,-,-
+2778,49003,UTAH,UT,Box Elder,-,-
+2779,49005,UTAH,UT,Cache,-,-
+2780,49007,UTAH,UT,Carbon,-,-
+2781,49009,UTAH,UT,Daggett,-,-
+2782,49011,UTAH,UT,Davis,-,-
+2783,49013,UTAH,UT,Duchesne,-,-
+2784,49015,UTAH,UT,Emery,-,-
+2785,49017,UTAH,UT,Garfield,-,-
+2786,49019,UTAH,UT,Grand,-,-
+2787,49021,UTAH,UT,Iron,-,-
+2788,49023,UTAH,UT,Juab,-,-
+2789,49025,UTAH,UT,Kane,-,-
+2790,49027,UTAH,UT,Millard,-,-
+2791,49029,UTAH,UT,Morgan,-,-
+2792,49031,UTAH,UT,Piute,-,-
+2793,49033,UTAH,UT,Rich,-,-
+2794,49035,UTAH,UT,Salt Lake,-,-
+2795,49037,UTAH,UT,San Juan,-,-
+2796,49039,UTAH,UT,Sanpete,-,-
+2797,49041,UTAH,UT,Sevier,-,-
+2798,49043,UTAH,UT,Summit,-,-
+2799,49045,UTAH,UT,Tooele,-,-
+2800,49047,UTAH,UT,Uintah,-,-
+2801,49049,UTAH,UT,Utah,-,-
+2802,49051,UTAH,UT,Wasatch,-,-
+2803,49053,UTAH,UT,Washington,-,-
+2804,49055,UTAH,UT,Wayne,-,-
+2805,49057,UTAH,UT,Weber,-,-
+2806,50001,VERMONT,VT,Addison,March 24,March 24
+2807,50003,VERMONT,VT,Bennington,March 24,March 24
+2808,50005,VERMONT,VT,Caledonia,March 24,March 24
+2809,50007,VERMONT,VT,Chittenden,March 24,March 24
+2810,50009,VERMONT,VT,Essex,March 24,March 24
+2811,50011,VERMONT,VT,Franklin,March 24,March 24
+2812,50013,VERMONT,VT,Grand Isle,March 24,March 24
+2813,50015,VERMONT,VT,Lamoille,March 24,March 24
+2814,50017,VERMONT,VT,Orange,March 24,March 24
+2815,50019,VERMONT,VT,Orleans,March 24,March 24
+2816,50021,VERMONT,VT,Rutland,March 24,March 24
+2817,50023,VERMONT,VT,Washington,March 24,March 24
+2818,50025,VERMONT,VT,Windham,March 24,March 24
+2819,50027,VERMONT,VT,Windsor,March 24,March 24
+2820,51001,VIRGINIA,VA,Accomack,March 30,March 30
+2821,51003,VIRGINIA,VA,Albemarle,March 30,March 30
+2822,51005,VIRGINIA,VA,Alleghany,March 30,March 30
+2823,51007,VIRGINIA,VA,Amelia,March 30,March 30
+2824,51009,VIRGINIA,VA,Amherst,March 30,March 30
+2825,51011,VIRGINIA,VA,Appomattox,March 30,March 30
+2826,51013,VIRGINIA,VA,Arlington,March 30,March 30
+2827,51015,VIRGINIA,VA,Augusta,March 30,March 30
+2828,51017,VIRGINIA,VA,Bath,March 30,March 30
+2829,51019,VIRGINIA,VA,Bedford,March 30,March 30
+2830,51021,VIRGINIA,VA,Bland,March 30,March 30
+2831,51023,VIRGINIA,VA,Botetourt,March 30,March 30
+2832,51025,VIRGINIA,VA,Brunswick,March 30,March 30
+2833,51027,VIRGINIA,VA,Buchanan,March 30,March 30
+2834,51029,VIRGINIA,VA,Buckingham,March 30,March 30
+2835,51031,VIRGINIA,VA,Campbell,March 30,March 30
+2836,51033,VIRGINIA,VA,Caroline,March 30,March 30
+2837,51035,VIRGINIA,VA,Carroll,March 30,March 30
+2838,51036,VIRGINIA,VA,Charles City,March 30,March 30
+2839,51037,VIRGINIA,VA,Charlotte,March 30,March 30
+2840,51041,VIRGINIA,VA,Chesterfield,March 30,March 30
+2841,51043,VIRGINIA,VA,Clarke,March 30,March 30
+2842,51045,VIRGINIA,VA,Craig,March 30,March 30
+2843,51047,VIRGINIA,VA,Culpeper,March 30,March 30
+2844,51049,VIRGINIA,VA,Cumberland,March 30,March 30
+2845,51051,VIRGINIA,VA,Dickenson,March 30,March 30
+2846,51053,VIRGINIA,VA,Dinwiddie,March 30,March 30
+2847,51057,VIRGINIA,VA,Essex,March 30,March 30
+2848,51059,VIRGINIA,VA,Fairfax,March 30,March 30
+2849,51061,VIRGINIA,VA,Fauquier,March 30,March 30
+2850,51063,VIRGINIA,VA,Floyd,March 30,March 30
+2851,51065,VIRGINIA,VA,Fluvanna,March 30,March 30
+2852,51067,VIRGINIA,VA,Franklin,March 30,March 30
+2853,51069,VIRGINIA,VA,Frederick,March 30,March 30
+2854,51071,VIRGINIA,VA,Giles,March 30,March 30
+2855,51073,VIRGINIA,VA,Gloucester,March 30,March 30
+2856,51075,VIRGINIA,VA,Goochland,March 30,March 30
+2857,51077,VIRGINIA,VA,Grayson,March 30,March 30
+2858,51079,VIRGINIA,VA,Greene,March 30,March 30
+2859,51081,VIRGINIA,VA,Greensville,March 30,March 30
+2860,51083,VIRGINIA,VA,Halifax,March 30,March 30
+2861,51085,VIRGINIA,VA,Hanover,March 30,March 30
+2862,51087,VIRGINIA,VA,Henrico,March 30,March 30
+2863,51089,VIRGINIA,VA,Henry,March 30,March 30
+2864,51091,VIRGINIA,VA,Highland,March 30,March 30
+2865,51093,VIRGINIA,VA,Isle of Wight,March 30,March 30
+2866,51095,VIRGINIA,VA,James City,March 30,March 30
+2867,51097,VIRGINIA,VA,King and Queen,March 30,March 30
+2868,51099,VIRGINIA,VA,King George,March 30,March 30
+2869,51101,VIRGINIA,VA,King William,March 30,March 30
+2870,51103,VIRGINIA,VA,Lancaster,March 30,March 30
+2871,51105,VIRGINIA,VA,Lee,March 30,March 30
+2872,51107,VIRGINIA,VA,Loudoun,March 30,March 30
+2873,51109,VIRGINIA,VA,Louisa,March 30,March 30
+2874,51111,VIRGINIA,VA,Lunenburg,March 30,March 30
+2875,51113,VIRGINIA,VA,Madison,March 30,March 30
+2876,51115,VIRGINIA,VA,Mathews,March 30,March 30
+2877,51117,VIRGINIA,VA,Mecklenburg,March 30,March 30
+2878,51119,VIRGINIA,VA,Middlesex,March 30,March 30
+2879,51121,VIRGINIA,VA,Montgomery,March 30,March 30
+2880,51125,VIRGINIA,VA,Nelson,March 30,March 30
+2881,51127,VIRGINIA,VA,New Kent,March 30,March 30
+2882,51131,VIRGINIA,VA,Northampton,March 30,March 30
+2883,51133,VIRGINIA,VA,Northumberland,March 30,March 30
+2884,51135,VIRGINIA,VA,Nottoway,March 30,March 30
+2885,51137,VIRGINIA,VA,Orange,March 30,March 30
+2886,51139,VIRGINIA,VA,Page,March 30,March 30
+2887,51141,VIRGINIA,VA,Patrick,March 30,March 30
+2888,51143,VIRGINIA,VA,Pittsylvania,March 30,March 30
+2889,51145,VIRGINIA,VA,Powhatan,March 30,March 30
+2890,51147,VIRGINIA,VA,Prince Edward,March 30,March 30
+2891,51149,VIRGINIA,VA,Prince George,March 30,March 30
+2892,51153,VIRGINIA,VA,Prince William,March 30,March 30
+2893,51155,VIRGINIA,VA,Pulaski,March 30,March 30
+2894,51157,VIRGINIA,VA,Rappahannock,March 30,March 30
+2895,51159,VIRGINIA,VA,Richmond,March 30,March 30
+2896,51161,VIRGINIA,VA,Roanoke,March 30,March 30
+2897,51163,VIRGINIA,VA,Rockbridge,March 30,March 30
+2898,51165,VIRGINIA,VA,Rockingham,March 30,March 30
+2899,51167,VIRGINIA,VA,Russell,March 30,March 30
+2900,51169,VIRGINIA,VA,Scott,March 30,March 30
+2901,51171,VIRGINIA,VA,Shenandoah,March 30,March 30
+2902,51173,VIRGINIA,VA,Smyth,March 30,March 30
+2903,51175,VIRGINIA,VA,Southampton,March 30,March 30
+2904,51177,VIRGINIA,VA,Spotsylvania,March 30,March 30
+2905,51179,VIRGINIA,VA,Stafford,March 30,March 30
+2906,51181,VIRGINIA,VA,Surry,March 30,March 30
+2907,51183,VIRGINIA,VA,Sussex,March 30,March 30
+2908,51185,VIRGINIA,VA,Tazewell,March 30,March 30
+2909,51187,VIRGINIA,VA,Warren,March 30,March 30
+2910,51191,VIRGINIA,VA,Washington,March 30,March 30
+2911,51193,VIRGINIA,VA,Westmoreland,March 30,March 30
+2912,51195,VIRGINIA,VA,Wise,March 30,March 30
+2913,51197,VIRGINIA,VA,Wythe,March 30,March 30
+2914,51199,VIRGINIA,VA,York,March 30,March 30
+2915,51510,VIRGINIA,VA,Alexandria City,March 30,March 30
+2916,51520,VIRGINIA,VA,Bristol City,March 30,March 30
+2917,51530,VIRGINIA,VA,Buena Vista City,March 30,March 30
+2918,51540,VIRGINIA,VA,Charlottesville City,March 30,March 30
+2919,51550,VIRGINIA,VA,Chesapeake City,March 30,March 30
+2920,51570,VIRGINIA,VA,Colonial Heights City,March 30,March 30
+2921,51580,VIRGINIA,VA,Covington City,March 30,March 30
+2922,51590,VIRGINIA,VA,Danville City,March 30,March 30
+2923,51595,VIRGINIA,VA,Emporia City,March 30,March 30
+2924,51600,VIRGINIA,VA,Fairfax City,March 30,March 30
+2925,51610,VIRGINIA,VA,Falls Church City,March 30,March 30
+2926,51620,VIRGINIA,VA,Franklin City,March 30,March 30
+2927,51630,VIRGINIA,VA,Fredericksburg City,March 30,March 30
+2928,51640,VIRGINIA,VA,Galax City,March 30,March 30
+2929,51650,VIRGINIA,VA,Hampton City,March 30,March 30
+2930,51660,VIRGINIA,VA,Harrisonburg City,March 30,March 30
+2931,51670,VIRGINIA,VA,Hopewell City,March 30,March 30
+2932,51678,VIRGINIA,VA,Lexington City,March 30,March 30
+2933,51680,VIRGINIA,VA,Lynchburg City,March 30,March 30
+2934,51683,VIRGINIA,VA,Manassas City,March 30,March 30
+2935,51685,VIRGINIA,VA,Manassas Park City,March 30,March 30
+2936,51690,VIRGINIA,VA,Martinsville City,March 30,March 30
+2937,51700,VIRGINIA,VA,Newport News City,March 30,March 30
+2938,51710,VIRGINIA,VA,Norfolk City,March 30,March 30
+2939,51720,VIRGINIA,VA,Norton City,March 30,March 30
+2940,51730,VIRGINIA,VA,Petersburg City,March 30,March 30
+2941,51735,VIRGINIA,VA,Poquoson City,March 30,March 30
+2942,51740,VIRGINIA,VA,Portsmouth City,March 30,March 30
+2943,51750,VIRGINIA,VA,Radford City,March 30,March 30
+2944,51760,VIRGINIA,VA,Richmond City,March 30,March 30
+2945,51770,VIRGINIA,VA,Roanoke City,March 30,March 30
+2946,51775,VIRGINIA,VA,Salem City,March 30,March 30
+2947,51790,VIRGINIA,VA,Staunton City,March 30,March 30
+2948,51800,VIRGINIA,VA,Suffolk City,March 30,March 30
+2949,51810,VIRGINIA,VA,Virginia Beach City,March 30,March 30
+2950,51820,VIRGINIA,VA,Waynesboro City,March 30,March 30
+2951,51830,VIRGINIA,VA,Williamsburg City,March 30,March 30
+2952,51840,VIRGINIA,VA,Winchester City,March 30,March 30
+2953,53001,WASHINGTON,WA,Adams,March 23,March 23
+2954,53003,WASHINGTON,WA,Asotin,March 23,March 23
+2955,53005,WASHINGTON,WA,Benton,March 23,March 23
+2956,53007,WASHINGTON,WA,Chelan,March 23,March 23
+2957,53009,WASHINGTON,WA,Clallam,March 23,March 23
+2958,53011,WASHINGTON,WA,Clark,March 23,March 23
+2959,53013,WASHINGTON,WA,Columbia,March 23,March 23
+2960,53015,WASHINGTON,WA,Cowlitz,March 23,March 23
+2961,53017,WASHINGTON,WA,Douglas,March 23,March 23
+2962,53019,WASHINGTON,WA,Ferry,March 23,March 23
+2963,53021,WASHINGTON,WA,Franklin,March 23,March 23
+2964,53023,WASHINGTON,WA,Garfield,March 23,March 23
+2965,53025,WASHINGTON,WA,Grant,March 23,March 23
+2966,53027,WASHINGTON,WA,Grays Harbor,March 23,March 23
+2967,53029,WASHINGTON,WA,Island,March 23,March 23
+2968,53031,WASHINGTON,WA,Jefferson,March 23,March 23
+2969,53033,WASHINGTON,WA,King,March 23,March 23
+2970,53035,WASHINGTON,WA,Kitsap,March 23,March 23
+2971,53037,WASHINGTON,WA,Kittitas,March 23,March 23
+2972,53039,WASHINGTON,WA,Klickitat,March 23,March 23
+2973,53041,WASHINGTON,WA,Lewis,March 23,March 23
+2974,53043,WASHINGTON,WA,Lincoln,March 23,March 23
+2975,53045,WASHINGTON,WA,Mason,March 23,March 23
+2976,53047,WASHINGTON,WA,Okanogan,March 23,March 23
+2977,53049,WASHINGTON,WA,Pacific,March 23,March 23
+2978,53051,WASHINGTON,WA,Pend Oreille,March 23,March 23
+2979,53053,WASHINGTON,WA,Pierce,March 23,March 23
+2980,53055,WASHINGTON,WA,San Juan,March 23,March 23
+2981,53057,WASHINGTON,WA,Skagit,March 23,March 23
+2982,53059,WASHINGTON,WA,Skamania,March 23,March 23
+2983,53061,WASHINGTON,WA,Snohomish,March 23,March 23
+2984,53063,WASHINGTON,WA,Spokane,March 23,March 23
+2985,53065,WASHINGTON,WA,Stevens,March 23,March 23
+2986,53067,WASHINGTON,WA,Thurston,March 23,March 23
+2987,53069,WASHINGTON,WA,Wahkiakum,March 23,March 23
+2988,53071,WASHINGTON,WA,Walla Walla,March 23,March 23
+2989,53073,WASHINGTON,WA,Whatcom,March 23,March 23
+2990,53075,WASHINGTON,WA,Whitman,March 23,March 23
+2991,53077,WASHINGTON,WA,Yakima,March 23,March 23
+2992,54001,WEST VIRGINIA,WV,Barbour,March 23,March 24
+2993,54003,WEST VIRGINIA,WV,Berkeley,March 23,March 24
+2994,54005,WEST VIRGINIA,WV,Boone,March 23,March 24
+2995,54007,WEST VIRGINIA,WV,Braxton,March 23,March 24
+2996,54009,WEST VIRGINIA,WV,Brooke,March 23,March 24
+2997,54011,WEST VIRGINIA,WV,Cabell,March 23,March 24
+2998,54013,WEST VIRGINIA,WV,Calhoun,March 23,March 24
+2999,54015,WEST VIRGINIA,WV,Clay,March 23,March 24
+3000,54017,WEST VIRGINIA,WV,Doddridge,March 23,March 24
+3001,54019,WEST VIRGINIA,WV,Fayette,March 23,March 24
+3002,54021,WEST VIRGINIA,WV,Gilmer,March 23,March 24
+3003,54023,WEST VIRGINIA,WV,Grant,March 23,March 24
+3004,54025,WEST VIRGINIA,WV,Greenbrier,March 23,March 24
+3005,54027,WEST VIRGINIA,WV,Hampshire,March 23,March 24
+3006,54029,WEST VIRGINIA,WV,Hancock,March 23,March 24
+3007,54031,WEST VIRGINIA,WV,Hardy,March 23,March 24
+3008,54033,WEST VIRGINIA,WV,Harrison,March 23,March 24
+3009,54035,WEST VIRGINIA,WV,Jackson,March 23,March 24
+3010,54037,WEST VIRGINIA,WV,Jefferson,March 23,March 24
+3011,54039,WEST VIRGINIA,WV,Kanawha,March 23,March 24
+3012,54041,WEST VIRGINIA,WV,Lewis,March 23,March 24
+3013,54043,WEST VIRGINIA,WV,Lincoln,March 23,March 24
+3014,54045,WEST VIRGINIA,WV,Logan,March 23,March 24
+3015,54047,WEST VIRGINIA,WV,McDowell,March 23,March 24
+3016,54049,WEST VIRGINIA,WV,Marion,March 23,March 24
+3017,54051,WEST VIRGINIA,WV,Marshall,March 23,March 24
+3018,54053,WEST VIRGINIA,WV,Mason,March 23,March 24
+3019,54055,WEST VIRGINIA,WV,Mercer,March 23,March 24
+3020,54057,WEST VIRGINIA,WV,Mineral,March 23,March 24
+3021,54059,WEST VIRGINIA,WV,Mingo,March 23,March 24
+3022,54061,WEST VIRGINIA,WV,Monongalia,March 23,March 24
+3023,54063,WEST VIRGINIA,WV,Monroe,March 23,March 24
+3024,54065,WEST VIRGINIA,WV,Morgan,March 23,March 24
+3025,54067,WEST VIRGINIA,WV,Nicholas,March 23,March 24
+3026,54069,WEST VIRGINIA,WV,Ohio,March 23,March 24
+3027,54071,WEST VIRGINIA,WV,Pendleton,March 23,March 24
+3028,54073,WEST VIRGINIA,WV,Pleasants,March 23,March 24
+3029,54075,WEST VIRGINIA,WV,Pocahontas,March 23,March 24
+3030,54077,WEST VIRGINIA,WV,Preston,March 23,March 24
+3031,54079,WEST VIRGINIA,WV,Putnam,March 23,March 24
+3032,54081,WEST VIRGINIA,WV,Raleigh,March 23,March 24
+3033,54083,WEST VIRGINIA,WV,Randolph,March 23,March 24
+3034,54085,WEST VIRGINIA,WV,Ritchie,March 23,March 24
+3035,54087,WEST VIRGINIA,WV,Roane,March 23,March 24
+3036,54089,WEST VIRGINIA,WV,Summers,March 23,March 24
+3037,54091,WEST VIRGINIA,WV,Taylor,March 23,March 24
+3038,54093,WEST VIRGINIA,WV,Tucker,March 23,March 24
+3039,54095,WEST VIRGINIA,WV,Tyler,March 23,March 24
+3040,54097,WEST VIRGINIA,WV,Upshur,March 23,March 24
+3041,54099,WEST VIRGINIA,WV,Wayne,March 23,March 24
+3042,54101,WEST VIRGINIA,WV,Webster,March 23,March 24
+3043,54103,WEST VIRGINIA,WV,Wetzel,March 23,March 24
+3044,54105,WEST VIRGINIA,WV,Wirt,March 23,March 24
+3045,54107,WEST VIRGINIA,WV,Wood,March 23,March 24
+3046,54109,WEST VIRGINIA,WV,Wyoming,March 23,March 24
+3047,55001,WISCONSIN,WI,Adams,March 24,March 25
+3048,55003,WISCONSIN,WI,Ashland,March 24,March 25
+3049,55005,WISCONSIN,WI,Barron,March 24,March 25
+3050,55007,WISCONSIN,WI,Bayfield,March 24,March 25
+3051,55009,WISCONSIN,WI,Brown,March 24,March 25
+3052,55011,WISCONSIN,WI,Buffalo,March 24,March 25
+3053,55013,WISCONSIN,WI,Burnett,March 24,March 25
+3054,55015,WISCONSIN,WI,Calumet,March 24,March 25
+3055,55017,WISCONSIN,WI,Chippewa,March 24,March 25
+3056,55019,WISCONSIN,WI,Clark,March 24,March 25
+3057,55021,WISCONSIN,WI,Columbia,March 24,March 25
+3058,55023,WISCONSIN,WI,Crawford,March 24,March 25
+3059,55025,WISCONSIN,WI,Dane,March 24,March 25
+3060,55027,WISCONSIN,WI,Dodge,March 24,March 25
+3061,55029,WISCONSIN,WI,Door,March 24,March 25
+3062,55031,WISCONSIN,WI,Douglas,March 24,March 25
+3063,55033,WISCONSIN,WI,Dunn,March 24,March 25
+3064,55035,WISCONSIN,WI,Eau Claire,March 24,March 25
+3065,55037,WISCONSIN,WI,Florence,March 24,March 25
+3066,55039,WISCONSIN,WI,Fond du Lac,March 24,March 25
+3067,55041,WISCONSIN,WI,Forest,March 24,March 25
+3068,55043,WISCONSIN,WI,Grant,March 24,March 25
+3069,55045,WISCONSIN,WI,Green,March 24,March 25
+3070,55047,WISCONSIN,WI,Green Lake,March 24,March 25
+3071,55049,WISCONSIN,WI,Iowa,March 24,March 25
+3072,55051,WISCONSIN,WI,Iron,March 24,March 25
+3073,55053,WISCONSIN,WI,Jackson,March 24,March 25
+3074,55055,WISCONSIN,WI,Jefferson,March 24,March 25
+3075,55057,WISCONSIN,WI,Juneau,March 24,March 25
+3076,55059,WISCONSIN,WI,Kenosha,March 24,March 25
+3077,55061,WISCONSIN,WI,Kewaunee,March 24,March 25
+3078,55063,WISCONSIN,WI,La Crosse,March 24,March 25
+3079,55065,WISCONSIN,WI,Lafayette,March 24,March 25
+3080,55067,WISCONSIN,WI,Langlade,March 24,March 25
+3081,55069,WISCONSIN,WI,Lincoln,March 24,March 25
+3082,55071,WISCONSIN,WI,Manitowoc,March 24,March 25
+3083,55073,WISCONSIN,WI,Marathon,March 24,March 25
+3084,55075,WISCONSIN,WI,Marinette,March 24,March 25
+3085,55077,WISCONSIN,WI,Marquette,March 24,March 25
+3086,55078,WISCONSIN,WI,Menominee,March 24,March 25
+3087,55079,WISCONSIN,WI,Milwaukee,March 24,March 25
+3088,55081,WISCONSIN,WI,Monroe,March 24,March 25
+3089,55083,WISCONSIN,WI,Oconto,March 24,March 25
+3090,55085,WISCONSIN,WI,Oneida,March 24,March 25
+3091,55087,WISCONSIN,WI,Outagamie,March 24,March 25
+3092,55089,WISCONSIN,WI,Ozaukee,March 24,March 25
+3093,55091,WISCONSIN,WI,Pepin,March 24,March 25
+3094,55093,WISCONSIN,WI,Pierce,March 24,March 25
+3095,55095,WISCONSIN,WI,Polk,March 24,March 25
+3096,55097,WISCONSIN,WI,Portage,March 24,March 25
+3097,55099,WISCONSIN,WI,Price,March 24,March 25
+3098,55101,WISCONSIN,WI,Racine,March 24,March 25
+3099,55103,WISCONSIN,WI,Richland,March 24,March 25
+3100,55105,WISCONSIN,WI,Rock,March 24,March 25
+3101,55107,WISCONSIN,WI,Rusk,March 24,March 25
+3102,55109,WISCONSIN,WI,St. Croix,March 24,March 25
+3103,55111,WISCONSIN,WI,Sauk,March 24,March 25
+3104,55113,WISCONSIN,WI,Sawyer,March 24,March 25
+3105,55115,WISCONSIN,WI,Shawano,March 24,March 25
+3106,55117,WISCONSIN,WI,Sheboygan,March 24,March 25
+3107,55119,WISCONSIN,WI,Taylor,March 24,March 25
+3108,55121,WISCONSIN,WI,Trempealeau,March 24,March 25
+3109,55123,WISCONSIN,WI,Vernon,March 24,March 25
+3110,55125,WISCONSIN,WI,Vilas,March 24,March 25
+3111,55127,WISCONSIN,WI,Walworth,March 24,March 25
+3112,55129,WISCONSIN,WI,Washburn,March 24,March 25
+3113,55131,WISCONSIN,WI,Washington,March 24,March 25
+3114,55133,WISCONSIN,WI,Waukesha,March 24,March 25
+3115,55135,WISCONSIN,WI,Waupaca,March 24,March 25
+3116,55137,WISCONSIN,WI,Waushara,March 24,March 25
+3117,55139,WISCONSIN,WI,Winnebago,March 24,March 25
+3118,55141,WISCONSIN,WI,Wood,March 24,March 25
+3119,56001,WYOMING,WY,Albany,-,-
+3120,56003,WYOMING,WY,Big Horn,-,-
+3121,56005,WYOMING,WY,Campbell,-,-
+3122,56007,WYOMING,WY,Carbon,-,-
+3123,56009,WYOMING,WY,Converse,-,-
+3124,56011,WYOMING,WY,Crook,-,-
+3125,56013,WYOMING,WY,Fremont,-,-
+3126,56015,WYOMING,WY,Goshen,-,-
+3127,56017,WYOMING,WY,Hot Springs,-,-
+3128,56019,WYOMING,WY,Johnson,-,-
+3129,56021,WYOMING,WY,Laramie,-,-
+3130,56023,WYOMING,WY,Lincoln,-,-
+3131,56025,WYOMING,WY,Natrona,-,-
+3132,56027,WYOMING,WY,Niobrara,-,-
+3133,56029,WYOMING,WY,Park,-,-
+3134,56031,WYOMING,WY,Platte,-,-
+3135,56033,WYOMING,WY,Sheridan,-,-
+3136,56035,WYOMING,WY,Sublette,-,-
+3137,56037,WYOMING,WY,Sweetwater,-,-
+3138,56039,WYOMING,WY,Teton,-,-
+3139,56041,WYOMING,WY,Uinta,-,-
+3140,56043,WYOMING,WY,Washakie,-,-
+3141,56045,WYOMING,WY,Weston,-,-
