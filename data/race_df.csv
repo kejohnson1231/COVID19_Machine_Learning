@@ -1,4 +1,4 @@
-FIPS,perc_afr_am,perc_nat_am_as,perc_asian,perc_nh_opi,perc_hisp,perc_nonhisp_white
+FIPS,%_african_american,%_natamer_alaskan,%_asian,%_hawaii_pacisl,%_hisp,%_nonhisp_white
 1001,19.0,0.5,1.1,0.1,2.7,75.0
 1003,9.0,0.8,1.1,0.1,4.4,83.2
 1005,47.5,0.6,0.5,0.2,4.2,46.5
