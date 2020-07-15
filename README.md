@@ -13,7 +13,7 @@ I found the idea for this from a data set shared in the discussion for the COVID
 
 ### Data 
 
-Gathered data by county using CDC, Politico, and various other sites (for shutdown orders) to create my own initial dataset to use.The Original combined sociolhealth dataset had over 400 features, so I knew I had to pare it down and clean it up quite a bit.  
+Initially I gathered data by county using CDC, and Politico to create my own initial dataset to use.The Original combined sociolhealth dataset had over 400 features, so I knew I had to pare it down and clean it up quite a bit.  
 When I was looking through the features I could see that there seemed to be sortable into clear categories. My goal was to make representative selections across those categories of interest and remove duplicative data 
 
 
@@ -59,39 +59,54 @@ I ended up using features from the following categories for US county:
 >>Air pollution   
 >>% Clinton voters  
 >>% Trump voters  
->>Shutdown data  
+ 
  
 ### Plan 
 
-My goal was to create a model that can be used to predict the popularity of Instagram posts. In this first phase of the project, I wanted to determine whether the content of an instagram photo, analyzed with a convolutional neural network, could be used to predict whether a post would receive a certain threshold of engagement (number of likes divided by number of followers). 
+My initial plan was to use the above features, along with my target variable (data from the New York Times) to calculate cummulative deaths divided by cummulative cases per county. I tried this model with a Random Forest Regressor with different feature combinations but the score was always either negative or very small. A linear regression model performed slightly better but not by much, so I decided to see if I could pivot to get a working model. 
+
+So I made some updates:
+
+For features – I pulled data for stay at home orders. So the dates they were announced, effective, lifted or scheduled to be lifted, and also the dates states started to reopen businesses. Used time deltas to featurize this data for the model. I also created some data sets from the johns Hopkins github which has case and death metadata posted daily. I wrote the code to pull from the github so that it would always update with the latest day available. 
+
+For Targets - I used some of the johns Hopkins data to create a new target, which was whether the active number of cases had increased since the day prior. 
+
+Because I changed my target, I was also able to also change my model from a random forest regressor to a random forest classifier 
 
 
+### Analysis and Results
+
+Initially I ran the random forest classifier using just new feature data, to see a baseline for how it performed without any sociohealth data, the accuracy was running around 67%. 
+
+When I added a few of the sociohealth features to the model, based of what I suspected to be most informative (both intuitively and based on feature importance in the first iteration of the model),the accuracy improved by over 10%. I tested with different combinations of features, but the model accuracy mostly stayed pretty close to 78% accuracy (although precision and recall were more variable based on which features I used). 
+
+I also tested how the model would perform if I  threw in all the rest of the sociohealth features from the initial test, and 
+it remained at about 78% accuracy. 
 
 
-### Analysis
+### Additional Takeaways
 
-The first step in my analysis was to try to use a pretrained CNN, but I ran into various issues with applicability. 
+Initial model wasn’t great at predicting the death rate, but that in itself is still informative
 
-Since I couldn’t use fully pre-trained CNN,  and with time constraints I couldn’t build my own from scratch, I decided to use a partially pretrained model. 
+I tried to see if I could improve the model beyond hyperparameter tuning, which wasn’t too consistently effective. Since I had months of time series data from johns Hopkins, I tested adding features for things like whether the previous day had seen an increase in active cases from the day prior to it, or whether there had been any new confirmed cases added for that county during the previous week. None of that data improved the model. 
 
-I took a pretrained model VGG16 which has multiple layers – picking up different aspects of the image. I froze most of the pretrained layers, and then trained the last layers, the dense layers, on my data to see if it could successfully predict which images received higher levels of engagement (like count/follower count > 5%). 
+Third point here is that, I ran gini importance and permutation importance every time I ran my model, the rankings were mostly pretty inconsistent, which seemed to indicate a relatedness or redundancy of the features I was using. As a group they improve the model, but it’s not really necessary to use all of them. 
 
-
-### Results
-
-In this first phase of the project I was able to get consistent predictions at 65% accuracy or greater. 
-
-
-Over time I could train more layers and adjust parameters to improve that, but for now I was satisfied that there seemed to be at least some association between image content and engagement, and that gave me the confidence to keep moving forward on this project in the future
 
 
 ### Future Steps 
 
-In future phases, I would like to:
-  
-> *Create a fully-trained CNN  from scratch,  which would be very time intensive project. See how it compared to the alt text provided by Instagram.  
-> *Take image probabilities, captions parsed with natural language processing, datetime of posts, hashtags, and other captured elements and feed that all into a classification model, to better drill down which features are predictive of an engaging post.   
-> *Create a flask app upload a potential post and it could tell you, based on the model, whether it was expected to meet or surpass an engagement threshold  
+
+
+I like the idea of adding more features to the model to see if it can be improved:
+
+> - I had some data that I had scraped but never included, like broadband access data from the fcc and ehr meaningful use data from Healthit.gov
+> - I also think it would be interesting to see how certain google searches might be predictive of cases  
+> - With telemedicine readiness, prior to covid, telemedicine was only covered in certain regional situations, I think it would be interesting to infer how ready they were to accommodate a switch to telehealth and determine how that affects the model  
+> I theoretically had enough data to determine how far each county was from the closest airport, but I didn’t have the time budget to do that during this week  
+> Weather data was a big part of the data set I used for inspiration, so I'd be curious to see how it could affect themodel
+
+I also think it would be cool to use the time series data to predict the cases for the next day
 
 
 
