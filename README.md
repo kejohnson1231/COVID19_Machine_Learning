@@ -23,8 +23,8 @@ I ended up using features from the following categories for US county:
 >- Prev. hospitalization rate  
 >- Age-adjusted mortality rate  
 >- % adults with diabetes  
->-% obese  
->-% fair/poor health  
+>- % obese  
+>- % fair/poor health  
 
 >**Demographic**  
 >>Population   
@@ -100,8 +100,8 @@ Third point here is that, I ran gini importance and permutation importance every
 
 I like the idea of adding more features to the model to see if it can be improved:
 
--I had some data that I had scraped but never included, like broadband access data from the fcc and ehr meaningful use data from Healthit.gov
--I also think it would be interesting to see how certain google searches might be predictive of cases  
+- I had some data that I had scraped but never included, like broadband access data from the fcc and ehr meaningful use data from Healthit.gov
+- I also think it would be interesting to see how certain google searches might be predictive of cases  
 > - With telemedicine readiness, prior to covid, telemedicine was only covered in certain regional situations, I think it would be interesting to infer how ready they were to accommodate a switch to telehealth and determine how that affects the model  
 > - I theoretically had enough data to determine how far each county was from the closest airport, but I didn’t have the time budget to do that during this week  
 > - Weather data was a big part of the data set I used for inspiration, so I'd be curious to see how it could affect themodel
