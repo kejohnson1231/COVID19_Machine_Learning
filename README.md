@@ -27,38 +27,38 @@ I ended up using features from the following categories for US county:
 >- % fair/poor health  
 
 >**Demographic**  
->>Population   
->>Population density  
->>% each race  
->>% minority  
->>% over 65  
->>% multi-unit housing  
->>% rural  
+>- Population   
+>- Population density  
+>- % each race  
+>- % minority  
+>- % over 65  
+>- % multi-unit housing  
+>- % rural  
  
 >**Access**  
->>PCP rate  
->>Health cost  
->>% insured  
->>% no vehicle  
->>% limited English  
->>% disabled  
+>- PCP rate  
+>- Health cost  
+>- % insured  
+>- % no vehicle  
+>- % limited English  
+>- % disabled  
  
 >**Economic**  
->>Med Household Income  
->>% below poverty line  
->>% overcrowded  
->>% unemployed  
+>- Med Household Income  
+>- % below poverty line  
+>- % overcrowded  
+>- % unemployed  
  
 >**Behavioral**  
->>% smokers  
->>% insufficient sleep  
->>% physically inactive  
+>- % smokers  
+>- % insufficient sleep  
+>- % physically inactive  
   
 >**Other**  
->>Segregation index  
->>Air pollution   
->>% Clinton voters  
->>% Trump voters  
+>- Segregation index  
+>- Air pollution   
+>- % Clinton voters  
+>- % Trump voters  
  
  
 ### Plan 
@@ -102,9 +102,9 @@ I like the idea of adding more features to the model to see if it can be improve
 
 - I had some data that I had scraped but never included, like broadband access data from the fcc and ehr meaningful use data from Healthit.gov
 - I also think it would be interesting to see how certain google searches might be predictive of cases  
-> - With telemedicine readiness, prior to covid, telemedicine was only covered in certain regional situations, I think it would be interesting to infer how ready they were to accommodate a switch to telehealth and determine how that affects the model  
-> - I theoretically had enough data to determine how far each county was from the closest airport, but I didn’t have the time budget to do that during this week  
-> - Weather data was a big part of the data set I used for inspiration, so I'd be curious to see how it could affect themodel
+- With telemedicine readiness, prior to covid, telemedicine was only covered in certain regional situations, I think it would be interesting to infer how ready they were to accommodate a switch to telehealth and determine how that affects the model  
+- I theoretically had enough data to determine how far each county was from the closest airport, but I didn’t have the time budget to do that during this week  
+- Weather data was a big part of the data set I used for inspiration, so I'd be curious to see how it could affect themodel
 
 I also think it would be cool to use the time series data to predict the cases for the next day
 
