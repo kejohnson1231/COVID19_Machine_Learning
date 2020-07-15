@@ -19,47 +19,47 @@ When I was looking through the features I could see that there seemed to be sort
 
 
 I ended up using features from the following categories for US county: 
->Health  
-*Prev. hospitalization rate
-*Age-adjusted mortality rate
-*% adults with diabetes
-*% obese
-*% fair/poor health
+>**Health**  
+>>Prev. hospitalization rate  
+>>Age-adjusted mortality rate  
+>>*% adults with diabetes  
+>>% obese  
+>>% fair/poor health  
 
->Demographic
-*Population 
-*Population density
-*% each race
-*% minority
-*% over 65
-*% multi-unit housing
-*% rural
-
->Access
-*PCP rate
-*Health cost
-*% insured
-*% no vehicle
-*% limited English
-*% disabled
-
-Economic
-Med Household Income
-% below poverty line
-% overcrowded
-% unemployed
-
-Behavioral
-% smokers
-% insufficient sleep
-% physically inactive
-
-Other
-Segregation index
-Air pollution
-% Clinton voters
-% Trump voters
-Shutdown data
+>**Demographic**  
+>>Population   
+>>Population density  
+>>% each race  
+>>% minority  
+>>% over 65  
+>>% multi-unit housing  
+>>% rural  
+ 
+>**Access**  
+>>PCP rate  
+>>Health cost  
+>>% insured  
+>>% no vehicle  
+>>% limited English  
+>>% disabled  
+ 
+>**Economic**  
+>>Med Household Income  
+>>% below poverty line  
+>>% overcrowded  
+>>% unemployed  
+ 
+>**Behavioral**  
+>>% smokers  
+>>% insufficient sleep  
+>>% physically inactive  
+  
+>**Other**  
+>>Segregation index  
+>>Air pollution   
+>>% Clinton voters  
+>>% Trump voters  
+>>Shutdown data  
  
 ### Plan 
 
